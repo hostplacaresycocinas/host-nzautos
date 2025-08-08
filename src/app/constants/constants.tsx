@@ -5,24 +5,24 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'carclassmultimarca',
-  name: 'Carclass Multimarca',
-  adress: 'Av. Nazca 2381',
-  city: 'CABA',
-  email: 'carclassmultimarca@gmail.com',
-  instagram: 'carclass.multimarca',
-  facebook: 'https://www.facebook.com/40Veinte/',
-  whatsapp: ['1133604677'],
-  googlemapsLink: 'https://maps.app.goo.gl/7MrApBS7C3eidfLo6',
+  id: 'trepatusados',
+  name: 'Trepat Usados',
+  adress: 'Av. Libertador 480',
+  city: 'Vicente López',
+  email: 'info@sergiotrepat.com.ar',
+  instagram: 'trepat_usados',
+  facebook: null,
+  whatsapp: ['1158652313'],
+  googlemapsLink: 'https://maps.app.goo.gl/1VEv7wSU4LH1PKjj9',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.8474949894794!2d-58.48420681824813!3d-34.60801769418156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc901c59019c9%3A0xf6532294fbb74dc!2sCarclass%20Multimarca!5e0!3m2!1sen!2sar!4v1754564886098!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52582.851502564234!2d-58.5104983!3d-34.5427117!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb792619a2faf%3A0xd57144bd33c3c5b6!2sTrepat%20usados!5e0!3m2!1sen!2sar!4v1754608475799!5m2!1sen!2sar',
   openDays: [
-    { day: 'Lunes', hours: ['10:00 a 18:30hs'] },
-    { day: 'Martes', hours: ['10:00 a 18:30hs'] },
-    { day: 'Miércoles', hours: ['10:00 a 18:30hs'] },
-    { day: 'Jueves', hours: ['10:00 a 18:30hs'] },
-    { day: 'Viernes', hours: ['10:00 a 18:30hs'] },
-    { day: 'Sábado', hours: ['10:00 a 14:00hs'] },
+    { day: 'Lunes', hours: ['09:00 a 19:00hs'] },
+    { day: 'Martes', hours: ['09:00 a 19:00hs'] },
+    { day: 'Miércoles', hours: ['09:00 a 19:00hs'] },
+    { day: 'Jueves', hours: ['09:00 a 19:00hs'] },
+    { day: 'Viernes', hours: ['09:00 a 19:00hs'] },
+    { day: 'Sábado', hours: ['09:30 a 13:00hs'] },
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -33,8 +33,8 @@ export const API_BASE_URL = 'https://dealership.agenciagrvity.com';
 export const TENANT = 'accotto-automotores';
 
 export const metadataCompany = {
-  metadataBase: 'https://carclassmultimarca.vercel.app/',
-  title: 'Carclass Multimarca - Compra y Venta de Autos',
+  metadataBase: 'https://trepatusados.vercel.app/',
+  title: 'Trepat Usados - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };

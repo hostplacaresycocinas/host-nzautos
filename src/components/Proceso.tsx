@@ -113,7 +113,7 @@ const Proceso = () => {
                 alt='Auto destacado'
                 width={608}
                 height={480}
-                className='object-cover aspect-[4/3] w-[300px] sm:w-[350px] md:w-[400px] lg:w-[460px] xl:w-[500px] rounded-lg md:rounded-xl'
+                className='object-cover aspect-[4/3] w-[300px] sm:w-[350px] md:w-[400px] lg:w-[460px] xl:w-[500px] rounded-lg md:rounded-xl border border-neutral-600'
                 priority
               />
             </div>

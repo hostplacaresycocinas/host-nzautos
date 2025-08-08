@@ -78,7 +78,7 @@ const Gallery = () => {
                 key={idx}
                 className='flex-[0_0_75%] sm:flex-[0_0_65%] md:flex-[0_0_60%] lg:flex-[0_0_65%] mr-3 sm:mr-5 md:mr-8 lg:mr-10'
               >
-                <div className='relative w-full rounded-lg md:rounded-xl overflow-hidden'>
+                <div className='relative w-full rounded-lg md:rounded-xl overflow-hidden border border-neutral-600'>
                   <Image
                     src={img.src}
                     alt={img.alt}

@@ -41,7 +41,7 @@ const NosotrosPage = () => {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.3 }}
-            className='w-full max-w-md xl:max-w-lg overflow-hidden [box-shadow:0px_0px_19px_5px_rgba(0,0,0,0.15)] rounded-xl mb-6 md:mb-0 '
+            className='w-full max-w-md xl:max-w-lg overflow-hidden [box-shadow:0px_0px_19px_5px_rgba(0,0,0,0.15)] rounded-xl mb-6 md:mb-0 border border-neutral-600'
           >
             <Image
               src='/assets/nosotros/nosotros-1.webp'

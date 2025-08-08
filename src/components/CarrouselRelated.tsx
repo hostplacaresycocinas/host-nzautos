@@ -86,7 +86,8 @@ const CarrouselRelated = ({ title, currentCarId }: CarrouselRelatedProps) => {
 
         // Obtener todos los autos excepto el actual
         const autosDisponibles = data.cars.filter(
-          (auto) => auto.id !== currentCarId
+          (auto) =>
+            auto.id !== currentCarId && auto.images && auto.images.length > 0 // Filtrar vehículos sin imágenes
         );
 
         // Mezclar aleatoriamente y tomar máximo 10
@@ -148,7 +149,7 @@ const CarrouselRelated = ({ title, currentCarId }: CarrouselRelatedProps) => {
 
   if (cargando) {
     return (
-      <section className='flex justify-center w-full bg-color-bg-primary'>
+      <section className='flex justify-center w-full'>
         <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
           <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
             <div className='h-10 w-1 bg-color-primary mr-4'></div>
@@ -166,7 +167,7 @@ const CarrouselRelated = ({ title, currentCarId }: CarrouselRelatedProps) => {
 
   if (error) {
     return (
-      <section className='flex justify-center w-full bg-color-bg-primary'>
+      <section className='flex justify-center w-full'>
         <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
           <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
             <div className='h-10 w-1 bg-color-primary mr-4'></div>
@@ -182,7 +183,7 @@ const CarrouselRelated = ({ title, currentCarId }: CarrouselRelatedProps) => {
 
   if (relatedCars.length === 0) {
     return (
-      <section className='flex justify-center w-full bg-color-bg-primary'>
+      <section className='flex justify-center w-full'>
         <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
           <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
             <div className='h-10 w-1 bg-color-primary mr-4'></div>
@@ -199,7 +200,7 @@ const CarrouselRelated = ({ title, currentCarId }: CarrouselRelatedProps) => {
   }
 
   return (
-    <section className='flex justify-center w-full bg-color-bg-primary'>
+    <section className='flex justify-center w-full'>
       <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
         <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
           <div className='h-10 w-1 bg-color-primary mr-4'></div>
@@ -232,7 +233,7 @@ const CarrouselRelated = ({ title, currentCarId }: CarrouselRelatedProps) => {
                   )}
 
                   {/* Contenedor de la imagen */}
-                  <div className='relative overflow-hidden aspect-[4/3] rounded-xl group'>
+                  <div className='relative overflow-hidden aspect-[4/3] rounded-xl group border border-neutral-600'>
                     <motion.div
                       initial={{ opacity: 0 }}
                       animate={{ opacity: 1 }}

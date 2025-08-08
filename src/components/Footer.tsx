@@ -16,11 +16,7 @@ const Footer = () => {
     <div className='relative'>
       <footer
         id='contactoSection'
-        className={`flex justify-center pt-10 shadow-top-lg relative font-medium ${
-          company.darkmode
-            ? 'bg-color-bg-secondary-dark'
-            : 'bg-color-bg-primary'
-        } `}
+        className={`flex justify-center pt-10 shadow-top-lg relative font-medium`}
         style={{ boxShadow: '0 -4px 6px rgba(0, 0, 0, 0.1)' }}
       >
         <div className='flex flex-col items-center w-full relative z-10'>
@@ -38,7 +34,7 @@ const Footer = () => {
                     />
                   </div>
                 ) : (
-                  <div className='w-56 sm:w-56 md:w-64 lg:w-72 h-14 md:h-16'>
+                  <div className='w-52 sm:w-52 md:w-56 lg:w-64 h-14 md:h-16'>
                     <Image
                       className='w-full h-full object-contain object-left'
                       src='/assets/company/logo.webp'

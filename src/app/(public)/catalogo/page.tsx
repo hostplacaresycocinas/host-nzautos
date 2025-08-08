@@ -143,6 +143,11 @@ const CatalogoPage = () => {
         );
       }
 
+      // Filtrar vehículos que no tengan imágenes
+      filteredCars = filteredCars.filter(
+        (car) => car.images && car.images.length > 0
+      );
+
       // Calcular paginación
       const total = filteredCars.length;
       const totalPages = Math.ceil(total / ITEMS_PER_PAGE);
@@ -621,7 +626,7 @@ const CatalogoPage = () => {
                           )}
 
                           {/* Contenedor de la imagen */}
-                          <div className='relative overflow-hidden aspect-[4/3] rounded-xl group'>
+                          <div className='relative overflow-hidden aspect-[4/3] rounded-xl group border border-neutral-600'>
                             <motion.div
                               initial={{ opacity: 0 }}
                               animate={{ opacity: 1 }}
@@ -692,7 +697,7 @@ const CatalogoPage = () => {
                                   company.dark
                                     ? 'group-hover:text-color-primary'
                                     : 'group-hover:text-color-primary'
-                                } text-color-title-light text-lg md:text-xl font-bold tracking-tight truncate md:mb-1 transition-colors duration-300`}
+                                } text-color-title-light text-lg md:text-xl font-semibold tracking-tight truncate md:mb-1 transition-colors duration-300`}
                               >
                                 {car.model}
                               </h3>
@@ -700,7 +705,7 @@ const CatalogoPage = () => {
                               <div
                                 className={`${
                                   company.price ? '' : 'hidden'
-                                } text-color-primary text-lg md:text-xl font-bold tracking-tight truncate md:mb-1 transition-colors duration-300`}
+                                } text-color-primary text-lg md:text-xl font-semibold tracking-tight truncate md:mb-1 transition-colors duration-300`}
                               >
                                 {car.price.moneda === 'ARS' ? '$' : 'US$'}
                                 {car.price.valor.toLocaleString('es-ES')}
@@ -748,7 +753,7 @@ const CatalogoPage = () => {
                                     company.dark
                                       ? 'text-color-primary-light'
                                       : 'text-color-primary-light'
-                                  } inline-flex items-center  transition-colors font-semibold`}
+                                  } inline-flex items-center  transition-colors font-medium`}
                                 >
                                   Ver más
                                   <span className='inline-block transform translate-x-0 group-hover:translate-x-1 transition-transform duration-300 ml-1'>

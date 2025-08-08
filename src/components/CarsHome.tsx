@@ -68,6 +68,7 @@ const CarsHome = ({ title }: CarsHomeProps) => {
       setLoading(true);
       try {
         const vehiculosProcesados = data.cars
+          .filter((auto) => auto.images && auto.images.length > 0) // Filtrar vehículos sin imágenes
           .slice(0, 6) // Máximo 6 vehículos
           .map((auto) => ({
             id: auto.id,
@@ -122,11 +123,11 @@ const CarsHome = ({ title }: CarsHomeProps) => {
 
   if (loading) {
     return (
-      <section className='flex justify-center w-full bg-color-bg-primary'>
+      <section className='flex justify-center w-full'>
         <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
           <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
             <div className='h-10 w-1 bg-color-primary mr-4'></div>
-            <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide'>
+            <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide font-semibold'>
               {title}
             </h3>
           </div>
@@ -140,11 +141,11 @@ const CarsHome = ({ title }: CarsHomeProps) => {
 
   if (error) {
     return (
-      <section className='flex justify-center w-full bg-color-bg-primary'>
+      <section className='flex justify-center w-full'>
         <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
           <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
             <div className='h-10 w-1 bg-color-primary mr-4'></div>
-            <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide'>
+            <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide font-semibold'>
               {title}
             </h3>
           </div>
@@ -156,11 +157,11 @@ const CarsHome = ({ title }: CarsHomeProps) => {
 
   if (vehiculos.length === 0) {
     return (
-      <section className='flex justify-center w-full bg-color-bg-primary'>
+      <section className='flex justify-center w-full'>
         <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
           <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
             <div className='h-10 w-1 bg-color-primary mr-4'></div>
-            <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide'>
+            <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide font-semibold'>
               {title}
             </h3>
           </div>
@@ -173,11 +174,11 @@ const CarsHome = ({ title }: CarsHomeProps) => {
   }
 
   return (
-    <section className='flex justify-center w-full bg-color-bg-primary'>
+    <section className='flex justify-center w-full'>
       <div className='max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10 overflow-hidden'>
         <div className='flex items-center mb-4 md:mb-6 lg:mb-8'>
           <div className='h-10 w-1 bg-color-primary mr-4'></div>
-          <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide'>
+          <h3 className='text-2xl sm:text-3xl text-color-title-light tracking-wide font-semibold'>
             {title}
           </h3>
         </div>
@@ -207,7 +208,7 @@ const CarsHome = ({ title }: CarsHomeProps) => {
                   )}
 
                   {/* Contenedor de la imagen */}
-                  <div className='relative overflow-hidden aspect-[4/3] rounded-xl group'>
+                  <div className='relative overflow-hidden aspect-[4/3] rounded-lg group border border-neutral-600'>
                     <motion.div
                       initial={{ opacity: 0 }}
                       animate={{ opacity: 1 }}
@@ -276,7 +277,7 @@ const CarsHome = ({ title }: CarsHomeProps) => {
                           company.dark
                             ? 'group-hover:text-color-primary'
                             : 'group-hover:text-color-primary'
-                        } text-color-title-light text-lg md:text-xl font-bold tracking-tight truncate md:mb-1 transition-colors duration-300`}
+                        } text-color-title-light text-lg md:text-xl font-semibold tracking-tight truncate md:mb-1 transition-colors duration-300`}
                       >
                         {auto.model}
                       </h3>
@@ -284,7 +285,7 @@ const CarsHome = ({ title }: CarsHomeProps) => {
                       <div
                         className={`${
                           company.price ? '' : 'hidden'
-                        } text-color-primary text-lg md:text-xl font-bold tracking-tight truncate md:mb-1 transition-colors duration-300`}
+                        } text-color-primary text-lg md:text-xl font-semibold tracking-tight truncate md:mb-1 transition-colors duration-300`}
                       >
                         {auto.price.moneda === 'ARS' ? '$' : 'US$'}
                         {auto.price.valor.toLocaleString('es-ES')}
@@ -326,7 +327,7 @@ const CarsHome = ({ title }: CarsHomeProps) => {
                             company.dark
                               ? 'text-color-primary-light'
                               : 'text-color-primary-light'
-                          } inline-flex items-center  transition-colors font-semibold`}
+                          } inline-flex items-center  transition-colors font-medium`}
                         >
                           Ver más
                           <span className='inline-block transform translate-x-0 group-hover:translate-x-1 transition-transform duration-300 ml-1'>

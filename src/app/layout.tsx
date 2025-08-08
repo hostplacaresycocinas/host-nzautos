@@ -1,10 +1,16 @@
 import type { Metadata } from 'next';
-import { Manrope } from 'next/font/google';
+import { Anton, Archivo } from 'next/font/google';
 import './globals.css';
 import { metadataCompany } from './constants/constants';
 import { ScrollToTopProvider } from '../components/ScrollToTopProvider';
 
-const manrope = Manrope({ subsets: ['latin'], variable: '--font-manrope' });
+const archivo = Archivo({ subsets: ['latin'], variable: '--font-archivo' });
+
+const anton = Anton({
+  subsets: ['latin'],
+  variable: '--font-anton',
+  weight: ['400'],
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL(metadataCompany.metadataBase),
@@ -20,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang='es'>
       <body
-        className={`${manrope.variable} font-manrope font bg-color-bg-primary text-color-text antialiased`}
+        className={`${archivo.variable} ${anton.variable} font-archivo font-anton bg-color-bg-primary text-color-text antialiased`}
       >
         <ScrollToTopProvider />
         {children}

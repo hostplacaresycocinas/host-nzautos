@@ -13,7 +13,16 @@ export default function PublicLayout({
   children: React.ReactNode;
 }) {
   return (
-    <>
+    <div
+      className='min-h-screen w-full'
+      style={{
+        backgroundImage: 'url(/assets/inicio/background.jpg)',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat',
+        backgroundAttachment: 'fixed',
+      }}
+    >
       {company.whatsapp && (
         <a
           href={`https://api.whatsapp.com/send?phone=549${company.whatsapp[0]}&text=Hola! Quería hacer una consulta`}
@@ -32,6 +41,6 @@ export default function PublicLayout({
         </a>
       )}
       {children}
-    </>
+    </div>
   );
 }

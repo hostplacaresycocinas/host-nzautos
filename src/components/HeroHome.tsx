@@ -22,15 +22,15 @@ const HeroHome = () => {
             {/* Máscara inferior para desvanecimiento sutil */}
             <div className='absolute bottom-0 left-0 w-full h-5 bg-gradient-to-t from-color-bg-secondary-dark via-color-bg-secondary-dark/60 to-transparent -z-10'></div>
 
-            <div className='flex flex-col items-center mb-1'>
-              <div className='md:gap-3 text-nowrap'>
+            <div className='font-anton tracking-wider flex flex-col md:gap-1 lg:gap-1.5 items-center mb-1'>
+              <div className='md:gap-3 text-nowrap '>
                 <motion.h2
                   initial={{ opacity: 0, y: 30 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5 }}
-                  className='text-[28px] sm:text-4xl md:text-4xl lg:text-5xl xl:text-7xl font-semibold bg-gradient-to-r from-white to-neutral-300 bg-clip-text text-transparent'
+                  className='tracking-[0.06em] text-[28px] sm:text-4xl md:text-4xl lg:text-5xl xl:text-7xl bg-gradient-to-r from-white to-neutral-300 bg-clip-text text-transparent'
                 >
-                  Vehículos Seleccionados,
+                  Concesionaria Multimarca
                 </motion.h2>
               </div>
               <div className='md:gap-3 text-nowrap lg:mb-1'>
@@ -38,9 +38,9 @@ const HeroHome = () => {
                   initial={{ opacity: 0, y: 30 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5, delay: 0.1 }}
-                  className='text-[28px] sm:text-4xl md:text-4xl lg:text-5xl xl:text-7xl font-semibold bg-gradient-to-r from-white to-neutral-300 bg-clip-text text-transparent'
+                  className='tracking-[0.06em] text-[28px] sm:text-4xl md:text-4xl lg:text-5xl xl:text-7xl bg-gradient-to-r from-white to-neutral-300 bg-clip-text text-transparent'
                 >
-                  Usados y 0km
+                  Usados Premium
                 </motion.h2>
               </div>
             </div>
@@ -50,8 +50,8 @@ const HeroHome = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className='text-lg lg:text-xl xl:text-2xl text-center text-color-text-light mx-4 max-w-md sm:max-w-md lg:max-w-lg xl:max-w-2xl'
             >
-              Concesionaria multimarca. Vehículos seleccionados, precios
-              competitivos y atención profesional. ¡Contactanos!
+              Vehículos seleccionados, precios competitivos y atención
+              profesional. ¡Esperamos tu consulta!
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 30 }}

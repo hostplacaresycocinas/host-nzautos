@@ -313,7 +313,7 @@ export default function AutoDetailPage() {
                             setModalStartIndex(index);
                             setShowModal(true);
                           }}
-                          className='relative w-full h-full overflow-hidden group bg-color-bg-secondary cursor-zoom-in'
+                          className='relative w-full h-full overflow-hidden group bg-color-bg-secondary cursor-zoom-in border border-neutral-600'
                         >
                           <motion.div
                             initial={{ opacity: 0 }}
@@ -374,7 +374,7 @@ export default function AutoDetailPage() {
                             setShowModal(true);
                           }
                         }}
-                        className={`relative aspect-[4/3] rounded-lg overflow-hidden outline-none transition-all bg-color-bg-secondary cursor-zoom-in group ${
+                        className={`relative aspect-[4/3] rounded-lg overflow-hidden outline-none transition-all bg-color-bg-secondary cursor-zoom-in group border border-neutral-600 ${
                           selectedIndex === actualIndex ? '' : ''
                         }`}
                       >
@@ -400,7 +400,7 @@ export default function AutoDetailPage() {
                         </motion.div>
 
                         {/* Overlay de sombra al hacer hover */}
-                        <div className='absolute inset-0 bg-black/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300'></div>
+                        <div className='absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300'></div>
 
                         {/* Overlay con contador en la última miniatura si hay más imágenes */}
                         {shouldShowBlur && (
