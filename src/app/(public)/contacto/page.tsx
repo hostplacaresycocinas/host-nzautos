@@ -1,10 +1,7 @@
 'use client';
 
 import { company, sedes } from '@/app/constants/constants';
-import ClockIcon from '@/components/icons/ClockIcon';
 import LocationIcon from '@/components/icons/LocationIcon';
-import InstagramIcon from '@/components/icons/InstagramIcon';
-import WhatsappFillIcon from '@/components/icons/WhatsappFillIcon';
 
 import { motion } from 'framer-motion';
 import Header from '@/components/Header';

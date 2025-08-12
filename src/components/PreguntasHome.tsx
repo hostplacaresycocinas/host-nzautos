@@ -3,7 +3,6 @@
 import { preguntas } from '@/app/constants/constants';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { company } from '@/app/constants/constants';
 
 const PreguntasHome = () => {
   const [activeAnswer, setActiveAnswer] = useState<string | null>('preg-1');
