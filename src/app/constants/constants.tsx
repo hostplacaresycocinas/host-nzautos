@@ -23,6 +23,13 @@ export const company = {
 export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
+export const metadataCompany = {
+  metadataBase: 'https://carant.vercel.app/',
+  title: 'CAR.ANT - Compra y Venta de Autos',
+  description:
+    'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
+};
+
 export const sedes = [
   {
     id: 1,
@@ -47,13 +54,6 @@ export const sedes = [
     image: 'sede-2.webp',
   },
 ];
-
-export const metadataCompany = {
-  metadataBase: 'https://trepatusados.vercel.app/',
-  title: 'Trepat Usados - Compra y Venta de Autos',
-  description:
-    'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
-};
 
 // Cambie el archivo data.json, necesito que actualices la informacion de catalogo.json. Las images tomalas de images de data.json, la descripcion tomala de caption de data.json, pero necesito que el texto este parseado, que no este todo junto sin espacios y saltos de linea. En name pone la marca y el modelo del vehiculo en title case, marca, marcaId todo esto acorde a la informacion de caption. Si en caption no se dice kilometraje o precio pone 999999, categoria estimala para el vehiculo (categorias tipicas de vehiculos en argentina. como utilitario, deportivo, suv, hatchback, etc). Transmision, motor, combustible y puertas estimalas acorde al vehiculo. La cantidad de vehiculos tiene que ser la de data.json, si en catalogo.json hay otros vehiculos removelos, los vehiclos de catalogo json tienen que ser los mismos que en data.json. No hagas un script, simplemente actualizalo con ia.
 
