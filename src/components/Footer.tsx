@@ -9,7 +9,6 @@ import FacebookIcon from './icons/FacebookIcon';
 import WhatsappIcon from './icons/WhatsappIcon';
 
 import Link from 'next/link';
-import GravityLogo from './icons/GravityLogo';
 import OnlymotorsLogo from './icons/OnlymotorsLogo';
 
 const Footer = () => {

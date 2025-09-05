@@ -87,10 +87,10 @@ const NosotrosPage = () => {
                   calidad a cada uno de nuestros clientes.
                 </p>
                 <p>
-                  Con más de 45 años de experiencia en el mercado automotriz
-                  desde 1978, nos hemos consolidado como una empresa confiable
-                  que prioriza la satisfacción del cliente, ofreciendo una
-                  amplia variedad de vehículos con opciones de financiamiento.
+                  Con años de experiencia en el mercado automotriz, nos hemos
+                  consolidado como una empresa confiable que prioriza la
+                  satisfacción del cliente, ofreciendo una amplia variedad de
+                  vehículos con opciones de financiamiento.
                 </p>
               </div>
             </motion.div>
