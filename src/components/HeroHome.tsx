@@ -50,8 +50,8 @@ const HeroHome = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className='text-lg lg:text-xl xl:text-2xl text-center text-color-text-light mx-4 max-w-md sm:max-w-md lg:max-w-lg xl:max-w-2xl'
             >
-              Vehículos seleccionados, precios competitivos y atención
-              profesional. ¡Esperamos tu consulta!
+              Con más de 45 años de experiencia desde 1978, ofrecemos vehículos
+              seleccionados y atención profesional
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 30 }}

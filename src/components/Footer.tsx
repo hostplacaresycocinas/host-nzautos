@@ -10,6 +10,7 @@ import WhatsappIcon from './icons/WhatsappIcon';
 
 import Link from 'next/link';
 import GravityLogo from './icons/GravityLogo';
+import OnlymotorsLogo from './icons/OnlymotorsLogo';
 
 const Footer = () => {
   return (
@@ -257,7 +258,7 @@ const Footer = () => {
                 <span>-</span>
                 <span>{company.name}</span>
               </div>
-              <div className='flex items-center gap-2'>
+              <div className='flex items-center gap-1.5'>
                 <span
                   className={`${
                     company.darkmode
@@ -268,16 +269,14 @@ const Footer = () => {
                   Desarrollado por:
                 </span>
                 <a
-                  href='https://www.agenciagravity.com/'
+                  href='https://www.onlymotors.com.ar/'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  <GravityLogo
-                    className={`w-20 md:w-24 ${
-                      company.darkmode
-                        ? 'text-white hover:text-[#D1FA2D]'
-                        : 'text-black hover:text-black/70'
-                    } transition-colors`}
+                  <OnlymotorsLogo
+                    className='w-24 md:w-28 hover:opacity-80 transition-opacity duration-300'
+                    gradientStart='#ffffff'
+                    gradientEnd='#A1A1A1'
                   />
                 </a>
               </div>

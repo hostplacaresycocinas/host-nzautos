@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { Suspense, useEffect, useState } from 'react';
-import { API_BASE_URL, company, TENANT } from '@/app/constants/constants';
+import { company } from '@/app/constants/constants';
 import ArrowIcon from '@/components/icons/ArrowIcon';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
@@ -18,6 +18,7 @@ import {
 import CloseIcon from '@/components/icons/CloseIcon';
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
+import data from '@/data/data.json';
 
 interface Imagen {
   thumbnailUrl: string;
@@ -36,7 +37,7 @@ interface ApiCar {
   year: number;
   color: string;
   price: number;
-  currency: 'USD' | 'ARS';
+  currency: string;
   description: string;
   categoryId: string;
   mileage: number;
@@ -77,81 +78,84 @@ const CatalogoPage = () => {
   const [todasLasMarcas, setTodasLasMarcas] = useState<string[]>([]);
   const [categorias, setCategorias] = useState<Category[]>([]);
 
-  // Función para obtener todas las marcas disponibles
-  const fetchMarcas = async () => {
+  // Función para obtener todas las marcas disponibles desde data.json
+  const fetchMarcas = () => {
     try {
-      const response = await fetch(
-        `${API_BASE_URL}/api/cars/brands?tenant=${TENANT}`
-      );
-      if (!response.ok) {
-        throw new Error(`Error ${response.status}: ${response.statusText}`);
-      }
-      const data = await response.json();
-      const marcas = data.map((brand: string) => brand).sort();
+      const marcas = Array.from(
+        new Set(data.cars.map((car) => car.brand))
+      ).sort();
       setTodasLasMarcas(marcas);
     } catch (error) {
       console.error('Error al cargar las marcas:', error);
     }
   };
 
-  // Función para obtener las categorías
-  const fetchCategories = async () => {
+  // Función para obtener las categorías desde data.json
+  const fetchCategories = () => {
     try {
-      const response = await fetch(
-        `${API_BASE_URL}/api/categories?tenant=${TENANT}`
-      );
-      if (!response.ok) {
-        throw new Error(`Error ${response.status}: ${response.statusText}`);
-      }
-      const data = await response.json();
-      const categoriasProcesadas = data.map(
-        (category: { id?: string; name: string }) => ({
-          id: category.id || category.name.toLowerCase(),
-          name:
-            category.name.charAt(0).toUpperCase() +
-            category.name.slice(1).toLowerCase(),
-        })
-      );
+      const categoriasUnicas = data.cars.reduce((acc: Category[], car) => {
+        const categoria = car.Category;
+        if (!acc.find((cat) => cat.id === categoria.id)) {
+          acc.push(categoria);
+        }
+        return acc;
+      }, []);
+
+      const categoriasProcesadas = categoriasUnicas.map((category) => ({
+        id: category.id,
+        name:
+          category.name.charAt(0).toUpperCase() +
+          category.name.slice(1).toLowerCase(),
+      }));
+
       setCategorias(categoriasProcesadas);
     } catch (error) {
       console.error('Error al cargar las categorías:', error);
     }
   };
 
-  // Función para obtener los autos con filtros
-  const fetchCars = async (
+  // Función para obtener los autos con filtros desde data.json
+  const fetchCars = (
     page: number,
     filters?: { search?: string; marca?: string; categoria?: string }
   ) => {
     setLoading(true);
     try {
-      // Construir query parameters
-      const params = new URLSearchParams();
-      params.append('tenant', TENANT);
-      params.append('page', page.toString());
-      params.append('limit', ITEMS_PER_PAGE.toString());
+      let filteredCars = [...data.cars];
 
-      // Agregar filtros si existen
+      // Aplicar filtros
       if (filters?.search) {
-        params.append('search', filters.search);
+        const searchTerm = filters.search.toLowerCase();
+        filteredCars = filteredCars.filter(
+          (car) =>
+            car.mlTitle?.toLowerCase().includes(searchTerm) ||
+            car.brand?.toLowerCase().includes(searchTerm) ||
+            car.model?.toLowerCase().includes(searchTerm)
+        );
       }
+
       if (filters?.marca) {
-        params.append('brand', filters.marca);
+        filteredCars = filteredCars.filter(
+          (car) => car.brand === filters.marca
+        );
       }
+
       if (filters?.categoria) {
-        params.append('category', filters.categoria);
+        filteredCars = filteredCars.filter(
+          (car) =>
+            car.Category.name.toLowerCase() === filters.categoria?.toLowerCase()
+        );
       }
 
-      const response = await fetch(
-        `${API_BASE_URL}/api/cars?${params.toString()}`
-      );
-      if (!response.ok) {
-        throw new Error(`Error ${response.status}: ${response.statusText}`);
-      }
-      const data = await response.json();
+      // Calcular paginación
+      const totalItems = filteredCars.length;
+      const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
+      const startIndex = (page - 1) * ITEMS_PER_PAGE;
+      const endIndex = startIndex + ITEMS_PER_PAGE;
+      const paginatedCars = filteredCars.slice(startIndex, endIndex);
 
-      setCars(data.cars || []);
-      setTotalPages(data.totalPages || 1);
+      setCars(paginatedCars as ApiCar[]);
+      setTotalPages(totalPages);
     } catch (error) {
       console.error('Error al cargar los vehículos:', error);
     } finally {

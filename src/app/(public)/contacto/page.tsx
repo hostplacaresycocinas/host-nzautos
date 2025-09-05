@@ -13,31 +13,42 @@ const ContactoPage = () => {
     <div className='min-h-screen bg-color-bg-primary'>
       <Header />
 
-      <div className='py-8 md:py-14 lg:py-16'>
-        {/* Hero Section */}
-        <section className='flex flex-col items-center w-full'>
-          <div className='text-center mb-3 sm:mb-4 md:mb-5 lg:mb-10'>
-            <motion.h2
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
-              className='text-2xl md:text-3xl lg:text-4xl font-extrabold bg-gradient-to-r from-white to-neutral-300 bg-clip-text text-transparent mb-2'
-            >
-              Visitanos
-            </motion.h2>
-            <motion.p
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: 0.2 }}
-              className='text-color-text-light max-w-sm sm:max-w-lg lg:max-w-2xl mx-auto md:text-lg font-medium px-4'
-            >
-              Conoce nuestras sedes estratégicamente ubicadas para brindarte el
-              mejor servicio y atención personalizada en la compra de tu auto
-              usado.
-            </motion.p>
-          </div>
-        </section>
+      {/* Hero Section con imagen de fondo */}
+      <section className='relative h-44 md:h-60 lg:h-72 flex items-center justify-center overflow-hidden'>
+        {/* Imagen de fondo con overlay */}
+        <div className='absolute inset-0 z-0'>
+          <Image
+            src='/assets/nosotros/nosotros-banner.webp'
+            alt={`Equipo de ${company.name}`}
+            fill
+            className='object-cover'
+            priority
+          />
+          <div className='absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-black/80'></div>
+        </div>
 
+        {/* Contenido centrado */}
+        <div className='relative z-10 text-center px-4 max-w-4xl mx-auto'>
+          <motion.h1
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+            className='text-2xl md:text-3xl lg:text-4xl font-semibold text-color-primary-light mb-3 md:mb-4 lg:mb-6'
+          >
+            Visitanos
+          </motion.h1>
+          <motion.p
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+            className='text-xl md:text-2xl text-white/90 font-medium leading-relaxed'
+          >
+            Te invitamos a visitarnos en nuestras sedes
+          </motion.p>
+        </div>
+      </section>
+
+      <div className='py-8 md:py-12'>
         {/* Sección de Sedes */}
         <section className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
           <div className='space-y-8 md:space-y-10 lg:space-y-16'>

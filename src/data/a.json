@@ -7,7 +7,7 @@
       "price": 14800000,
       "position": 1000,
       "downPayment": null,
-      "id": "generated-1757074623141-0",
+      "id": "generated-1757025440543-0",
       "brand": "Renault",
       "model": "Kwid",
       "year": 2018,
@@ -15,7 +15,7 @@
       "currency": "ARS",
       "description": "Renault Kwid 2018 Intens 1.0, aire acondicionado, dirección hidráulica, alzacristales eléctricos, cierre centralizado, alarma, 4 airbags, frenos ABS, faros auxiliares, pantalla central multimedia con GPS incorporado.\nÚnico dueño, 55.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 55000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -27,7 +27,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2200586358",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2200586358-renault-kwid-10-sce-66cv-intense-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Kwid 1.0 Sce 66cv Intense",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -58,11 +58,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-0",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-0",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-0",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-0",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -118,7 +118,7 @@
       "price": 19500000,
       "position": 2000,
       "downPayment": null,
-      "id": "generated-1757074623141-1",
+      "id": "generated-1757025440543-1",
       "brand": "Renault",
       "model": "Sandero",
       "year": 2018,
@@ -126,7 +126,7 @@
       "currency": "ARS",
       "description": "Renault Sandero Stepway 2018 Privilege 1.6 16V, climatizador, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, faros auxiliares, control de velocidad crucero, limitador de velocidad.\nÚnico dueño, 76.000 kms, todos los services oficiales.\n$19.500.000",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 76000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -138,7 +138,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2302952030",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2302952030-renault-sandero-stepway-16-privilege-105cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Sandero Stepway 1.6 Privilege 105cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -169,11 +169,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-1",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-1",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-1",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-1",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -225,19 +225,19 @@
       "price": 7500,
       "position": 3000,
       "downPayment": null,
-      "id": "generated-1757074623141-2",
+      "id": "generated-1757025440543-2",
       "brand": "Renault",
       "model": "R11",
       "year": 1988,
-      "color": "Blanco",
+      "color": "No especificado",
       "currency": "USD",
-      "description": "Renault 11 1988 GTL 1.4, único dueño, 4 neumáticos sin rodar, interior original, impecable de todos lados.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
-      "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "description": "",
+      "categoryId": "autos",
+      "dealershipId": "dealership-palmucci",
       "mileage": 100000,
       "transmission": "Manual",
       "fuel": "Nafta",
-      "doors": 5,
+      "doors": 4,
       "active": true,
       "featured": false,
       "favorite": false,
@@ -245,14 +245,14 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1515918943",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1515918943-renault-r11-14-gtl-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault R11 1.4 Gtl",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
-      "mlBodyType": "Hatchback",
-      "mlEngine": "1.4",
+      "mlBodyType": null,
+      "mlEngine": null,
       "mlPower": null,
       "mlGears": null,
       "mlDimensions": null,
@@ -276,67 +276,22 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-2",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-2",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-2",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-2",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
-        "id": "hatchback",
-        "name": "hatchback"
+        "id": "autos",
+        "name": "autos"
       },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_853839-MLA90925294635_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_853839-MLA90925294635_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_648032-MLA90926176909_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_648032-MLA90926176909_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_705677-MLA90538964772_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_705677-MLA90538964772_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_959558-MLA90926335311_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_959558-MLA90926335311_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_943924-MLA90538658938_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_943924-MLA90538658938_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_655437-MLA90538658940_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_655437-MLA90538658940_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_724140-MLA90538698486_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_724140-MLA90538698486_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_706125-MLA90926275939_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_706125-MLA90926275939_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_964002-MLA90538698482_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_964002-MLA90538698482_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_655044-MLA90926285829_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_655044-MLA90926285829_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_647678-MLA90074797840_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_647678-MLA90074797840_082025-F.webp"
-        }
-      ]
+      "images": []
     },
     {
       "price": 38500000,
       "position": 4000,
       "downPayment": null,
-      "id": "generated-1757074623141-3",
+      "id": "generated-1757025440543-3",
       "brand": "Volkswagen",
       "model": "Amarok",
       "year": 2022,
@@ -344,7 +299,7 @@
       "currency": "ARS",
       "description": "Volkswagen Amarok 2022 Confortline 2.0 TDI biturbo 180 CV, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, cobertor de caja, lona marítima, estribos, barra antivuelco cromada.\nÚnico dueño, 24.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu",
       "categoryId": "pick-up",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 24000,
       "transmission": "Manual",
       "fuel": "Diésel",
@@ -356,7 +311,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1517940747",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1517940747-volkswagen-amarok-20-cd-tdi-180cv-comfortline-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Volkswagen Amarok 2.0 Cd Tdi 180cv Comfortline",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -387,11 +342,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-3",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-3",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-3",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-3",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "pick-up",
         "name": "pick-up"
@@ -443,7 +398,7 @@
       "price": 16500000,
       "position": 5000,
       "downPayment": null,
-      "id": "generated-1757074623141-4",
+      "id": "generated-1757025440543-4",
       "brand": "Ford",
       "model": "Focus",
       "year": 2015,
@@ -451,7 +406,7 @@
       "currency": "ARS",
       "description": "Ford Focus 2015 S 1.6, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, faros auxiliares. \nExcelente estado original, 168.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 168000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -463,7 +418,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1512914451",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1512914451-ford-focus-iii-16-s-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Ford Focus Iii 1.6 S",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -494,55 +449,55 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-4",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-4",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-4",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-4",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_857755-MLA89173682675_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_857755-MLA89173682675_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_857755-MLA89173682675_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_857755-MLA89173682675_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_713939-MLA89173692619_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_713939-MLA89173692619_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_713939-MLA89173692619_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_713939-MLA89173692619_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_809182-MLA89173544101_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_809182-MLA89173544101_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_809182-MLA89173544101_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_809182-MLA89173544101_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_960561-MLA89173672771_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_960561-MLA89173672771_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_960561-MLA89173672771_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_960561-MLA89173672771_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_851826-MLA89174356875_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_851826-MLA89174356875_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_851826-MLA89174356875_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_851826-MLA89174356875_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_659382-MLA89173712721_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_659382-MLA89173712721_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_659382-MLA89173712721_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_659382-MLA89173712721_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_976786-MLA89173702735_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_976786-MLA89173702735_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_976786-MLA89173702735_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_976786-MLA89173702735_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_983785-MLA89173712753_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_983785-MLA89173712753_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_983785-MLA89173712753_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_983785-MLA89173712753_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_898566-MLA88996455072_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_898566-MLA88996455072_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_898566-MLA88996455072_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_898566-MLA88996455072_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_703336-MLA89355369135_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_703336-MLA89355369135_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_703336-MLA89355369135_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_703336-MLA89355369135_082025-F.webp"
         }
       ]
     },
@@ -550,7 +505,7 @@
       "price": 29000000,
       "position": 6000,
       "downPayment": null,
-      "id": "generated-1757074623141-5",
+      "id": "generated-1757025440543-5",
       "brand": "Jeep",
       "model": "Renegade",
       "year": 2020,
@@ -558,7 +513,7 @@
       "currency": "ARS",
       "description": "Jeep Renegade 2020 Longitude 1.8, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, airbags frontales y laterales, caja automática, tapizado de cuero, control de velocidad crucero, cámara de retroceso.\nÚnico dueño, 72.000 kms, todos los services oficiales\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 72000,
       "transmission": "Automática",
       "fuel": "Nafta",
@@ -570,7 +525,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1512875741",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1512875741-jeep-renegade-18-longitude-at6-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Jeep Renegade 1.8 Longitude At6",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -601,11 +556,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-5",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-5",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-5",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-5",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
@@ -657,7 +612,7 @@
       "price": 14800000,
       "position": 7000,
       "downPayment": null,
-      "id": "generated-1757074623141-6",
+      "id": "generated-1757025440543-6",
       "brand": "Peugeot",
       "model": "207",
       "year": 2016,
@@ -665,7 +620,7 @@
       "currency": "ARS",
       "description": "Peugeot 207 2016 Allure 1.4 5 ptas, aire acondicionado, dirección hidráulica, alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, faros auxiliares, 4 neumáticos sin rodar.\nÚnico dueño, 142.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Escobar!!!!",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 147000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -677,7 +632,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2206042694",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2206042694-peugeot-207-14-allure-75cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Peugeot 207 1.4 Allure 75cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -708,11 +663,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-6",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-6",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-6",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-6",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -764,7 +719,7 @@
       "price": 20500000,
       "position": 8000,
       "downPayment": null,
-      "id": "generated-1757074623141-7",
+      "id": "generated-1757025440543-7",
       "brand": "Renault",
       "model": "Duster",
       "year": 2016,
@@ -772,7 +727,7 @@
       "currency": "ARS",
       "description": "Renault Duster Oroch 2016 Outsider 1.6, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, faros auxiliares. \nÚnico dueño, 125.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 125000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -784,7 +739,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1510983329",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1510983329-renault-duster-oroch-16-outsider-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Duster Oroch 1.6 Outsider",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -815,11 +770,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-7",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-7",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-7",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-7",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
@@ -871,7 +826,7 @@
       "price": 11000000,
       "position": 9000,
       "downPayment": null,
-      "id": "generated-1757074623141-8",
+      "id": "generated-1757025440543-8",
       "brand": "Renault",
       "model": "Sandero",
       "year": 2011,
@@ -879,7 +834,7 @@
       "currency": "ARS",
       "description": "Renault Sandero 2011 1.6 8V Pack con GNC!!!! Vtv hasta julio 2026 listo para transferir! Consultas al 1121563700",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 160000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -891,7 +846,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1510353087",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1510353087-renault-sandero-16-pack-90cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Sandero 1.6 Pack 90cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -922,11 +877,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-8",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-8",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-8",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-8",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -978,7 +933,7 @@
       "price": 17500000,
       "position": 10000,
       "downPayment": null,
-      "id": "generated-1757074623141-9",
+      "id": "generated-1757025440543-9",
       "brand": "Peugeot",
       "model": "408",
       "year": 2015,
@@ -986,7 +941,7 @@
       "currency": "ARS",
       "description": "Peugeot 408 2015 Allure Plus 1.6 THP, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, airbags frontales y de butacas, tapizado de cuero, control de velocidad crucero, limitador de velocidad, caja manual de 6 marchas, techo corredizo.\nÚnico dueño, 74.000 kms.\n\nPALMUCCI AUTOMOTORES\nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1:\nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2:\nColectora este y Don Bosco ( Escobar)",
       "categoryId": "sedán",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 74000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -998,7 +953,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1517089915",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1517089915-peugeot-408-16-allure-plus-thp-163cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Peugeot 408 1.6 Allure Plus Thp 163cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1029,11 +984,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-9",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-9",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-9",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-9",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "sedán",
         "name": "sedán"
@@ -1081,7 +1036,7 @@
       "price": 27500000,
       "position": 11000,
       "downPayment": null,
-      "id": "generated-1757074623141-10",
+      "id": "generated-1757025440543-10",
       "brand": "Jeep",
       "model": "Renegade",
       "year": 2018,
@@ -1089,7 +1044,7 @@
       "currency": "ARS",
       "description": "Jeep Renegade 2018 Longitude 1.8, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, airbags frontales y laterales, caja automática, tapizado de cuero, control de velocidad crucero, cámara de retroceso.\nÚnico dueño, 69.000 kms, todos los services oficiales.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Escobar!",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 69000,
       "transmission": "Automática",
       "fuel": "Nafta",
@@ -1101,7 +1056,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2269381550",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2269381550-jeep-renegade-18-longitude-at6-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Jeep Renegade 1.8 Longitude At6",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1132,47 +1087,47 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-10",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-10",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-10",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-10",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_688155-MLA90432709961_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_688155-MLA90432709961_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_688155-MLA90432709961_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_688155-MLA90432709961_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_617131-MLA90051284070_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_617131-MLA90051284070_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_617131-MLA90051284070_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_617131-MLA90051284070_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_921466-MLA90051284066_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_921466-MLA90051284066_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_921466-MLA90051284066_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_921466-MLA90051284066_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_907239-MLA90051204038_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_907239-MLA90051204038_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_907239-MLA90051204038_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_907239-MLA90051204038_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_703558-MLA90432212753_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_703558-MLA90432212753_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_703558-MLA90432212753_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_703558-MLA90432212753_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_697985-MLA90432650333_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_697985-MLA90432650333_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_697985-MLA90432650333_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_697985-MLA90432650333_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_803518-MLA90051274084_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_803518-MLA90051274084_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_803518-MLA90051274084_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_803518-MLA90051274084_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_619234-MLA90051831224_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_619234-MLA90051831224_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_619234-MLA90051831224_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_619234-MLA90051831224_082025-F.webp"
         }
       ]
     },
@@ -1180,7 +1135,7 @@
       "price": 20500000,
       "position": 12000,
       "downPayment": null,
-      "id": "generated-1757074623141-11",
+      "id": "generated-1757025440543-11",
       "brand": "Renault",
       "model": "Sandero",
       "year": 2022,
@@ -1188,7 +1143,7 @@
       "currency": "ARS",
       "description": "Renault Sandero 2022 Life 1.6 (motor Nissan cadenero), aire acondicionado, dirección hidráulica, alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS.\nÚnico dueño, 18.000 kms\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Escobar!!",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 18000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -1200,7 +1155,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1515674849",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1515674849-renault-sandero-16-16v-life-nafta-manual-5-puertas-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Sandero 1.6 16v Life",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1231,11 +1186,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-11",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-11",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-11",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-11",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -1279,7 +1234,7 @@
       "price": 28500000,
       "position": 13000,
       "downPayment": null,
-      "id": "generated-1757074623141-12",
+      "id": "generated-1757025440543-12",
       "brand": "Honda",
       "model": "Cr-v",
       "year": 2015,
@@ -1287,7 +1242,7 @@
       "currency": "ARS",
       "description": "Honda CRV 2015 LX 2.4, caja automática y secuencial, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, control de velocidad crucero, pantalla táctil con GPS incorporado y cámara de retroceso, service de transmision recién realizado, 4 neumáticos sin rodar.\nExcelente estado general, 164.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 164000,
       "transmission": "Automática",
       "fuel": "Nafta",
@@ -1299,7 +1254,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2205639856",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2205639856-honda-cr-v-24-lx-2wd-185cv-at-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Honda Cr-v 2.4 Lx 2wd 185cv At",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1330,47 +1285,47 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-12",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-12",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-12",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-12",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_729538-MLA88882078629_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_729538-MLA88882078629_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_729538-MLA88882078629_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_729538-MLA88882078629_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_918932-MLA88532884230_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_918932-MLA88532884230_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_918932-MLA88532884230_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_918932-MLA88532884230_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_644105-MLA88533241870_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_644105-MLA88533241870_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_644105-MLA88533241870_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_644105-MLA88533241870_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_790891-MLA88532944306_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_790891-MLA88532944306_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_790891-MLA88532944306_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_790891-MLA88532944306_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_834041-MLA88532973730_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_834041-MLA88532973730_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_834041-MLA88532973730_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_834041-MLA88532973730_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_702493-MLA88532884314_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_702493-MLA88532884314_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_702493-MLA88532884314_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_702493-MLA88532884314_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_650599-MLA88532894418_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_650599-MLA88532894418_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_650599-MLA88532894418_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_650599-MLA88532894418_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_606095-MLA88532973788_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_606095-MLA88532973788_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_606095-MLA88532973788_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_606095-MLA88532973788_072025-F.webp"
         }
       ]
     },
@@ -1378,7 +1333,7 @@
       "price": 29000000,
       "position": 14000,
       "downPayment": null,
-      "id": "generated-1757074623141-13",
+      "id": "generated-1757025440543-13",
       "brand": "Jeep",
       "model": "Renegade",
       "year": 2020,
@@ -1386,7 +1341,7 @@
       "currency": "ARS",
       "description": "Jeep Renegade 2020 Longitude 1.8, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, airbags frontales y laterales, caja automática, tapizado de cuero, control de velocidad crucero, cámara de retroceso.\nÚnico dueño, 78.000 kms, todos los services oficiales.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Escobar!",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 78000,
       "transmission": "Automática",
       "fuel": "Nafta",
@@ -1398,7 +1353,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2192993274",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2192993274-jeep-renegade-18-longitude-at6-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Jeep Renegade 1.8 Longitude At6",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1429,11 +1384,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-13",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-13",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-13",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-13",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
@@ -1469,7 +1424,7 @@
       "price": 23500000,
       "position": 15000,
       "downPayment": null,
-      "id": "generated-1757074623141-14",
+      "id": "generated-1757025440543-14",
       "brand": "Toyota",
       "model": "Yaris",
       "year": 2018,
@@ -1477,7 +1432,7 @@
       "currency": "ARS",
       "description": "Toyota Yaris 2018 S 1.5 Manual, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, airbags frontales y laterales, frenos ABS, llantas de aleación, techo corredizo, tapizado de cuero, sensor de estacionamiento, cámara de retroceso.\nÚnico dueño, 78.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)",
       "categoryId": "autos",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 78000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -1489,7 +1444,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2290515574",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2290515574-toyota-yaris-2018-s-15-manual-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Toyota Yaris 1.5 S Manual",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1520,11 +1475,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-14",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-14",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-14",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-14",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "autos",
         "name": "autos"
@@ -1568,7 +1523,7 @@
       "price": 18500000,
       "position": 16000,
       "downPayment": null,
-      "id": "generated-1757074623141-15",
+      "id": "generated-1757025440543-15",
       "brand": "Renault",
       "model": "Sandero",
       "year": 2018,
@@ -1576,7 +1531,7 @@
       "currency": "ARS",
       "description": "Renault Sandero Stepway 2018 Expression 1.6 16V, aire acondicionado, dirección hidráulica, alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, faros auxiliares.\nÚnico dueño, 68.000 kms.",
       "categoryId": "autos",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 68000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -1588,7 +1543,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2206159768",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2206159768-renault-sandero-stepway-2018-16-expression-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Sandero Stepway 1.6 Expression",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1619,11 +1574,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-15",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-15",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-15",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-15",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "autos",
         "name": "autos"
@@ -1667,7 +1622,7 @@
       "price": 46000000,
       "position": 17000,
       "downPayment": null,
-      "id": "generated-1757074623141-16",
+      "id": "generated-1757025440543-16",
       "brand": "Nissan",
       "model": "Frontier",
       "year": 2025,
@@ -1675,7 +1630,7 @@
       "currency": "ARS",
       "description": "Nissan Frontier 0km S 2.3 Biturbo 4x4 cabina doble, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, espejos eléctricos, airbags frontales y laterales, control de velocidad crucero, caja manual de 6 marchas, faros auxiliares. \nVehículo patentado, lista para retirar.\nRetira con $24.000.000 y saldo hasta en 48 cuotas fijas..-\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "pick-up",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 1000,
       "transmission": "Manual",
       "fuel": "Diésel",
@@ -1687,7 +1642,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1516629715",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1516629715-nissan-frontier-23t-s-4x4-mt-l22-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Nissan Frontier 2.3t S 4x4 Mt L22",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1718,11 +1673,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-16",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-16",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440543-16",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440543-16",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "pick-up",
         "name": "pick-up"
@@ -1774,7 +1729,7 @@
       "price": 18500000,
       "position": 18000,
       "downPayment": null,
-      "id": "generated-1757074623141-17",
+      "id": "generated-1757025440544-17",
       "brand": "Chevrolet",
       "model": "Onix",
       "year": 2020,
@@ -1782,7 +1737,7 @@
       "currency": "ARS",
       "description": "CHEVROLET ONIX JOY PLUS LS 1.4 – AÑO 2020\n\nMotor naftero 1.4 de 8 válvulas\nTransmisión manual de 5 velocidades\n87.000 kilómetros reales\nTracción delantera\nCarrocería sedán, amplia capacidad de baúl\nColor blanco, pintura en excelente estado\nInterior en muy buenas condiciones, sin detalles\n\nEquipamiento:\nDirección asistida\nAire acondicionado\nSistema de audio con USB y Bluetooth\nComputadora de a bordo\nCierre centralizado\nLevantavidrios eléctricos delanteros\nFaros antiniebla traseros\nLlanta de acero con tazas originales\n\nSeguridad:\nFrenos ABS\nDoble airbag frontal\nAnclajes ISOFIX para sillas infantiles\nInmovilizador de motor\nCinturones de seguridad de tres puntos\n\nDocumentación al día\nListo para transferir de inmediato\nVTV vigente\nUn solo dueño\nMantenimiento al día\nSin deudas ni prendas\n\nPALMUCCI AUTOMOTORES\nAceptamos permutas\nFinanciación disponible\nGestoría propia\nAtención personalizada\n\nSucursales:\nAv. Sarmiento 890, B1627 Matheu\nDon Bosco 1488, Escobar\n\nConsultanos para más información o para coordinar una visita",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 87000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -1794,7 +1749,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2225599396",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2225599396-chevrolet-onix-14-joy-ls-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Chevrolet Onix 1.4 Joy Ls",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1825,11 +1780,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-17",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-17",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-17",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-17",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -1889,7 +1844,7 @@
       "price": 19500000,
       "position": 19000,
       "downPayment": null,
-      "id": "generated-1757074623141-18",
+      "id": "generated-1757025440544-18",
       "brand": "Fiat",
       "model": "Cronos",
       "year": 2021,
@@ -1897,7 +1852,7 @@
       "currency": "ARS",
       "description": "Fiat Cronos 2021 Drive 1.3 GSE, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, espejos eléctricos, doble airbag, frenos ABS, llantas de aleación, cámara de retroceso.\nÚnico dueño, 71.000 kms.",
       "categoryId": "sedán",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 71000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -1909,7 +1864,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2290422544",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2290422544-fiat-cronos-13-gse-drive-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Fiat Cronos 1.3 Gse Drive",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -1940,11 +1895,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-18",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-18",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-18",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-18",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "sedán",
         "name": "sedán"
@@ -2000,7 +1955,7 @@
       "price": 9800000,
       "position": 20000,
       "downPayment": null,
-      "id": "generated-1757074623141-19",
+      "id": "generated-1757025440544-19",
       "brand": "Peugeot",
       "model": "207",
       "year": 2010,
@@ -2008,7 +1963,7 @@
       "currency": "ARS",
       "description": "Peugeot 207 2010 XS 1.9 Diesel 5 ptas, aire acondicionado, dirección hidráulica, alzacristales eléctricos, cierre centralizado, alarma, doble airbag, llantas de aleación, faros auxiliares.\nMuy buen estado general, 163.000 kms, todo su equipamiento funcionando.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 163000,
       "transmission": "Manual",
       "fuel": "Diésel",
@@ -2020,7 +1975,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1514319787",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1514319787-peugeot-207-2010-xs-19-diesel-5-ptas-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Peugeot 207 1.9 Diesel",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2051,11 +2006,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-19",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-19",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-19",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-19",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -2111,7 +2066,7 @@
       "price": 21000000,
       "position": 21000,
       "downPayment": null,
-      "id": "generated-1757074623141-20",
+      "id": "generated-1757025440544-20",
       "brand": "Renault",
       "model": "Duster",
       "year": 2018,
@@ -2119,7 +2074,7 @@
       "currency": "ARS",
       "description": "Renault Duster 2018 Dynamique Nav 1.6, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, faros auxiliares, pantalla central con GPS incorporado.\nÚnico dueño, 95.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 95000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2131,7 +2086,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2226598504",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2226598504-renault-duster-16-ph2-4x2-dynamique-110cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Duster 1.6 Ph2 4x2 Dynamique 110cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2162,11 +2117,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-20",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-20",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-20",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-20",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
@@ -2222,7 +2177,7 @@
       "price": 23800000,
       "position": 22000,
       "downPayment": null,
-      "id": "generated-1757074623141-21",
+      "id": "generated-1757025440544-21",
       "brand": "Toyota",
       "model": "Corolla",
       "year": 2017,
@@ -2230,7 +2185,7 @@
       "currency": "ARS",
       "description": "Toyota Corolla 2017 XEI Pack 1.8, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, airbags, frenos ABS, tapizado de cuero, caja manual de 6 marchas, cámara de retroceso, sensor de estacionamiento, control de velocidad crucero, llantas de aleación.\nÚnico dueño, 137.000 kms.\n\nPALMUCCI AUTOMOTORES\nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1:\nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2:\nColectora este y Don Bosco ( Escobar)",
       "categoryId": "sedán",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 137000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2242,7 +2197,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2293602238",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2293602238-toyota-corolla-18-xei-pack-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Toyota Corolla 1.8 Xei Pack",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2273,55 +2228,55 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-21",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-21",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-21",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-21",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "sedán",
         "name": "sedán"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_696582-MLA90616300728_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_696582-MLA90616300728_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_696582-MLA90616300728_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_696582-MLA90616300728_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_768976-MLA90617177826_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_768976-MLA90617177826_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_768976-MLA90617177826_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_768976-MLA90617177826_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_932416-MLA90616779080_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_932416-MLA90616779080_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_932416-MLA90616779080_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_932416-MLA90616779080_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_793103-MLA90617178002_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_793103-MLA90617178002_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_793103-MLA90617178002_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_793103-MLA90617178002_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_637894-MLA90616151530_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_637894-MLA90616151530_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_637894-MLA90616151530_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_637894-MLA90616151530_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_952462-MLA90618145880_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_952462-MLA90618145880_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_952462-MLA90618145880_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_952462-MLA90618145880_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_709564-MLA90615593506_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_709564-MLA90615593506_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_709564-MLA90615593506_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_709564-MLA90615593506_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_754385-MLA90617986436_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_754385-MLA90617986436_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_754385-MLA90617986436_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_754385-MLA90617986436_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_709105-MLA90618316074_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_709105-MLA90618316074_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_709105-MLA90618316074_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_709105-MLA90618316074_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_794149-MLA90615593818_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_794149-MLA90615593818_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_794149-MLA90615593818_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_794149-MLA90615593818_082025-F.webp"
         }
       ]
     },
@@ -2329,7 +2284,7 @@
       "price": 13800000,
       "position": 23000,
       "downPayment": null,
-      "id": "generated-1757074623141-22",
+      "id": "generated-1757025440544-22",
       "brand": "Chery",
       "model": "Qq",
       "year": 2017,
@@ -2337,7 +2292,7 @@
       "currency": "ARS",
       "description": "Chery QQ 2017 Confort Security 1.0, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, faros auxiliares.\nÚnico dueño, 85.000 kms, 4 neumáticos sin rodar.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Escobar!",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 85000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2349,7 +2304,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2192905104",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2192905104-chery-qq-10-confort-security-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Chery Qq 1.0 Confort Security",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2380,55 +2335,55 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-22",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-22",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-22",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-22",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_958281-MLA88027089788_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_958281-MLA88027089788_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_958281-MLA88027089788_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_958281-MLA88027089788_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_978920-MLA88367078881_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_978920-MLA88367078881_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_978920-MLA88367078881_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_978920-MLA88367078881_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_901941-MLA88366941513_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_901941-MLA88366941513_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_901941-MLA88366941513_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_901941-MLA88366941513_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_603274-MLA88367217611_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_603274-MLA88367217611_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_603274-MLA88367217611_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_603274-MLA88367217611_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_799967-MLA88366772729_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_799967-MLA88366772729_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_799967-MLA88366772729_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_799967-MLA88366772729_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_982724-MLA88366792571_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_982724-MLA88366792571_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_982724-MLA88366792571_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_982724-MLA88366792571_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_707819-MLA88367178361_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_707819-MLA88367178361_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_707819-MLA88367178361_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_707819-MLA88367178361_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_795064-MLA88367168263_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_795064-MLA88367168263_072025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_795064-MLA88367168263_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_795064-MLA88367168263_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_849936-MLA89673211657_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_849936-MLA89673211657_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_849936-MLA89673211657_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_849936-MLA89673211657_082025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_787225-MLA89672993699_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_787225-MLA89672993699_082025-OO.jpg"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_787225-MLA89672993699_082025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_787225-MLA89672993699_082025-F.webp"
         }
       ]
     },
@@ -2436,7 +2391,7 @@
       "price": 22500000,
       "position": 24000,
       "downPayment": null,
-      "id": "generated-1757074623141-23",
+      "id": "generated-1757025440544-23",
       "brand": "Chevrolet",
       "model": "Tracker",
       "year": 2017,
@@ -2444,7 +2399,7 @@
       "currency": "ARS",
       "description": "Chevrolet Tracker 2017 LTZ FWD 1.8, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, control de velocidad crucero, sistema on star.\nÚnico dueño, 115.000 kms, services oficiales.\n\nPALMUCCI AUTOMOTORES\nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1:\nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2:\nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 115000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2456,7 +2411,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2293719652",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2293719652-chevrolet-tracker-18-ltz-fwd-mt-140cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Chevrolet Tracker 1.8 Ltz Fwd Mt 140cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2487,11 +2442,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-23",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-23",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-23",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-23",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
@@ -2539,7 +2494,7 @@
       "price": 22500000,
       "position": 25000,
       "downPayment": null,
-      "id": "generated-1757074623141-24",
+      "id": "generated-1757025440544-24",
       "brand": "Renault",
       "model": "Duster",
       "year": 2018,
@@ -2547,7 +2502,7 @@
       "currency": "ARS",
       "description": "Renault Duster 2018 Privilege 2.0 16V, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, limitador de velocidad, control velocidad crucero, cámara de retroceso, sensor de estacionamiento, caja manual de 6 marchas.\nÚnico dueño, 72.000 kms.\n\nPALMUCCI AUTOMOTORES\nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1:\nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2:\nColectora este y Don Bosco ( Escobar)",
       "categoryId": "suv",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 72000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2559,7 +2514,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1517121279",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1517121279-renault-duster-20-ph2-4x2-privilege-143cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Duster 2.0 Ph2 4x2 Privilege 143cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2590,11 +2545,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-24",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-24",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-24",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-24",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "suv",
         "name": "suv"
@@ -2642,7 +2597,7 @@
       "price": 22500000,
       "position": 26000,
       "downPayment": null,
-      "id": "generated-1757074623141-25",
+      "id": "generated-1757025440544-25",
       "brand": "Renault",
       "model": "Sandero",
       "year": 2023,
@@ -2650,7 +2605,7 @@
       "currency": "ARS",
       "description": "Renault Sandero Stepway 2023 Zen 1.6 (motor Nissan cadenero), aire acondicionado, dirección hidráulica, alzacristales eléctricos, cierre centralizado, alarma, airbags frontales y de butacas, frenos ABS, llantas de aleación, faros auxiliares, control de velocidad crucero, limitador de velocidad, volante multifuncion.\nÚnico dueño, 32.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 32000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2662,7 +2617,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2192930918",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2192930918-renault-sandero-stepway-16-16v-zen-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Sandero Stepway 1.6 16v Zen",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2693,11 +2648,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-25",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-25",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-25",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-25",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -2745,7 +2700,7 @@
       "price": 21500000,
       "position": 27000,
       "downPayment": null,
-      "id": "generated-1757074623141-26",
+      "id": "generated-1757025440544-26",
       "brand": "Renault",
       "model": "Sandero",
       "year": 2020,
@@ -2753,7 +2708,7 @@
       "currency": "ARS",
       "description": "Renault Sandero 2020 GT LINE 1.6 CVT, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, espejos eléctricos, airbags frontales y de butacas, llantas de aleación 16”, caja automática CVT de 6 marchas, sensor de estacionamiento.\nÚnico dueño, 49.000 kms, services oficiales.\n\nPALMUCCI AUTOMOTORES\nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1:\nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2:\nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!!",
       "categoryId": "hatchback",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 49000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2765,7 +2720,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1518242895",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1518242895-renault-sandero-16-gt-line-105cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Renault Sandero 1.6 Gt Line 105cv",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2796,11 +2751,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-26",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-26",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-26",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-26",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "hatchback",
         "name": "hatchback"
@@ -2844,19 +2799,19 @@
       "price": 16800000,
       "position": 28000,
       "downPayment": null,
-      "id": "generated-1757074623141-27",
+      "id": "generated-1757025440544-27",
       "brand": "Volkswagen",
       "model": "Suran",
       "year": 2015,
-      "color": "Azul",
+      "color": "No especificado",
       "currency": "ARS",
-      "description": "Volkswagen Suran 2015 Highline 1.6 MSI, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, llantas de aleación, volante multifuncion, sensor de estacionamiento, caja manual de 6 marchas.\nÚnico dueño, 136.000 kms.\n\nPALMUCCI AUTOMOTORES\nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1:\nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2:\nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
-      "categoryId": "monovolumen",
-      "dealershipId": "dealership-palmucci-2",
+      "description": "",
+      "categoryId": "autos",
+      "dealershipId": "dealership-palmucci",
       "mileage": 136000,
       "transmission": "Manual",
       "fuel": "Nafta",
-      "doors": 5,
+      "doors": 4,
       "active": true,
       "featured": false,
       "favorite": false,
@@ -2864,14 +2819,14 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2305588746",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2305588746-volkswagen-suran-16-highline-101cv-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Volkswagen Suran 1.6 Highline 101cv",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
-      "mlBodyType": "Monovolumen",
-      "mlEngine": "1.6",
+      "mlBodyType": null,
+      "mlEngine": null,
       "mlPower": null,
       "mlGears": null,
       "mlDimensions": null,
@@ -2895,47 +2850,22 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-27",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-27",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-27",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-27",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
-        "id": "monovolumen",
-        "name": "monovolumen"
+        "id": "autos",
+        "name": "autos"
       },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_697490-MLA90879011454_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_697490-MLA90879011454_082025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_999203-MLA90879338694_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_999203-MLA90879338694_082025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_649728-MLA90879328870_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_649728-MLA90879328870_082025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_879620-MLA91269610333_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_879620-MLA91269610333_082025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_958977-MLA91269511053_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_958977-MLA91269511053_082025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_765603-MLA90878951728_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_765603-MLA90878951728_082025-OO.jpg"
-        }
-      ]
+      "images": []
     },
     {
       "price": 23000000,
       "position": 29000,
       "downPayment": null,
-      "id": "generated-1757074623141-28",
+      "id": "generated-1757025440544-28",
       "brand": "Toyota",
       "model": "Corolla",
       "year": 2017,
@@ -2943,7 +2873,7 @@
       "currency": "ARS",
       "description": "Toyota Corolla 2017 XEI 1.8 Manual, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, alarma, airbags, frenos ABS, cámara de retroceso, sensor de estacionamiento, llantas de aleación. \nÚnico dueño, 113.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "sedán",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 113000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -2955,7 +2885,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA1515982631",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1515982631-toyota-corolla-18-xei-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Toyota Corolla 1.8 Xei",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -2986,11 +2916,11 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-28",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-28",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-28",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-28",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "sedán",
         "name": "sedán"
@@ -3034,19 +2964,19 @@
       "price": 46000000,
       "position": 30000,
       "downPayment": null,
-      "id": "generated-1757074623141-29",
+      "id": "generated-1757025440544-29",
       "brand": "Toyota",
       "model": "Hilux",
       "year": 2022,
-      "color": "Blanco",
+      "color": "No especificado",
       "currency": "ARS",
-      "description": "Toyota Hilux 2022 SRV 2.8 Automática, climatizador digital, 4 alzacristales eléctricos, cierre centralizado, airbags frontales y laterales, pantalla táctil con navegador y cámara de retroceso, control de velocidad crucero, llantas de aleación SRX, cobertor de caja, estribos, gancho de remolque.\nÚnico dueño, 87.000 kms.\n\nPALMUCCI AUTOMOTORES\nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1:\nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2:\nColectora este y Don Bosco (Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!!",
-      "categoryId": "pick-up",
-      "dealershipId": "dealership-palmucci-2",
+      "description": "",
+      "categoryId": "autos",
+      "dealershipId": "dealership-palmucci",
       "mileage": 87000,
-      "transmission": "Automática",
-      "fuel": "Diésel",
-      "doors": 5,
+      "transmission": "Manual",
+      "fuel": "Nafta",
+      "doors": 4,
       "active": true,
       "featured": false,
       "favorite": false,
@@ -3054,14 +2984,14 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2305667164",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2305667164-toyota-hilux-2022-srv-28-cd-177-4x2-at-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Toyota Hilux 2.8 Cd Srv 177 4x2 At",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
-      "mlBodyType": "Pick-Up",
-      "mlEngine": "2.8",
+      "mlBodyType": null,
+      "mlEngine": null,
       "mlPower": null,
       "mlGears": null,
       "mlDimensions": null,
@@ -3085,51 +3015,22 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-29",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-29",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-29",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-29",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
-        "id": "pick-up",
-        "name": "pick-up"
+        "id": "autos",
+        "name": "autos"
       },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_687422-MLA91270288417_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_687422-MLA91270288417_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_737364-MLA91270120421_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_737364-MLA91270120421_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_758384-MLA91270935113_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_758384-MLA91270935113_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_850964-MLA91270715961_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_850964-MLA91270715961_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_806845-MLA91270219291_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_806845-MLA91270219291_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_899135-MLA90879818294_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_899135-MLA90879818294_082025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_950457-MLA91270358023_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_950457-MLA91270358023_082025-F.webp"
-        }
-      ]
+      "images": []
     },
     {
       "price": 10500000,
       "position": 31000,
       "downPayment": null,
-      "id": "generated-1757074623141-30",
+      "id": "generated-1757025440544-30",
       "brand": "Fiat",
       "model": "Palio",
       "year": 2007,
@@ -3137,7 +3038,7 @@
       "currency": "ARS",
       "description": "Fiat Palio Adventure 2007 Turbo diesel 1.7, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, espejos eléctricos, llantas de aleación, faros auxiliares.\nÚnico dueño, 217.000 kms.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
       "categoryId": "rural",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 217000,
       "transmission": "Manual",
       "fuel": "Diésel",
@@ -3149,7 +3050,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2247489086",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2247489086-fiat-palio-weekend-17-diesel-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Fiat Palio Weekend Adventure Adventure 1.7 Diesel",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -3180,59 +3081,59 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-30",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-30",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-30",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-30",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "rural",
         "name": "rural"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_920630-MLA90110315207_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_920630-MLA90110315207_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_920630-MLA90110315207_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_920630-MLA90110315207_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_654554-MLA89734065486_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_654554-MLA89734065486_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_654554-MLA89734065486_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_654554-MLA89734065486_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_701252-MLA89734055602_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_701252-MLA89734055602_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_701252-MLA89734055602_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_701252-MLA89734055602_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_702149-MLA89733112048_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_702149-MLA89733112048_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_702149-MLA89733112048_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_702149-MLA89733112048_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_769349-MLA89733737994_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_769349-MLA89733737994_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_769349-MLA89733737994_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_769349-MLA89733737994_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_910184-MLA89733738002_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_910184-MLA89733738002_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_910184-MLA89733738002_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_910184-MLA89733738002_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_804823-MLA90109708929_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_804823-MLA90109708929_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_804823-MLA90109708929_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_804823-MLA90109708929_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_643028-MLA89733738056_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_643028-MLA89733738056_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_643028-MLA89733738056_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643028-MLA89733738056_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_608553-MLA89734204786_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_608553-MLA89734204786_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_608553-MLA89734204786_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_608553-MLA89734204786_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_657886-MLA90110236083_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_657886-MLA90110236083_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_657886-MLA90110236083_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_657886-MLA90110236083_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_913760-MLA89733231498_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_913760-MLA89733231498_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_913760-MLA89733231498_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_913760-MLA89733231498_082025-OO.jpg"
         }
       ]
     },
@@ -3240,15 +3141,15 @@
       "price": 18800000,
       "position": 32000,
       "downPayment": null,
-      "id": "generated-1757074623141-31",
+      "id": "generated-1757025440544-31",
       "brand": "Fiat",
       "model": "Cronos",
       "year": 2021,
-      "color": "Plateado",
+      "color": "No especificado",
       "currency": "ARS",
-      "description": "Fiat Cronos 2021 Like 1.3, aire acondicionado, dirección hidráulica, 4 alzacristales eléctricos, cierre centralizado, alarma, doble airbag, frenos ABS, volante multifuncion, sensor de estacionamiento, faros auxiliares.\nÚnico dueño, 88.000 kms, 4 neumáticos nuevos.\n\nPALMUCCI AUTOMOTORES \nDesde 1978 los mejores usados seleccionados.\n\nSucursal 1: \nRuta 25 n 900 y Humberto I Matheu (Escobar)\n\nSucursal 2: \nColectora este y Don Bosco ( Escobar)\n\nEste vehículo se encuentra en la sucursal de Matheu!",
+      "description": "",
       "categoryId": "autos",
-      "dealershipId": "dealership-palmucci-2",
+      "dealershipId": "dealership-palmucci",
       "mileage": 88000,
       "transmission": "Manual",
       "fuel": "Nafta",
@@ -3260,7 +3161,7 @@
       "lastFavoriteAt": null,
       "mlId": "MLA2155459146",
       "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2155459146-fiat-cronos-2021-13-like-_JM",
-      "mlScrapedAt": "2025-09-05T12:17:03.140Z",
+      "mlScrapedAt": "2025-09-04T22:37:20.543Z",
       "mlTitle": "Fiat Cronos 1.3 Like",
       "mlCleanPrice": null,
       "mlLocation": null,
@@ -3291,57 +3192,16 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1757074623141-31",
-      "mlImagesLastUpdated": "2025-09-05T12:17:03.140Z",
-      "catalogChecksum": "checksum-1757074623141-31",
-      "createdAt": "2025-09-05T12:17:03.140Z",
-      "updatedAt": "2025-09-05T12:17:03.140Z",
+      "mlImagesHash": "hash-1757025440544-31",
+      "mlImagesLastUpdated": "2025-09-04T22:37:20.543Z",
+      "catalogChecksum": "checksum-1757025440544-31",
+      "createdAt": "2025-09-04T22:37:20.543Z",
+      "updatedAt": "2025-09-04T22:37:20.543Z",
       "Category": {
         "id": "autos",
         "name": "autos"
       },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_852296-MLA87221727221_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_852296-MLA87221727221_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_894987-MLA87221282283_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_894987-MLA87221282283_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_717199-MLA87221657653_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_717199-MLA87221657653_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_842734-MLA87221667739_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_842734-MLA87221667739_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_844889-MLA87221727345_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_844889-MLA87221727345_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_915035-MLA87221747097_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_915035-MLA87221747097_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_640689-MLA86897738048_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640689-MLA86897738048_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_810571-MLA86897609450_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_810571-MLA86897609450_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_669184-MLA89269680734_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_669184-MLA89269680734_082025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_860531-MLA89269849454_082025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_860531-MLA89269849454_082025-OO.jpg"
-        }
-      ]
+      "images": []
     }
   ]
 }

@@ -6,7 +6,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import ArrowIcon from '@/components/icons/ArrowIcon';
 import WhatsappIcon from '@/components/icons/WhatsappIcon';
-import { API_BASE_URL, company, TENANT } from '@/app/constants/constants';
+import { company } from '@/app/constants/constants';
 import ImageGalleryModal from '@/components/ImageGalleryModal';
 import useEmblaCarousel from 'embla-carousel-react';
 import DropDownIcon from '@/components/icons/DropDownIcon';
@@ -15,6 +15,7 @@ import { motion } from 'framer-motion';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import ShareMenu from '@/components/ShareMenu';
+import data from '@/data/data.json';
 
 interface Imagen {
   thumbnailUrl: string;
@@ -106,20 +107,13 @@ export default function AutoDetailPage() {
   }, [embla]);
 
   useEffect(() => {
-    const fetchCar = async () => {
+    const fetchCar = () => {
       try {
-        const response = await fetch(
-          `${API_BASE_URL}/api/cars/${id}?tenant=${TENANT}`
-        );
+        const carData = data.cars.find((car) => car.id === id);
 
-        if (!response.ok) {
-          if (response.status === 404) {
-            throw new Error('Vehículo no encontrado');
-          }
-          throw new Error(`Error ${response.status}: ${response.statusText}`);
+        if (!carData) {
+          throw new Error('Vehículo no encontrado');
         }
-
-        const carData = await response.json();
 
         // Transformar los datos al formato esperado por el diseño original
         const auto = {
@@ -149,12 +143,10 @@ export default function AutoDetailPage() {
           Category: {
             id: carData.Category.id,
             name: carData.Category.name,
-            createdAt: carData.createdAt,
-            updatedAt: carData.updatedAt,
           },
           Images: carData.images.map((img: Imagen, index: number) => ({
             thumbnailUrl: img.thumbnailUrl,
-            imageUrl: img.imageUrl,
+            imageUrl: img.imageUrl, // Usar thumbnailUrl como imageUrl ya que no hay imageUrl en data.json
             order: index,
           })),
         };
