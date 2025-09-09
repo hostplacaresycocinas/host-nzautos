@@ -40,7 +40,7 @@ interface ApiCar {
   };
   description: string;
   categoryId: string;
-  mileage: number;
+  mileage: number | null;
   motor: string;
   transmission: string;
   fuel: string;
@@ -130,7 +130,7 @@ export default function AutoDetailPage() {
           description: carData.description,
           categoryId: carData.categoryId,
           mileage: carData.mileage,
-          motor: carData.mlEngine || 'No especificado',
+          motor: carData.mlEngine,
           transmission: carData.transmission,
           fuel: carData.fuel,
           doors: carData.doors,
@@ -479,20 +479,23 @@ export default function AutoDetailPage() {
                   )}
 
                   <div className='grid grid-cols-2 md:grid-cols-3 gap-4 text-color-text-light mb-6'>
-                    <div>
-                      <p className='text-color-text-light text-sm font-medium'>
-                        Kilometraje
-                      </p>
-                      <p
-                        className={`font-medium ${
-                          car.mileage === 0
-                            ? 'text-color-primary font-semibold'
-                            : 'text-color-title-light'
-                        }`}
-                      >
-                        {car.mileage.toLocaleString('es-AR')} km
-                      </p>
-                    </div>
+                    {car.mileage && (
+                      <div>
+                        <p className='text-color-text-light text-sm font-medium'>
+                          Kilometraje
+                        </p>
+                        <p
+                          className={`font-medium ${
+                            car.mileage === 0
+                              ? 'text-color-primary font-semibold'
+                              : 'text-color-title-light'
+                          }`}
+                        >
+                          {car.mileage.toLocaleString('es-AR')} km
+                        </p>
+                      </div>
+                    )}
+
                     {car.motor && (
                       <div className='flex flex-col gap-1'>
                         <p className='text-color-text-light text-sm font-medium'>

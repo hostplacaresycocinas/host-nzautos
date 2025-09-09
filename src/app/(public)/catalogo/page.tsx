@@ -40,7 +40,7 @@ interface ApiCar {
   currency: string;
   description: string;
   categoryId: string;
-  mileage: number;
+  mileage: number | null;
   transmission: string;
   fuel: string;
   doors: number;
@@ -697,26 +697,30 @@ const CatalogoPage = () => {
                               </div>
 
                               {/* Precio o etiqueta destacada */}
-                              <div className='flex justify-between items-center text-color-text-light mt-0.5'>
-                                {car.mileage === 0 ? (
-                                  <span className='text-sm font-semibold uppercase tracking-wider text-color-primary'>
-                                    Nuevo{' '}
-                                    <span className='text-color-primary'>
-                                      •
-                                    </span>{' '}
-                                    {car.mileage.toLocaleString('es-ES')} km
-                                  </span>
-                                ) : (
-                                  <span className='text-sm text-color-text-light font-medium uppercase tracking-wider'>
-                                    Usado{' '}
-                                    <span className='text-color-primary'>
-                                      •
-                                    </span>{' '}
-                                    {(car.mileage || 0).toLocaleString('es-ES')}{' '}
-                                    km
-                                  </span>
-                                )}
-                              </div>
+                              {car.mileage && (
+                                <div className='flex justify-between items-center text-color-text-light mt-0.5'>
+                                  {car.mileage === 0 ? (
+                                    <span className='text-sm font-semibold uppercase tracking-wider text-color-primary'>
+                                      Nuevo{' '}
+                                      <span className='text-color-primary'>
+                                        •
+                                      </span>{' '}
+                                      {car.mileage.toLocaleString('es-ES')} km
+                                    </span>
+                                  ) : (
+                                    <span className='text-sm text-color-text-light font-medium uppercase tracking-wider'>
+                                      Usado{' '}
+                                      <span className='text-color-primary'>
+                                        •
+                                      </span>{' '}
+                                      {(car.mileage || 0).toLocaleString(
+                                        'es-ES'
+                                      )}{' '}
+                                      km
+                                    </span>
+                                  )}
+                                </div>
+                              )}
 
                               <div className='md:mt-1'>
                                 <span

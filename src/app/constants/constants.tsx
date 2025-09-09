@@ -2,23 +2,23 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: false,
+  favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'jafauto',
-  name: 'JAF AUTO',
-  adress: 'Av. Libertador 1848',
-  city: 'Alta Gracia',
-  email: 'jafauto2022@gmail.com',
-  instagram: 'jaf__auto',
-  facebook: 'https://www.facebook.com/profile.php?id=100084152474586',
-  whatsapp: ['3547450740', '3547450740'],
-  googlemapsLink: 'https://maps.app.goo.gl/f8TYDaKUo7EVjX6B8',
+  id: 'dupontmotors',
+  name: 'Dupont Motors',
+  adress: 'Pres. Arturo Illia 1959',
+  city: 'Villa Maipú',
+  email: 'dupontmotors@gmail.com',
+  instagram: 'dupontmotors',
+  facebook: null,
+  whatsapp: ['1168175555'],
+  googlemapsLink: 'https://maps.app.goo.gl/84ewWieGTsvuBtQ4A',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3396.100503141361!2d-64.4119743!3d-31.658469999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x942d576f38c73b37%3A0x7b5988a930d33623!2sJAF%20AUTO!5e0!3m2!1sen!2sar!4v1757433571995!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.35978673832!2d-58.519945099999994!3d-34.5697618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb700146962b9%3A0x470c2cde48fffdf8!2sDupont%20Motors!5e0!3m2!1sen!2sar!4v1757439991171!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 9 a 12:30 y 17 a 20:30hs',
-    'Sábados 9 a 13hs',
+    'Lunes a Sábados 10:00 a 18:00hs',
+    'Domingos Cerrado',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://jafauto.vercel.app/',
-  title: 'JAF AUTO - Compra y Venta de Autos',
+  metadataBase: 'https://dupontmotors.vercel.app/',
+  title: 'Dupont Motors - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };

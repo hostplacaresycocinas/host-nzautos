@@ -33,7 +33,7 @@ interface Auto {
   favorite: boolean;
   active: boolean;
   categoryId: string;
-  mileage: number;
+  mileage: number | null;
   transmission: string;
   fuel: string;
   doors: number;
@@ -294,19 +294,23 @@ const CarsHome = ({ title }: CarsHomeProps) => {
                       </div>
 
                       {/* Precio o etiqueta destacada */}
-                      <div className='flex justify-between items-center text-color-text-light mt-0.5'>
-                        {auto.mileage === 0 ? (
-                          <span className='text-sm font-semibold uppercase tracking-wider text-color-primary'>
-                            Nuevo <span className='text-color-primary'>•</span>{' '}
-                            {auto.mileage.toLocaleString('es-ES')} km
-                          </span>
-                        ) : (
-                          <span className='text-sm text-color-text-light font-medium uppercase tracking-wider'>
-                            Usado <span className='text-color-primary'>•</span>{' '}
-                            {auto.mileage.toLocaleString('es-ES')} km
-                          </span>
-                        )}
-                      </div>
+                      {auto.mileage && (
+                        <div className='flex justify-between items-center text-color-text-light mt-0.5'>
+                          {auto.mileage === 0 ? (
+                            <span className='text-sm font-semibold uppercase tracking-wider text-color-primary'>
+                              Nuevo{' '}
+                              <span className='text-color-primary'>•</span>{' '}
+                              {auto.mileage.toLocaleString('es-ES')} km
+                            </span>
+                          ) : (
+                            <span className='text-sm text-color-text-light font-medium uppercase tracking-wider'>
+                              Usado{' '}
+                              <span className='text-color-primary'>•</span>{' '}
+                              {auto.mileage.toLocaleString('es-ES')} km
+                            </span>
+                          )}
+                        </div>
+                      )}
 
                       <div className='md:mt-1'>
                         <span
