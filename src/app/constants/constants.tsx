@@ -5,17 +5,22 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'palmucciautomotores',
-  name: 'Palmucci Automotores',
-  adress: null,
-  city: null,
-  email: null,
-  instagram: 'palmucciautomotores',
-  facebook: 'https://www.facebook.com/p/palmucciautomotores-100063608766826/',
-  whatsapp: ['1166706326', '1121563700', '3484585798'],
-  googlemapsLink: null,
-  googlemaps: null,
-  openDays: null,
+  id: 'jafauto',
+  name: 'JAF AUTO',
+  adress: 'Av. Libertador 1848',
+  city: 'Alta Gracia',
+  email: 'jafauto2022@gmail.com',
+  instagram: 'jaf__auto',
+  facebook: 'https://www.facebook.com/profile.php?id=100084152474586',
+  whatsapp: ['3547450740', '3547450740'],
+  googlemapsLink: 'https://maps.app.goo.gl/f8TYDaKUo7EVjX6B8',
+  googlemaps:
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3396.100503141361!2d-64.4119743!3d-31.658469999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x942d576f38c73b37%3A0x7b5988a930d33623!2sJAF%20AUTO!5e0!3m2!1sen!2sar!4v1757433571995!5m2!1sen!2sar',
+  openDays: [
+    'Lunes a Viernes 9 a 12:30 y 17 a 20:30hs',
+    'Sábados 9 a 13hs',
+    // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
+  ],
   footer:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
@@ -24,36 +29,11 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://palmucciautomotores.vercel.app/',
-  title: 'Palmucci Automotores - Compra y Venta de Autos',
+  metadataBase: 'https://jafauto.vercel.app/',
+  title: 'JAF AUTO - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
-
-export const sedes = [
-  {
-    id: 1,
-    title: 'Palmucci 25 de Mayo',
-    adress: 'Av. 25 de Mayo 841',
-    city: 'Escobar',
-    tel: null,
-    whatsapp: '1122334455',
-    schedule: ['Lunes a Sábados 09:00 a 19:00hs'],
-    appointment: 'https://maps.app.goo.gl/bg1XMiuiKhBx7x3T6',
-    image: 'sede-1.webp',
-  },
-  {
-    id: 2,
-    title: 'Palmucci Tapia de cruz',
-    adress: 'Av. Tapia de cruz 1363',
-    city: 'Escobar',
-    tel: null,
-    whatsapp: '1122334455',
-    schedule: ['Lunes a Sábados 09:00 a 19:00hs'],
-    appointment: 'https://maps.app.goo.gl/4ktuiDMRxc1LCCcE8',
-    image: 'sede-2.webp',
-  },
-];
 
 // Cambie el archivo data.json, necesito que actualices la informacion de catalogo.json. Las images tomalas de images de data.json, la descripcion tomala de caption de data.json, pero necesito que el texto este parseado, que no este todo junto sin espacios y saltos de linea. En name pone la marca y el modelo del vehiculo en title case, marca, marcaId todo esto acorde a la informacion de caption. Si en caption no se dice kilometraje o precio pone 999999, categoria estimala para el vehiculo (categorias tipicas de vehiculos en argentina. como utilitario, deportivo, suv, hatchback, etc). Transmision, motor, combustible y puertas estimalas acorde al vehiculo. La cantidad de vehiculos tiene que ser la de data.json, si en catalogo.json hay otros vehiculos removelos, los vehiclos de catalogo json tienen que ser los mismos que en data.json. No hagas un script, simplemente actualizalo con ia.
 
