@@ -2,23 +2,23 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: true,
+  favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'dupontmotors',
-  name: 'Dupont Motors',
-  adress: 'Pres. Arturo Illia 1959',
-  city: 'Villa Maipú',
-  email: 'dupontmotors@gmail.com',
-  instagram: 'dupontmotors',
-  facebook: null,
-  whatsapp: ['1168175555'],
-  googlemapsLink: 'https://maps.app.goo.gl/84ewWieGTsvuBtQ4A',
+  id: 'pitcars',
+  name: 'Pit Cars',
+  adress: 'Ramal Pilar 1461',
+  city: 'Colectora Panamericana',
+  email: 'pitcarspilar@gmail.com',
+  instagram: 'pitcars.ar',
+  facebook: 'https://www.facebook.com/vagmarket1/',
+  whatsapp: ['1164438916'],
+  googlemapsLink: 'https://maps.app.goo.gl/pDB5quJ8LGniP2Yw6',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.35978673832!2d-58.519945099999994!3d-34.5697618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb700146962b9%3A0x470c2cde48fffdf8!2sDupont%20Motors!5e0!3m2!1sen!2sar!4v1757439991171!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.368431279177!2d-58.77399563634607!3d-34.44279430409873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bc9fc77a99c453%3A0x7743be88e16c3c74!2sPit-Cars!5e0!3m2!1sen!2sar!4v1757512552521!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Sábados 10:00 a 18:00hs',
-    'Domingos Cerrado',
+    'Lunes a Viernes 10:00 a 18:00hs',
+    'Sábados 10:00 a 13:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://dupontmotors.vercel.app/',
-  title: 'Dupont Motors - Compra y Venta de Autos',
+  metadataBase: 'https://pitcars.vercel.app/',
+  title: 'Pit Cars - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
