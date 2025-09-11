@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'famaautos',
-  name: 'FAMA AUTOS',
-  adress: 'Cabildo 625',
-  city: 'Avellaneda',
-  email: 'famaautos@gmail.com',
-  instagram: 'famaautos',
+  id: 'cornermotors',
+  name: 'Corner Motors',
+  adress: 'Av. Alvear 2025',
+  city: 'Benavidez',
+  email: 'cornermotors@gmail.com',
+  instagram: 'cornermotors',
   facebook: null,
-  whatsapp: ['1160130650', '1142094140'],
-  googlemapsLink: 'https://maps.app.goo.gl/jsay7XgAfU8grz4y9',
+  whatsapp: ['1130340203'],
+  googlemapsLink: 'https://maps.app.goo.gl/9xZiqEEvLZJ9Z25y6',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.155457532742!2d-58.394657623389435!3d-34.67602576132195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccd101263585f%3A0xeb586735828833!2sFama%20Autos!5e0!3m2!1sen!2sar!4v1757622551853!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.446905157473!2d-58.69596227534308!3d-34.41540164956545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca1c47a74e70d%3A0xa2c10522dd51313f!2sCorner%20Motors!5e0!3m2!1sen!2sar!4v1757630463658!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 10:00 a 18:00hs',
-    'Sábados 10:00 a 14:00hs',
+    'Lunes a Viernes 09:30 a 18:00hs',
+    'Sábados 09:30 a 13:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://famaautos.vercel.app/',
-  title: 'FAMA AUTOS - Compra y Venta de Autos',
+  metadataBase: 'https://cornermotors.vercel.app/',
+  title: 'Corner Motors - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
