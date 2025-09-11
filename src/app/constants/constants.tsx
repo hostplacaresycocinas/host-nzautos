@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'pitcars',
-  name: 'Pit Cars',
-  adress: 'Ramal Pilar 1461',
-  city: 'Colectora Panamericana',
-  email: 'pitcarspilar@gmail.com',
-  instagram: 'pitcars.ar',
-  facebook: 'https://www.facebook.com/vagmarket1/',
-  whatsapp: ['1164438916'],
-  googlemapsLink: 'https://maps.app.goo.gl/pDB5quJ8LGniP2Yw6',
+  id: 'famaautos',
+  name: 'FAMA AUTOS',
+  adress: 'Cabildo 625',
+  city: 'Avellaneda',
+  email: 'famaautos@gmail.com',
+  instagram: 'famaautos',
+  facebook: null,
+  whatsapp: ['1160130650', '1142094140'],
+  googlemapsLink: 'https://maps.app.goo.gl/jsay7XgAfU8grz4y9',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.368431279177!2d-58.77399563634607!3d-34.44279430409873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bc9fc77a99c453%3A0x7743be88e16c3c74!2sPit-Cars!5e0!3m2!1sen!2sar!4v1757512552521!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.155457532742!2d-58.394657623389435!3d-34.67602576132195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccd101263585f%3A0xeb586735828833!2sFama%20Autos!5e0!3m2!1sen!2sar!4v1757622551853!5m2!1sen!2sar',
   openDays: [
     'Lunes a Viernes 10:00 a 18:00hs',
-    'Sábados 10:00 a 13:00hs',
+    'Sábados 10:00 a 14:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://pitcars.vercel.app/',
-  title: 'Pit Cars - Compra y Venta de Autos',
+  metadataBase: 'https://famaautos.vercel.app/',
+  title: 'FAMA AUTOS - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
