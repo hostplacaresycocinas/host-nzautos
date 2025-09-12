@@ -41,8 +41,8 @@ interface ApiCar {
   description: string;
   categoryId: string;
   mileage: number | null;
-  motor: string;
-  transmission: string;
+  motor: string | null;
+  transmission: string | null;
   fuel: string;
   doors: number;
   position: number;
@@ -154,7 +154,7 @@ export default function AutoDetailPage() {
         // Ordenar las imágenes por el campo order
         const sortedImages = [...auto.Images].sort((a, b) => a.order - b.order);
         setOrderedImages(sortedImages);
-        setCar({ ...auto, Images: sortedImages });
+        setCar({ ...auto, Images: sortedImages } as ApiCar);
       } catch (error) {
         setError(
           error instanceof Error ? error.message : 'Error al cargar el vehículo'

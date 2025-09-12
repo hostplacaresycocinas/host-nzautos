@@ -5,19 +5,19 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'cornermotors',
-  name: 'Corner Motors',
-  adress: 'Av. Alvear 2025',
-  city: 'Benavidez',
-  email: 'cornermotors@gmail.com',
-  instagram: 'cornermotors',
+  id: 'automotoreslosmellizos',
+  name: 'Automotores Los Mellizos',
+  adress: 'Av. Rivadavia 10283',
+  city: 'CABA',
+  email: 'automotoreslosmellizos@gmail.com',
+  instagram: 'automotoreslosmellizos',
   facebook: null,
-  whatsapp: ['1130340203'],
-  googlemapsLink: 'https://maps.app.goo.gl/9xZiqEEvLZJ9Z25y6',
+  whatsapp: ['1167034819'],
+  googlemapsLink: 'https://maps.app.goo.gl/uY8Q3WK5b34ihXss7',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.446905157473!2d-58.69596227534308!3d-34.41540164956545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca1c47a74e70d%3A0xa2c10522dd51313f!2sCorner%20Motors!5e0!3m2!1sen!2sar!4v1757630463658!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13130.509860290973!2d-58.50835732053567!3d-34.63885339069475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc9068912f26b%3A0xf406c8378641e5fb!2sAutomotores%20Los%20Mellizos!5e0!3m2!1sen!2sar!4v1757680892524!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:30 a 18:00hs',
+    'Lunes a Viernes 10:30 a 19:00hs',
     'Sábados 09:30 a 13:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://cornermotors.vercel.app/',
-  title: 'Corner Motors - Compra y Venta de Autos',
+  metadataBase: 'https://automotoreslosmellizos.vercel.app/',
+  title: 'Automotores Los Mellizos - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
