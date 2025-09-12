@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'automotoreslosmellizos',
-  name: 'Automotores Los Mellizos',
-  adress: 'Av. Rivadavia 10283',
-  city: 'CABA',
-  email: 'automotoreslosmellizos@gmail.com',
-  instagram: 'automotoreslosmellizos',
-  facebook: null,
-  whatsapp: ['1167034819'],
-  googlemapsLink: 'https://maps.app.goo.gl/uY8Q3WK5b34ihXss7',
+  id: 'yimiautomotores',
+  name: 'Yimi Automotores',
+  adress: '44 N° 2205',
+  city: 'La Plata',
+  email: 'yimi_automotores@hotmail.com',
+  instagram: 'yimi_automotores',
+  facebook: 'https://www.facebook.com/profile.php?id=100041686819148',
+  whatsapp: ['2213600763'],
+  googlemapsLink: 'https://maps.app.goo.gl/uMCKCWwxy5TYMVuc6',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13130.509860290973!2d-58.50835732053567!3d-34.63885339069475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc9068912f26b%3A0xf406c8378641e5fb!2sAutomotores%20Los%20Mellizos!5e0!3m2!1sen!2sar!4v1757680892524!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.611376362506!2d-57.98890421469741!3d-34.94128228750536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2e80a13ee9087%3A0x54169c3dfd28da1e!2sYimi%20Automotores!5e0!3m2!1sen!2sar!4v1757688682442!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 10:30 a 19:00hs',
-    'Sábados 09:30 a 13:00hs',
+    'Lunes a Viernes 09:00 a 17:00hs',
+    'Sábados con cita previa',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://automotoreslosmellizos.vercel.app/',
-  title: 'Automotores Los Mellizos - Compra y Venta de Autos',
+  metadataBase: 'https://yimiautomotores.vercel.app/',
+  title: 'Yimi Automotores - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
