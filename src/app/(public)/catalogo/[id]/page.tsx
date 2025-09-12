@@ -479,7 +479,7 @@ export default function AutoDetailPage() {
                   )}
 
                   <div className='grid grid-cols-2 md:grid-cols-3 gap-4 text-color-text-light mb-6'>
-                    {car.mileage && (
+                    {car.mileage !== null && car.mileage !== undefined ? (
                       <div>
                         <p className='text-color-text-light text-sm font-medium'>
                           Kilometraje
@@ -494,9 +494,11 @@ export default function AutoDetailPage() {
                           {car.mileage.toLocaleString('es-AR')} km
                         </p>
                       </div>
+                    ) : (
+                      ''
                     )}
 
-                    {car.motor && (
+                    {car.motor ? (
                       <div className='flex flex-col gap-1'>
                         <p className='text-color-text-light text-sm font-medium'>
                           Motor
@@ -505,6 +507,8 @@ export default function AutoDetailPage() {
                           {car.motor}
                         </p>
                       </div>
+                    ) : (
+                      ''
                     )}
                     <div className='flex flex-col gap-1'>
                       <p className='text-color-text-light text-sm font-medium'>
@@ -514,7 +518,7 @@ export default function AutoDetailPage() {
                         {car.year}
                       </p>
                     </div>
-                    {car.transmission && (
+                    {car.transmission ? (
                       <div>
                         <p className='text-color-text-light text-sm font-medium'>
                           Transmisión
@@ -523,6 +527,8 @@ export default function AutoDetailPage() {
                           {car.transmission}
                         </p>
                       </div>
+                    ) : (
+                      ''
                     )}
                     <div>
                       <p className='text-color-text-light text-sm font-medium'>

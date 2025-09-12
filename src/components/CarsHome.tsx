@@ -294,7 +294,7 @@ const CarsHome = ({ title }: CarsHomeProps) => {
                       </div>
 
                       {/* Precio o etiqueta destacada */}
-                      {auto.mileage && (
+                      {auto.mileage !== null && auto.mileage !== undefined ? (
                         <div className='flex justify-between items-center text-color-text-light mt-0.5'>
                           {auto.mileage === 0 ? (
                             <span className='text-sm font-semibold uppercase tracking-wider text-color-primary'>
@@ -310,6 +310,8 @@ const CarsHome = ({ title }: CarsHomeProps) => {
                             </span>
                           )}
                         </div>
+                      ) : (
+                        ''
                       )}
 
                       <div className='md:mt-1'>
