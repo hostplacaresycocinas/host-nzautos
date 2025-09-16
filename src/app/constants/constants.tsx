@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'sancars',
-  name: 'San Cars',
-  adress: 'Pavón 1225',
-  city: 'San Francisco - Cordoba',
-  email: 'fsandrone.comercial@gmail.com',
-  instagram: 'sancars_automotores',
-  facebook: 'https://www.facebook.com/p/sancars_automotores-100087434199574/',
-  whatsapp: ['3564525212'],
-  googlemapsLink: 'https://maps.app.goo.gl/KVyUGiVrtVnGjLLg8',
+  id: 'picarsautomotores',
+  name: 'Picars Automotores',
+  adress: 'Hipólito Yrigoyen 20423',
+  city: 'Glew',
+  email: 'picars@live.com.ar',
+  instagram: 'picarsautomotores',
+  facebook: 'https://www.facebook.com/picarsautomotores',
+  whatsapp: ['1133535512'],
+  googlemapsLink: 'https://maps.app.goo.gl/hMfNyc4PEgy4nQ5A8',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3404.9950812953743!2d-62.1059403!3d-31.414261600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95cb29d2d38037ef%3A0x317dc85d5b58cd66!2sSAN-CARS%20AUTOMOTORES!5e0!3m2!1sen!2sar!4v1757696288690!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.919632459554!2d-58.38999429288253!3d-34.88336437722678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd543eb231279%3A0x57cd3b667149dcab!2sPicars%20Automotores!5e0!3m2!1sen!2sar!4v1757720744592!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 8 a 12:30 y 15 a 19hs',
-    'Viernes 9 a 19hs',
+    'Lunes a Viernes 10:00 a 18:00hs',
+    'Viernes 10:00 a 15:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://sancars.vercel.app/',
-  title: 'San Cars - Compra y Venta de Autos',
+  metadataBase: 'https://picarsautomotores.vercel.app/',
+  title: 'Picars Automotores - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
