@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'autosmodena',
-  name: 'Autos Modena',
-  adress: 'Nicolas Videla 69',
+  id: 'ruloautos',
+  name: 'Rulo Autos',
+  adress: 'Av. Tomas Flores 1741',
   city: 'Quilmes',
-  email: 'autosmodena@gmail.com',
-  instagram: 'autosmodena',
-  facebook: 'https://www.facebook.com/p/Autos-Modena-61557790419028/',
-  whatsapp: ['1138800084'],
-  googlemapsLink: 'https://maps.app.goo.gl/D2eCRC2SLLreRgAs8',
+  email: 'ruloautos@gmail.com',
+  instagram: 'ruloautos',
+  facebook: null,
+  whatsapp: ['1155809815'],
+  googlemapsLink: 'https://maps.app.goo.gl/B6Tz1B7UeJd3Tco98',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.3357600719173!2d-58.26347542338769!3d-34.72193016375248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a32f006d2eeb1b%3A0xf86af08fd57ab702!2sAutos%20Modena!5e0!3m2!1sen!2sar!4v1759019642927!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.4801071147353!2d-58.329228723386905!3d-34.74349686489509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a32d0a7d1a9e77%3A0x8845e01b5c1d7d3f!2sRulo%20Autos!5e0!3m2!1sen!2sar!4v1759021452166!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:00 a 18:00hs',
-    'Viernes 09:00 a 14:00hs',
+    'Lunes a Viernes 08:00 a 19:00hs',
+    'Viernes 08:00 a 13:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://autosmodena.vercel.app/',
-  title: 'Autos Modena - Compra y Venta de Autos',
+  metadataBase: 'https://ruloautos.vercel.app/',
+  title: 'Rulo Autos - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
