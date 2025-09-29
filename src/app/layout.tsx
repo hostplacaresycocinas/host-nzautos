@@ -9,7 +9,7 @@ const archivo = Archivo({ subsets: ['latin'], variable: '--font-archivo' });
 const anton = Anton({
   subsets: ['latin'],
   variable: '--font-anton',
-  weight: ['400'],
+  weight: '400',
 });
 
 export const metadata: Metadata = {
@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang='es'>
       <body
-        className={`${archivo.variable} ${anton.variable} font-archivo font-anton bg-color-bg-primary text-color-text antialiased`}
+        className={`${archivo.variable} ${anton.variable} font-archivo bg-color-bg-primary text-color-text antialiased`}
       >
         <ScrollToTopProvider />
         {children}

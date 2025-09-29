@@ -11,7 +11,7 @@ const config: Config = {
     extend: {
       fontFamily: {
         archivo: ['var(--font-archivo)', 'sans-serif'],
-        anton: ['var(--font-anton)', 'sans-serif'],
+        anton: ['var(--font-anton)', 'Anton', 'Arial Black', 'sans-serif'],
       },
       colors: {
         'color-primary': '#ffff',

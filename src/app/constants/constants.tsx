@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'picarsautomotores',
-  name: 'Picars Automotores',
-  adress: 'Hipólito Yrigoyen 20423',
-  city: 'Glew',
-  email: 'picars@live.com.ar',
-  instagram: 'picarsautomotores',
-  facebook: 'https://www.facebook.com/picarsautomotores',
-  whatsapp: ['1133535512'],
-  googlemapsLink: 'https://maps.app.goo.gl/hMfNyc4PEgy4nQ5A8',
+  id: 'autosmodena',
+  name: 'Autos Modena',
+  adress: 'Nicolas Videla 69',
+  city: 'Quilmes',
+  email: 'autosmodena@gmail.com',
+  instagram: 'autosmodena',
+  facebook: 'https://www.facebook.com/p/Autos-Modena-61557790419028/',
+  whatsapp: ['1138800084'],
+  googlemapsLink: 'https://maps.app.goo.gl/D2eCRC2SLLreRgAs8',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.919632459554!2d-58.38999429288253!3d-34.88336437722678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd543eb231279%3A0x57cd3b667149dcab!2sPicars%20Automotores!5e0!3m2!1sen!2sar!4v1757720744592!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.3357600719173!2d-58.26347542338769!3d-34.72193016375248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a32f006d2eeb1b%3A0xf86af08fd57ab702!2sAutos%20Modena!5e0!3m2!1sen!2sar!4v1759019642927!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 10:00 a 18:00hs',
-    'Viernes 10:00 a 15:00hs',
+    'Lunes a Viernes 09:00 a 18:00hs',
+    'Viernes 09:00 a 14:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://picarsautomotores.vercel.app/',
-  title: 'Picars Automotores - Compra y Venta de Autos',
+  metadataBase: 'https://autosmodena.vercel.app/',
+  title: 'Autos Modena - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
