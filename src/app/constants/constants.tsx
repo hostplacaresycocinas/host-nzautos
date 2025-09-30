@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'ruloautos',
-  name: 'Rulo Autos',
-  adress: 'Av. Tomas Flores 1741',
-  city: 'Quilmes',
-  email: 'ruloautos@gmail.com',
-  instagram: 'ruloautos',
-  facebook: null,
-  whatsapp: ['1155809815'],
-  googlemapsLink: 'https://maps.app.goo.gl/B6Tz1B7UeJd3Tco98',
+  id: 'cityautos',
+  name: 'City Autos',
+  adress: 'Av. de los Incas 5087',
+  city: 'CABA',
+  email: 'agustinbarraza412@gmail.com',
+  instagram: 'cityautos.ventas',
+  facebook: 'https://www.facebook.com/p/City-Auto-61572710848704/',
+  whatsapp: ['1136448135'],
+  googlemapsLink: 'https://maps.app.goo.gl/iEayTLavdDF36fK68',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.4801071147353!2d-58.329228723386905!3d-34.74349686489509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a32d0a7d1a9e77%3A0x8845e01b5c1d7d3f!2sRulo%20Autos!5e0!3m2!1sen!2sar!4v1759021452166!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.7287007599443!2d-58.48311968733035!3d-34.585730656438066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb66b566cd87f%3A0x44c365e952b4ec5c!2sCITYAUTO!5e0!3m2!1sen!2sar!4v1759254550053!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 08:00 a 19:00hs',
-    'Viernes 08:00 a 13:00hs',
+    'Lunes a Viernes 10:00 a 19:00hs',
+    'Sábado 10:00 a 18:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://ruloautos.vercel.app/',
-  title: 'Rulo Autos - Compra y Venta de Autos',
+  metadataBase: 'https://cityautos.vercel.app/',
+  title: 'City Autos - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
