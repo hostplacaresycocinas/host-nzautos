@@ -5,17 +5,17 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'supramotors',
-  name: 'Supramotors',
-  adress: 'Av. del Libertador 2275',
-  city: 'Olivos',
-  email: 'supramotors@gmail.com',
-  instagram: 'supramotors_',
-  facebook: null,
-  whatsapp: ['1171643544'],
-  googlemapsLink: 'https://maps.app.goo.gl/Ts9aNhhTTYPiN8BZ9',
+  id: 'zafiroautos',
+  name: 'Zafiro Autos',
+  adress: 'Av. Gregorio Lemos 2241',
+  city: 'Villa de Mayo',
+  email: 'zafiroautos@gmail.com',
+  instagram: 'zafiro.autos',
+  facebook: 'https://www.facebook.com/zafiroautos',
+  whatsapp: ['1165966233'],
+  googlemapsLink: 'https://maps.app.goo.gl/kKXjNNespGpndLsTA',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3287.714650361894!2d-58.48096618733272!3d-34.51011775245068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb1438c2ffaa7%3A0x2f7bbed64c74a7d2!2sSUPRAMOTORS!5e0!3m2!1sen!2sar!4v1759323560234!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3287.0500560989567!2d-58.68759028733213!3d-34.52695975333824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd7d9acb675f%3A0x3a542fea0cf08bcf!2sZafiro%20Autos%20Seleccionados!5e0!3m2!1sen!2sar!4v1759271835118!5m2!1sen!2sar',
   openDays: [
     'Lunes a Viernes 09:00 a 18:00hs',
     'Sábado 09:00 a 13:00hs',
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://supramotors.vercel.app/',
-  title: 'Supramotors - Compra y Venta de Autos',
+  metadataBase: 'https://zafiroautos.vercel.app/',
+  title: 'Zafiro Autos - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
