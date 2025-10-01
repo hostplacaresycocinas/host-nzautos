@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'clasificars',
-  name: 'ClasifiCars',
-  adress: 'Olazar 46',
+  id: 'mambacars',
+  name: 'Mamba Cars',
+  adress: 'Namuncura 180',
   city: 'Mar del Plata',
-  email: 'clasificarsmdp@gmail.com',
-  instagram: 'clasificars_',
-  facebook: 'https://www.facebook.com/profile.php?id=61574254413228#',
-  whatsapp: ['2235173567'],
-  googlemapsLink: 'https://maps.app.goo.gl/wNLVEfFj81QyLViQ8',
+  email: 'taderuiz96@gmail.com',
+  instagram: 'mambacarselect',
+  facebook: 'https://www.facebook.com/mamba.carselect',
+  whatsapp: ['2235835134'],
+  googlemapsLink: 'https://maps.app.goo.gl/nppHL6uctg9bJ5et6',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.0102647428016!2d-57.599584723258!3d-38.0002210447189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584d90074b5203f%3A0xdac8bf848fcb0745!2sClasificars!5e0!3m2!1sen!2sar!4v1759336925874!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.599080263975!2d-57.58651832116352!3d-38.00981097802643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584df65e1c600db%3A0x93623ea7e3f3dafd!2sMamba%20Cars%20Select!5e0!3m2!1sen!2sar!4v1759338636271!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:00 a 18:00hs',
-    'Sábado 10:00 a 14:00hs',
+    'Lunes a Viernes 09:00 a 17:00hs',
+    'Sábado y Domingo Cerrado',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://clasificars.vercel.app/',
-  title: 'ClasifiCars - Compra y Venta de Autos',
+  metadataBase: 'https://mambacars.vercel.app/',
+  title: 'Mamba Cars - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
