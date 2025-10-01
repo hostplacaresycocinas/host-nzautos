@@ -2,23 +2,24 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: false,
+  favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'luzzigarage',
-  name: 'Luzzi Garage',
-  adress: 'Av. los Alamos 453',
-  city: 'Córdoba',
-  email: 'luzzigarage@gmail.com',
-  instagram: 'luzzi.garage',
-  facebook: 'https://www.facebook.com/profile.php?id=61572705629144',
-  whatsapp: ['3515525354', '3512404822'],
-  googlemapsLink: 'https://maps.app.goo.gl/VnXK8rtKsdM5MuXS7',
+  id: 'automotoresbatan',
+  name: 'Automotores Batan',
+  adress: 'Salvador Allende 3034',
+  city: 'Batán',
+  email: 'automotoresbatan@gmail.com',
+  instagram: 'automotores.batan',
+  facebook:
+    'https://www.facebook.com/people/Automotores-Bat%C3%A1n/61574861276245/',
+  whatsapp: ['2236977088'],
+  googlemapsLink: 'https://maps.app.goo.gl/CEmDSLrRwGu4N4ob8',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3407.0725223628415!2d-64.31292038743096!3d-31.356977893277193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329f006f3daf5f%3A0x3095c7119061b4bf!2sLUZZI%20GARAGE!5e0!3m2!1sen!2sar!4v1759319481770!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.6732305323094!2d-57.70879892325775!3d-38.00808174517004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x958526f17f787895%3A0x6b124a83864c9e0e!2sAutomotores%20Bat%C3%A1n!5e0!3m2!1sen!2sar!4v1759335524682!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:30 a 18:00hs',
-    'Sábado y Domingo Cerrado',
+    'Lunes a Viernes 8:30 a 12:30 y 15:30 a 19:30hs',
+    'Sábado 8:30 a 13:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +30,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://luzzigarage.vercel.app/',
-  title: 'Luzzi Garage - Compra y Venta de Autos',
+  metadataBase: 'https://automotoresbatan.vercel.app/',
+  title: 'Automotores Batan - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
