@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'magautomoviles',
-  name: 'MAG AUTOMOVILES',
-  adress: 'Agustín M. García 5600',
-  city: 'Benavidez',
-  email: 'giulianomazzitelli9@gmail.com',
-  instagram: 'magautomoviles',
-  facebook: 'https://www.facebook.com/arielgaston.bentolila',
-  whatsapp: ['1130215779'],
-  googlemapsLink: 'https://maps.app.goo.gl/428Vyd2eiPX6B4BR9',
+  id: 'horacioromaniautomotores',
+  name: 'Horacio Romani Automotores',
+  adress: 'Av. Colón 4350',
+  city: 'Mar del Plata',
+  email: 'hromaniautomotores@gmail.com',
+  instagram: 'hromaniautomotores',
+  facebook: 'https://www.facebook.com/HRomaniAutomotores',
+  whatsapp: ['2234384537', '2234383294', '2235168081'],
+  googlemapsLink: 'https://maps.app.goo.gl/hWL9V4pTBbEjq1Mx6',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d822.9820417183643!2d-58.63081917142851!3d-34.40317169178539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca6a435297a71%3A0x1d9003ba3c64450b!2sMag%20Automoviles!5e0!3m2!1sen!2sar!4v1759280091891!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.245339438499!2d-57.57049932325844!3d-37.994737544404074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584d94cfc7e7a73%3A0xecc5dd4b0b16e5cb!2sHoracio%20Romani%20Automotores!5e0!3m2!1sen!2sar!4v1759288666439!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:00 a 18:00hs',
-    'Sábado 09:30 a 16:00hs',
+    'Lunes a Viernes 10 a 13 y 16 a 19hs',
+    'Sábado 10 a 13hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://magautomoviles.vercel.app/',
-  title: 'MAG AUTOMOVILES - Compra y Venta de Autos',
+  metadataBase: 'https://horacioromaniautomotores.vercel.app/',
+  title: 'Horacio Romani Automotores - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };

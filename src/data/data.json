@@ -1,165 +1,22 @@
 {
-  "total": 12,
+  "total": 15,
   "totalPages": 1,
   "currentPage": 1,
   "cars": [
     {
-      "price": 85000,
+      "price": 60000,
       "position": 1000,
       "downPayment": null,
-      "id": "generated-1759280649650-0",
-      "brand": "Jeep",
-      "model": "Gladiator",
-      "year": 2022,
-      "color": "Negro",
+      "id": "generated-1759291227155-0",
+      "brand": "Bmw",
+      "model": "Serie",
+      "year": 2017,
+      "color": "Plateado",
       "currency": "USD",
-      "description": "JEEP GLADIATOR OVERLAND\n-2022\n-20000 KM\n\nPERMUTAMOS/FINANCIAMOS/ACEPTAMOS CRIPTOMONEDAS",
-      "categoryId": "suv",
-      "dealershipId": "dealership-mag",
-      "mileage": 20000,
-      "transmission": "Automática",
-      "fuel": "Nafta",
-      "doors": 5,
-      "active": true,
-      "featured": false,
-      "favorite": false,
-      "lastFeaturedAt": null,
-      "lastFavoriteAt": null,
-      "mlId": "MLA2178522480",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2178522480-jeep-gladiator-36-overland-4x4-at8-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Jeep Gladiator 3.6 Overland 4x4 At8",
-      "mlCleanPrice": null,
-      "mlLocation": null,
-      "mlCondition": null,
-      "mlListId": null,
-      "mlBodyType": "SUV",
-      "mlEngine": "3.6",
-      "mlPower": null,
-      "mlGears": null,
-      "mlDimensions": null,
-      "mlFuelCapacity": null,
-      "mlValvesPerCylinder": null,
-      "mlSeatCapacity": null,
-      "mlTractionControl": null,
-      "mlAbsBrakes": null,
-      "mlAutoHeadlights": null,
-      "mlAirbags": null,
-      "mlStabilityControl": null,
-      "mlSingleOwner": null,
-      "mlAcceptsTrade": null,
-      "mlAirConditioning": null,
-      "mlBoardComputer": null,
-      "mlRainSensor": null,
-      "mlRemoteRadioControl": null,
-      "mlAssistedSteering": null,
-      "mlAlarm": null,
-      "mlAlloyWheels": null,
-      "mlCd": null,
-      "mlLeatherSeats": null,
-      "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-0",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-0",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
-      "Category": {
-        "id": "suv",
-        "name": "suv"
-      },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_755496-MLA87590773212_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_755496-MLA87590773212_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_706180-MLA87591426654_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_706180-MLA87591426654_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_629754-MLA87590802534_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_629754-MLA87590802534_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_625049-MLA87923486249_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_625049-MLA87923486249_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_710366-MLA87923625191_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_710366-MLA87923625191_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_687324-MLA87923496267_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_687324-MLA87923496267_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_833167-MLA87591634774_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_833167-MLA87591634774_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_655314-MLA87590733334_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_655314-MLA87590733334_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_731240-MLA87923625089_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_731240-MLA87923625089_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_611236-MLA87590793222_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_611236-MLA87590793222_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_673771-MLA87590773154_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_673771-MLA87590773154_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_672293-MLA87923158597_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_672293-MLA87923158597_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_817497-MLA87591634780_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_817497-MLA87591634780_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_717551-MLA87922474673_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_717551-MLA87922474673_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_699154-MLA87590773060_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_699154-MLA87590773060_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_755060-MLA87591495800_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_755060-MLA87591495800_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_995608-MLA87922474677_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_995608-MLA87922474677_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_835106-MLA87591515568_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_835106-MLA87591515568_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_722447-MLA87923625185_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_722447-MLA87923625185_072025-F.webp"
-        }
-      ]
-    },
-    {
-      "price": 55000,
-      "position": 2000,
-      "downPayment": null,
-      "id": "generated-1759280649650-1",
-      "brand": "Audi",
-      "model": "Tt",
-      "year": 2012,
-      "color": "Rojo",
-      "currency": "USD",
-      "description": "AUDI TTRS 100% ORIGINAL\n-2012\n-60000 KM\n\nVENDO/PERMUTO",
-      "categoryId": "autos",
-      "dealershipId": "dealership-mag",
-      "mileage": 60000,
+      "description": "Vendo/Permuto/Financio con DNI\nExcelente estado \nRecién transferida titular al día",
+      "categoryId": "coupé",
+      "dealershipId": "dealership-romani",
+      "mileage": 69000,
       "transmission": "Automática",
       "fuel": "Nafta",
       "doors": 2,
@@ -168,16 +25,16 @@
       "favorite": false,
       "lastFeaturedAt": null,
       "lastFavoriteAt": null,
-      "mlId": "MLA2341280792",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2341280792-audi-tt-rs-coupe-25-tfsi-stronic-340cv-quattro-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Audi Tt Rs Coupe 2.5 Tfsi Stronic 340cv Quattro",
+      "mlId": "MLA2164351582",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2164351582-bmw-serie-2-30-240i-m-package-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Bmw Serie 2 3.0 240i M Package",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
-      "mlBodyType": null,
-      "mlEngine": "2.5",
+      "mlBodyType": "Coupé",
+      "mlEngine": "3.0",
       "mlPower": null,
       "mlGears": null,
       "mlDimensions": null,
@@ -201,351 +58,327 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-1",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-1",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
+      "mlImagesHash": "hash-1759291227156-0",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-0",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
       "Category": {
-        "id": "autos",
-        "name": "autos"
+        "id": "coupé",
+        "name": "coupé"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_994498-MLA92149645553_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_994498-MLA92149645553_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_704873-MLA80469149183_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_704873-MLA80469149183_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_736735-MLA91748649768_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_736735-MLA91748649768_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_619031-MLA80468961485_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_619031-MLA80468961485_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_849911-MLA91748757406_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_849911-MLA91748757406_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_844725-MLA80212397220_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_844725-MLA80212397220_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_633151-MLA91748836632_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_633151-MLA91748836632_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_857645-MLA80212397226_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_857645-MLA80212397226_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_605454-MLA91748936140_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_605454-MLA91748936140_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_695475-MLA80469179097_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_695475-MLA80469179097_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_970590-MLA92149569035_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_970590-MLA92149569035_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_772558-MLA80469149193_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_772558-MLA80469149193_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_989375-MLA92149569045_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_989375-MLA92149569045_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_627539-MLA80469149195_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_627539-MLA80469149195_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_789714-MLA91748956046_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_789714-MLA91748956046_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_762340-MLA80469149201_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_762340-MLA80469149201_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_970581-MLA92149539481_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_970581-MLA92149539481_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_785519-MLA80468961505_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_785519-MLA80468961505_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_813252-MLA91748956052_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_813252-MLA91748956052_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_719191-MLA80212357540_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_719191-MLA80212357540_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_939665-MLA91748581688_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_939665-MLA91748581688_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_898953-MLA80212317886_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_898953-MLA80212317886_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_963411-MLA91748630142_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_963411-MLA91748630142_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_796962-MLA80212387304_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_796962-MLA80212387304_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_814103-MLA92149539509_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_814103-MLA92149539509_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_768543-MLA80468991053_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_768543-MLA80468991053_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_699360-MLA91748836670_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_699360-MLA91748836670_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_888964-MLA80468961519_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_888964-MLA80468961519_112024-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_672722-MLA91748699000_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_672722-MLA91748699000_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_905995-MLA91748649822_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_905995-MLA91748649822_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_809869-MLA91748649824_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_809869-MLA91748649824_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_821868-MLA91748649830_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_821868-MLA91748649830_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_855473-MLA80468931813_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_855473-MLA80468931813_112024-F.webp"
         }
       ]
     },
     {
-      "price": 80000,
+      "price": 38600,
+      "position": 2000,
+      "downPayment": null,
+      "id": "generated-1759291227156-1",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "year": 2023,
+      "color": "Blanco",
+      "currency": "USD",
+      "description": "Vendo/Permuto/Financio con DNI hasta el 50% del valor (apto crédito uva variable 28% o tradicional fijo)\nTitular al día lista para transferir\nSrv full 4x4 completa\nComo 0km",
+      "categoryId": "pick-up",
+      "dealershipId": "dealership-romani",
+      "mileage": 63000,
+      "transmission": "Automática",
+      "fuel": "Diésel",
+      "doors": 4,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2404368280",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2404368280-toyota-hilux-pick-up-28-cd-srv-177cv-4x4-at-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Toyota Hilux Pick-up 2.8 Cd Srv 177cv 4x4 At",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "Pick-Up",
+      "mlEngine": "2.8",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227156-1",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-1",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "pick-up",
+        "name": "pick-up"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_719319-MLA93397003934_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_719319-MLA93397003934_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_810464-MLA93397629898_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_810464-MLA93397629898_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_781800-MLA93816180491_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_781800-MLA93816180491_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_669872-MLA93816815411_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_669872-MLA93816815411_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_906018-MLA93397619976_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_906018-MLA93397619976_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_930433-MLA93397113386_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_930433-MLA93397113386_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_986160-MLA93816616987_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_986160-MLA93816616987_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_851548-MLA93397639824_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_851548-MLA93397639824_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_739508-MLA93397629914_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_739508-MLA93397629914_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_792758-MLA93397143412_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_792758-MLA93397143412_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_622192-MLA93816071433_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_622192-MLA93816071433_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_760785-MLA93397619994_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_760785-MLA93397619994_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_851612-MLA93816596975_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_851612-MLA93816596975_092025-F.webp"
+        }
+      ]
+    },
+    {
+      "price": 11700,
       "position": 3000,
       "downPayment": null,
-      "id": "generated-1759280649650-2",
-      "brand": "Ford",
-      "model": "F-150",
-      "year": 2020,
-      "color": "Blanco",
-      "currency": "USD",
-      "description": "FORD F150 RAPTOR CON ACCESORIOS\n-2020\n-68000 KM\n-SERVICE OFICIAL ROBAYNA\n\n-VALVULA CUT OUT/SEPARADORES/LUCES DE CAPOT/AUXILIARES\n\nTOMAMOS PERMUTA/FINANCIAMOS/ACEPTAMOS CRIPTOMONEDAS",
-      "categoryId": "pick-up",
-      "dealershipId": "dealership-mag",
-      "mileage": 68000,
-      "transmission": "Automática",
-      "fuel": "Nafta",
-      "doors": 4,
-      "active": true,
-      "featured": false,
-      "favorite": false,
-      "lastFeaturedAt": null,
-      "lastFavoriteAt": null,
-      "mlId": "MLA2178062572",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2178062572-ford-f-150-raptor-35l-bi-turbo-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Ford F-150 Raptor 3.5l Bi-turbo",
-      "mlCleanPrice": null,
-      "mlLocation": null,
-      "mlCondition": null,
-      "mlListId": null,
-      "mlBodyType": "Pick-Up",
-      "mlEngine": "3.5",
-      "mlPower": null,
-      "mlGears": null,
-      "mlDimensions": null,
-      "mlFuelCapacity": null,
-      "mlValvesPerCylinder": null,
-      "mlSeatCapacity": null,
-      "mlTractionControl": null,
-      "mlAbsBrakes": null,
-      "mlAutoHeadlights": null,
-      "mlAirbags": null,
-      "mlStabilityControl": null,
-      "mlSingleOwner": null,
-      "mlAcceptsTrade": null,
-      "mlAirConditioning": null,
-      "mlBoardComputer": null,
-      "mlRainSensor": null,
-      "mlRemoteRadioControl": null,
-      "mlAssistedSteering": null,
-      "mlAlarm": null,
-      "mlAlloyWheels": null,
-      "mlCd": null,
-      "mlLeatherSeats": null,
-      "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-2",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-2",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
-      "Category": {
-        "id": "pick-up",
-        "name": "pick-up"
-      },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_965958-MLA87589481996_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_965958-MLA87589481996_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_687457-MLA87921669443_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_687457-MLA87921669443_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_611715-MLA87921550001_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_611715-MLA87921550001_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_773127-MLA87589353346_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_773127-MLA87589353346_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_651030-MLA87589353336_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_651030-MLA87589353336_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_721849-MLA87589571402_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_721849-MLA87589571402_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_612275-MLA87589382556_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_612275-MLA87589382556_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_726600-MLA87921619399_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_726600-MLA87921619399_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_704833-MLA87589481912_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_704833-MLA87589481912_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_891079-MLA87921619391_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_891079-MLA87921619391_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_800600-MLA87921659431_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_800600-MLA87921659431_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_774677-MLA87589412436_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_774677-MLA87589412436_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_810161-MLA87589353304_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_810161-MLA87589353304_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_955922-MLA87589531676_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_955922-MLA87589531676_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_738362-MLA87590065342_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_738362-MLA87590065342_072025-OO.jpg"
-        }
-      ]
-    },
-    {
-      "price": 80000,
-      "position": 4000,
-      "downPayment": null,
-      "id": "generated-1759280649650-3",
-      "brand": "Ford",
-      "model": "F-150",
-      "year": 2020,
-      "color": "Blanco",
-      "currency": "USD",
-      "description": "FORD F150 RAPTOR CON ACCESORIOS…\n-luces auxiliares\n-luces de capot \n-separadores\n-válvula cut out\n-pantalla tipo tesla\n\nVENDO/PERMUTO",
-      "categoryId": "pick-up",
-      "dealershipId": "dealership-mag",
-      "mileage": 72000,
-      "transmission": "Automática",
-      "fuel": "Nafta",
-      "doors": 4,
-      "active": true,
-      "featured": false,
-      "favorite": false,
-      "lastFeaturedAt": null,
-      "lastFavoriteAt": null,
-      "mlId": "MLA2341319084",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2341319084-ford-f-150-raptor-35l-bi-turbo-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Ford F-150 Raptor 3.5l Bi-turbo",
-      "mlCleanPrice": null,
-      "mlLocation": null,
-      "mlCondition": null,
-      "mlListId": null,
-      "mlBodyType": "Pick-Up",
-      "mlEngine": "3.5",
-      "mlPower": null,
-      "mlGears": null,
-      "mlDimensions": null,
-      "mlFuelCapacity": null,
-      "mlValvesPerCylinder": null,
-      "mlSeatCapacity": null,
-      "mlTractionControl": null,
-      "mlAbsBrakes": null,
-      "mlAutoHeadlights": null,
-      "mlAirbags": null,
-      "mlStabilityControl": null,
-      "mlSingleOwner": null,
-      "mlAcceptsTrade": null,
-      "mlAirConditioning": null,
-      "mlBoardComputer": null,
-      "mlRainSensor": null,
-      "mlRemoteRadioControl": null,
-      "mlAssistedSteering": null,
-      "mlAlarm": null,
-      "mlAlloyWheels": null,
-      "mlCd": null,
-      "mlLeatherSeats": null,
-      "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-3",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-3",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
-      "Category": {
-        "id": "pick-up",
-        "name": "pick-up"
-      },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_979155-MLA91748908366_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_979155-MLA91748908366_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_679478-MLA91748838360_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_679478-MLA91748838360_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_971752-MLA91748583376_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_971752-MLA91748583376_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_826904-MLA91748957840_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_826904-MLA91748957840_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_759971-MLA91748957842_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_759971-MLA91748957842_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_763234-MLA91748838378_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_763234-MLA91748838378_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_864621-MLA91748878364_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_864621-MLA91748878364_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_999925-MLA91748838390_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_999925-MLA91748838390_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_691396-MLA92149647439_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_691396-MLA92149647439_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_968820-MLA91748661804_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_968820-MLA91748661804_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_940056-MLA92149541231_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_940056-MLA92149541231_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_633758-MLA91748838408_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_633758-MLA91748838408_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_794803-MLA91748957864_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_794803-MLA91748957864_092025-F.webp"
-        }
-      ]
-    },
-    {
-      "price": 12600,
-      "position": 5000,
-      "downPayment": null,
-      "id": "generated-1759280649650-4",
-      "brand": "Fiat",
-      "model": "Cronos",
-      "year": 2021,
+      "id": "generated-1759291227156-2",
+      "brand": "Peugeot",
+      "model": "208",
+      "year": 2014,
       "color": "Gris",
       "currency": "USD",
-      "description": "FIAT CRONOS DRIVE 1.3 SDESIGN\n-2021\n-72000 KM\n\n-4 cubiertas recién puestas\n\nPERMUTAMOS/FINANCIAMOS/ACEPTAMOS CRIPTOMONEDAS",
-      "categoryId": "sedán",
-      "dealershipId": "dealership-mag",
-      "mileage": 72000,
+      "description": "Vendo/Permuto/Financio con DNI hasta el 50% del valor (apto crédito uva variable 28% o tradicional fijo)\n208 feline tope gama full full techo pantalla\n1.6 nafta\nListo para transferir",
+      "categoryId": "hatchback",
+      "dealershipId": "dealership-romani",
+      "mileage": 178000,
       "transmission": "Manual",
+      "fuel": "Nafta",
+      "doors": 5,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2404277410",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2404277410-peugeot-208-16-feline-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Peugeot 208 1.6 Feline",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "Hatchback",
+      "mlEngine": "1.6",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227156-2",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-2",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "hatchback",
+        "name": "hatchback"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_625716-MLA93397636400_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_625716-MLA93397636400_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_958152-MLA93814894335_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_958152-MLA93814894335_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_742759-MLA93397039978_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_742759-MLA93397039978_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_775530-MLA93397616454_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_775530-MLA93397616454_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_990569-MLA93814904223_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_990569-MLA93814904223_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_755009-MLA93816216905_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_755009-MLA93816216905_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_689971-MLA93396741876_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_689971-MLA93396741876_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_639090-MLA93816078049_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_639090-MLA93816078049_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_863256-MLA93397090026_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_863256-MLA93397090026_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_810015-MLA93816202491_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_810015-MLA93816202491_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_832789-MLA93816608737_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_832789-MLA93816608737_092025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_615704-MLA93816291707_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_615704-MLA93816291707_092025-OO.jpg"
+        }
+      ]
+    },
+    {
+      "price": 42900,
+      "position": 4000,
+      "downPayment": null,
+      "id": "generated-1759291227156-3",
+      "brand": "Mercedes-benz",
+      "model": "Clase",
+      "year": 2020,
+      "color": "Gris",
+      "currency": "USD",
+      "description": "Vendo/Permuto/Financio con dni hasta el 40% del valor\nTitular al día listo para transferir \nExcelente estado igual a 0km\nÚnico dueño\n\nMercedes Benz Clase A200 \nProgressive Sedan\nAño 2020\nKilómetros 50.000\nMotor 1.3 turbo \nCaja automática \nPantalla led \nLuces LED \nCámara de estacionamiento",
+      "categoryId": "sedán",
+      "dealershipId": "dealership-romani",
+      "mileage": 49900,
+      "transmission": "Automática",
       "fuel": "Nafta",
       "doors": 4,
       "active": true,
@@ -553,10 +386,10 @@
       "favorite": false,
       "lastFeaturedAt": null,
       "lastFavoriteAt": null,
-      "mlId": "MLA1518685967",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1518685967-fiat-cronos-13-gse-drive-pack-conectividad-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Fiat Cronos 1.3 Gse Drive Pack Conectividad",
+      "mlId": "MLA2174340342",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2174340342-mercedes-benz-clase-a-13-a200-163cv-progressive-sedan-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Mercedes-benz Clase A 1.3 A200 163cv Progressive Sedan",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
@@ -586,327 +419,97 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-4",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-4",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
+      "mlImagesHash": "hash-1759291227156-3",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-3",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
       "Category": {
         "id": "sedán",
         "name": "sedán"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_617895-MLA91444896707_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_617895-MLA91444896707_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_902588-MLA87456318134_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_902588-MLA87456318134_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_604966-MLA91052666428_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_604966-MLA91052666428_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_951536-MLA87455834216_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_951536-MLA87455834216_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_809680-MLA91444876905_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_809680-MLA91444876905_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_955569-MLA87455834220_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_955569-MLA87455834220_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_656542-MLA91444797439_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_656542-MLA91444797439_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_695678-MLA87456347494_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_695678-MLA87456347494_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_808593-MLA91444353755_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_808593-MLA91444353755_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_944121-MLA87456564726_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_944121-MLA87456564726_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_951374-MLA91444767563_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_951374-MLA91444767563_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_794919-MLA87456475856_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_794919-MLA87456475856_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_853109-MLA91052636564_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_853109-MLA91052636564_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_770267-MLA87455962014_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_770267-MLA87455962014_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_944093-MLA91052449562_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_944093-MLA91052449562_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_869390-MLA87786744901_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_869390-MLA87786744901_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_992467-MLA91052686268_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_992467-MLA91052686268_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_993764-MLA87786044673_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_993764-MLA87786044673_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_799556-MLA91444906687_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_799556-MLA91444906687_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_608779-MLA87786409589_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_608779-MLA87786409589_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_762063-MLA91445055747_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_762063-MLA91445055747_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_804016-MLA87786084255_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_804016-MLA87786084255_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_733656-MLA91052439498_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_733656-MLA91052439498_092025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_788944-MLA91445055753_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_788944-MLA91445055753_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_838206-MLA87455834258_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_838206-MLA87455834258_072025-F.webp"
         }
       ]
     },
     {
-      "price": 16000,
-      "position": 6000,
+      "price": 17000,
+      "position": 5000,
       "downPayment": null,
-      "id": "generated-1759280649650-5",
-      "brand": "Kia",
-      "model": "Soul",
-      "year": 2015,
-      "color": "Blanco",
+      "id": "generated-1759291227156-4",
+      "brand": "Renault",
+      "model": "Duster",
+      "year": 2017,
+      "color": "Verde",
       "currency": "USD",
-      "description": "KIA SOUL EX AUTOMATICA(LA MAS FULL)\n-2015\n-110.000 KM\n\nPERMUTAMOS/FINANCIAMOS/ACEPTAMOS CRIPTOMONEDAS",
+      "description": "Permuto/Financio con DNI\nÚnico dueño\nServices oficiales\nAl día lista para transferir",
       "categoryId": "suv",
-      "dealershipId": "dealership-mag",
-      "mileage": 110000,
-      "transmission": "Automática",
+      "dealershipId": "dealership-romani",
+      "mileage": 121000,
+      "transmission": "Manual",
       "fuel": "Nafta",
-      "doors": 5,
+      "doors": 4,
       "active": true,
       "featured": false,
       "favorite": false,
       "lastFeaturedAt": null,
       "lastFavoriteAt": null,
-      "mlId": "MLA1510389459",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1510389459-kia-soul-16-ex-132cv-6at-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Kia Soul 1.6 Ex 132cv 6at",
+      "mlId": "MLA2333463720",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2333463720-renault-duster-oroch-20-dynamique-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Renault Duster Oroch 2.0 Dynamique",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
       "mlBodyType": "SUV",
-      "mlEngine": "1.6",
-      "mlPower": null,
-      "mlGears": null,
-      "mlDimensions": null,
-      "mlFuelCapacity": null,
-      "mlValvesPerCylinder": null,
-      "mlSeatCapacity": null,
-      "mlTractionControl": null,
-      "mlAbsBrakes": null,
-      "mlAutoHeadlights": null,
-      "mlAirbags": null,
-      "mlStabilityControl": null,
-      "mlSingleOwner": null,
-      "mlAcceptsTrade": null,
-      "mlAirConditioning": null,
-      "mlBoardComputer": null,
-      "mlRainSensor": null,
-      "mlRemoteRadioControl": null,
-      "mlAssistedSteering": null,
-      "mlAlarm": null,
-      "mlAlloyWheels": null,
-      "mlCd": null,
-      "mlLeatherSeats": null,
-      "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-5",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-5",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
-      "Category": {
-        "id": "suv",
-        "name": "suv"
-      },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_710159-MLA88052618161_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_710159-MLA88052618161_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_711616-MLA88052637967_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_711616-MLA88052637967_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_686188-MLA87718726802_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_686188-MLA87718726802_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_909240-MLA87717904684_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_909240-MLA87717904684_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_879621-MLA88052746665_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_879621-MLA88052746665_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_829879-MLA87717974492_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_829879-MLA87717974492_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_939976-MLA88052746663_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_939976-MLA88052746663_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_695434-MLA88052796059_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_695434-MLA88052796059_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_783393-MLA88052509107_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_783393-MLA88052509107_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_613274-MLA87718647402_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_613274-MLA87718647402_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_962413-MLA88052687393_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_962413-MLA88052687393_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_848408-MLA88052737059_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_848408-MLA88052737059_072025-F.webp"
-        }
-      ]
-    },
-    {
-      "price": 85000,
-      "position": 7000,
-      "downPayment": null,
-      "id": "generated-1759280649650-6",
-      "brand": "Ford",
-      "model": "F-150",
-      "year": 2020,
-      "color": "Azul",
-      "currency": "USD",
-      "description": "FORD F150 RAPTOR\n-2020\n-45000 KM\n\nPERMUTAMOS/FINANCIAMOS/ACEPTAMOS CRIPTOMONEDAS",
-      "categoryId": "pick-up",
-      "dealershipId": "dealership-mag",
-      "mileage": 45000,
-      "transmission": "Automática",
-      "fuel": "Nafta",
-      "doors": 4,
-      "active": true,
-      "featured": false,
-      "favorite": false,
-      "lastFeaturedAt": null,
-      "lastFavoriteAt": null,
-      "mlId": "MLA1510472465",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1510472465-ford-f-150-raptor-35l-bi-turbo-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Ford F-150 Raptor 3.5l Bi-turbo",
-      "mlCleanPrice": null,
-      "mlLocation": null,
-      "mlCondition": null,
-      "mlListId": null,
-      "mlBodyType": "Pick-Up",
-      "mlEngine": "3.5",
-      "mlPower": null,
-      "mlGears": null,
-      "mlDimensions": null,
-      "mlFuelCapacity": null,
-      "mlValvesPerCylinder": null,
-      "mlSeatCapacity": null,
-      "mlTractionControl": null,
-      "mlAbsBrakes": null,
-      "mlAutoHeadlights": null,
-      "mlAirbags": null,
-      "mlStabilityControl": null,
-      "mlSingleOwner": null,
-      "mlAcceptsTrade": null,
-      "mlAirConditioning": null,
-      "mlBoardComputer": null,
-      "mlRainSensor": null,
-      "mlRemoteRadioControl": null,
-      "mlAssistedSteering": null,
-      "mlAlarm": null,
-      "mlAlloyWheels": null,
-      "mlCd": null,
-      "mlLeatherSeats": null,
-      "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-6",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-6",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
-      "Category": {
-        "id": "pick-up",
-        "name": "pick-up"
-      },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_846008-MLA87789465780_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_846008-MLA87789465780_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_629965-MLA87788991906_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_629965-MLA87788991906_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_610515-MLA88124192865_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_610515-MLA88124192865_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_665028-MLA87789298568_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_665028-MLA87789298568_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_982814-MLA88124626919_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_982814-MLA88124626919_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_791972-MLA88124587129_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_791972-MLA88124587129_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_744120-MLA88124834829_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_744120-MLA88124834829_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_754997-MLA87788913058_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_754997-MLA87788913058_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_846901-MLA87788764546_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_846901-MLA87788764546_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_638759-MLA88124272181_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_638759-MLA88124272181_072025-OO.jpg"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_936871-MLA87789308324_072025-OO.jpg",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_936871-MLA87789308324_072025-OO.jpg"
-        }
-      ]
-    },
-    {
-      "price": 22000,
-      "position": 8000,
-      "downPayment": null,
-      "id": "generated-1759280649650-7",
-      "brand": "Honda",
-      "model": "Civic",
-      "year": 2017,
-      "color": "Blanco",
-      "currency": "USD",
-      "description": "HONDA CIVIC EX\n-2017\n-90000 KM\n\nPERMUTAMOS/FINANCIAMOS/ACEPTAMOS CRIPTOMONEDAS",
-      "categoryId": "sedán",
-      "dealershipId": "dealership-mag",
-      "mileage": 90000,
-      "transmission": "Automática",
-      "fuel": "Nafta",
-      "doors": 4,
-      "active": true,
-      "featured": false,
-      "favorite": false,
-      "lastFeaturedAt": null,
-      "lastFavoriteAt": null,
-      "mlId": "MLA1510412707",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1510412707-honda-civic-20-ex-2017-at-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Honda Civic 2.0 Ex 2017 At",
-      "mlCleanPrice": null,
-      "mlLocation": null,
-      "mlCondition": null,
-      "mlListId": null,
-      "mlBodyType": "Sedán",
       "mlEngine": "2.0",
       "mlPower": null,
       "mlGears": null,
@@ -931,201 +534,90 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-7",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-7",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
-      "Category": {
-        "id": "sedán",
-        "name": "sedán"
-      },
-      "images": [
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_866391-MLA87780442822_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_866391-MLA87780442822_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_918927-MLA87780889294_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_918927-MLA87780889294_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_785402-MLA88115779925_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_785402-MLA88115779925_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_671280-MLA87780948988_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_671280-MLA87780948988_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_780227-MLA88115918587_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_780227-MLA88115918587_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_603233-MLA88116245607_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_603233-MLA88116245607_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_770081-MLA87780442970_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_770081-MLA87780442970_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_696082-MLA87780303366_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_696082-MLA87780303366_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_957978-MLA88116225823_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_957978-MLA88116225823_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_778501-MLA87780959158_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_778501-MLA87780959158_072025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_776782-MLA88115918677_072025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_776782-MLA88115918677_072025-F.webp"
-        }
-      ]
-    },
-    {
-      "price": 57000,
-      "position": 9000,
-      "downPayment": null,
-      "id": "generated-1759280649650-8",
-      "brand": "Toyota",
-      "model": "Hilux",
-      "year": 2022,
-      "color": "Negro",
-      "currency": "USD",
-      "description": "TOYOTA SW4 GR\n-2022\n-42000 KM\n\nEXCELENTE ESTADO\n\nVENDO/PERMUTO",
-      "categoryId": "suv",
-      "dealershipId": "dealership-mag",
-      "mileage": 42000,
-      "transmission": "Automática",
-      "fuel": "Diésel",
-      "doors": 5,
-      "active": true,
-      "featured": false,
-      "favorite": false,
-      "lastFeaturedAt": null,
-      "lastFavoriteAt": null,
-      "mlId": "MLA1537641749",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1537641749-toyota-hilux-sw4-28-tdi-gr-s-4x4-7as-6at-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Toyota Hilux Sw4 2.8 Tdi Gr-s 4x4 7as 6at",
-      "mlCleanPrice": null,
-      "mlLocation": null,
-      "mlCondition": null,
-      "mlListId": null,
-      "mlBodyType": "SUV",
-      "mlEngine": "2.8",
-      "mlPower": null,
-      "mlGears": null,
-      "mlDimensions": null,
-      "mlFuelCapacity": null,
-      "mlValvesPerCylinder": null,
-      "mlSeatCapacity": null,
-      "mlTractionControl": null,
-      "mlAbsBrakes": null,
-      "mlAutoHeadlights": null,
-      "mlAirbags": null,
-      "mlStabilityControl": null,
-      "mlSingleOwner": null,
-      "mlAcceptsTrade": null,
-      "mlAirConditioning": null,
-      "mlBoardComputer": null,
-      "mlRainSensor": null,
-      "mlRemoteRadioControl": null,
-      "mlAssistedSteering": null,
-      "mlAlarm": null,
-      "mlAlloyWheels": null,
-      "mlCd": null,
-      "mlLeatherSeats": null,
-      "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-8",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-8",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
+      "mlImagesHash": "hash-1759291227156-4",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-4",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
       "Category": {
         "id": "suv",
         "name": "suv"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_772037-MLA92394767552_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_772037-MLA92394767552_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_821634-MLA92022859035_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_821634-MLA92022859035_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_855287-MLA92803369819_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_855287-MLA92803369819_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_702073-MLA91622413922_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_702073-MLA91622413922_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_692027-MLA92394964824_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_692027-MLA92394964824_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_741993-MLA91622483882_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_741993-MLA91622483882_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_621580-MLA92394511752_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_621580-MLA92394511752_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_934804-MLA92022193125_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_934804-MLA92022193125_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_841694-MLA92394492118_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_841694-MLA92394492118_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_683087-MLA91622423932_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_683087-MLA91622423932_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_760853-MLA92394392506_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_760853-MLA92394392506_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_751522-MLA92023067867_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_751522-MLA92023067867_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_663512-MLA92803479057_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_663512-MLA92803479057_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_856613-MLA91622413956_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_856613-MLA91622413956_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_923137-MLA92394472014_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_923137-MLA92394472014_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_813170-MLA91622413924_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_813170-MLA91622413924_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_807017-MLA92394492138_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_807017-MLA92394492138_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_853762-MLA92023078011_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_853762-MLA92023078011_092025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_760028-MLA92394432192_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_760028-MLA92394432192_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_743238-MLA91622901294_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_743238-MLA91622901294_092025-F.webp"
         }
       ]
     },
     {
-      "price": 20000,
-      "position": 10000,
+      "price": 23800,
+      "position": 6000,
       "downPayment": null,
-      "id": "generated-1759280649650-9",
-      "brand": "Utv",
-      "model": "Polaris",
-      "year": 2015,
-      "color": "Naranja",
+      "id": "generated-1759291227156-5",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "year": 2011,
+      "color": "Gris",
       "currency": "USD",
-      "description": "UTV POLARIS RANGER XP 900\n-2014\n-1800 KM\n-muchos accesorios agregados:\nLlanta Raceline Prensatalon \nCubiertas Kenda SBS HD \nVariador y compensador de ruedas(original) agragado para que no corte correa (Trepa todo)\nEscape LEXX MX\nAudio 2 parlantes Sony y 2 en Cabezal Kiker\nEstéreo potenciado con Bluethoot\nDoble antena Led (prende azul)\nPuertas suicida\nBarra de led larga en techo \nFaros led en trompa\nLed baja y alta en ópticas\nGancho de remolque\nESTADO INMEJORABLE !!!!\n\nTOMAMOS PERMUTA/FINANCIAMOS/ACEPTAMOS CRIPTOMONEDAS",
-      "categoryId": "autos",
-      "dealershipId": "dealership-mag",
-      "mileage": 999999,
-      "transmission": "Automática",
-      "fuel": "Nafta",
+      "description": "Permuto/Financio con DNI\nSegundo dueño\nLista para transferir\nFull con accesorios\nKit de altura",
+      "categoryId": "pick-up",
+      "dealershipId": "dealership-romani",
+      "mileage": 163000,
+      "transmission": "Manual",
+      "fuel": "Diésel",
       "doors": 4,
       "active": true,
       "featured": false,
       "favorite": false,
       "lastFeaturedAt": null,
       "lastFavoriteAt": null,
-      "mlId": "MLA1510311869",
-      "mlUrl": "https://vehiculo.mercadolibre.com.ar/MLA-1510311869-utv-polaris-ranger-xp-900-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Utv Polaris Ranger Xp 900",
+      "mlId": "MLA2334307632",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2334307632-toyota-hilux-pick-up-30-i-srv-cab-doble-4x4-2009-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Toyota Hilux Pick-up 3.0 I Srv Cab Doble 4x4 (2009)",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
-      "mlBodyType": null,
-      "mlEngine": null,
+      "mlBodyType": "Pick-Up",
+      "mlEngine": "3.0",
       "mlPower": null,
       "mlGears": null,
       "mlDimensions": null,
@@ -1149,149 +641,93 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-9",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-9",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
+      "mlImagesHash": "hash-1759291227156-5",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-5",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
       "Category": {
-        "id": "autos",
-        "name": "autos"
+        "id": "pick-up",
+        "name": "pick-up"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_743525-MLA82272154203_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_743525-MLA82272154203_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_690517-MLA92022210575_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_690517-MLA92022210575_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_917409-MLA81990845994_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_917409-MLA81990845994_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_773263-MLA91622391360_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_773263-MLA91622391360_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_829999-MLA81990836196_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_829999-MLA81990836196_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_978097-MLA92023065173_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_978097-MLA92023065173_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_813995-MLA81990757920_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_813995-MLA81990757920_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_828789-MLA91622411298_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_828789-MLA91622411298_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_777743-MLA81990846974_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_777743-MLA81990846974_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_781882-MLA91622898476_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_781882-MLA91622898476_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_708547-MLA81990757810_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_708547-MLA81990757810_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_943867-MLA91622481272_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_943867-MLA91622481272_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_808429-MLA82272339613_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_808429-MLA82272339613_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_767666-MLA92022210587_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_767666-MLA92022210587_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_639155-MLA81990855932_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_639155-MLA81990855932_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_879088-MLA91622531700_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_879088-MLA91622531700_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_966902-MLA81990709002_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_966902-MLA81990709002_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_641488-MLA91623008566_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_641488-MLA91623008566_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_664761-MLA82272349411_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_664761-MLA82272349411_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_903696-MLA92023065997_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_903696-MLA92023065997_092025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_637671-MLA82272349397_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_637671-MLA82272349397_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_723107-MLA82272154303_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_723107-MLA82272154303_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_783307-MLA82272144439_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_783307-MLA82272144439_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_887759-MLA82272418461_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_887759-MLA82272418461_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_910982-MLA81990796334_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_910982-MLA81990796334_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_995731-MLA81990837040_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_995731-MLA81990837040_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_808632-MLA82272418331_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_808632-MLA82272418331_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_949762-MLA82272134567_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_949762-MLA82272134567_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_830376-MLA81990885668_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_830376-MLA81990885668_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_868453-MLA82272350097_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_868453-MLA82272350097_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_918190-MLA81990925100_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_918190-MLA81990925100_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_895717-MLA82272144421_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_895717-MLA82272144421_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_643784-MLA81990659748_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_643784-MLA81990659748_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_696670-MLA81990660836_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_696670-MLA81990660836_022025-F.webp"
-        },
-        {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_762517-MLA81990935130_022025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_762517-MLA81990935130_022025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_631596-MLA91622392224_092025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_631596-MLA91622392224_092025-OO.jpg"
         }
       ]
     },
     {
-      "price": 20000,
-      "position": 11000,
+      "price": 15900,
+      "position": 7000,
       "downPayment": null,
-      "id": "generated-1759280649650-10",
-      "brand": "Mini",
-      "model": "Cooper",
-      "year": 2014,
-      "color": "Blanco",
+      "id": "generated-1759291227156-6",
+      "brand": "Peugeot",
+      "model": "308",
+      "year": 2018,
+      "color": "Plateado",
       "currency": "USD",
-      "description": "MINI COOPER S \n-2014\n-98000 KM\n\n-color BLANCO abajo del ploteo\n\nVENDO/PERMUTO",
-      "categoryId": "autos",
-      "dealershipId": "dealership-mag",
-      "mileage": 98000,
-      "transmission": "Manual",
+      "description": "Vendo/Permuto/Financio\nTitular al día listo para transferir\nTope de gama\nCuero techo cielo pantalla con cámara sensores llantas rodado perfil bajo",
+      "categoryId": "hatchback",
+      "dealershipId": "dealership-romani",
+      "mileage": 62000,
+      "transmission": "Automática",
       "fuel": "Nafta",
-      "doors": 2,
+      "doors": 5,
       "active": true,
       "featured": false,
       "favorite": false,
       "lastFeaturedAt": null,
       "lastFavoriteAt": null,
-      "mlId": "MLA1520565985",
-      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1520565985-mini-cooper-s-16-coupe-184cv-chili-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Mini Cooper S 1.6 Coupe 184cv Chili",
+      "mlId": "MLA2235409262",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2235409262-peugeot-308-16-feline-thp-165cv-tiptronic-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Peugeot 308 1.6 Feline Thp 165cv Tiptronic",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
-      "mlBodyType": null,
+      "mlBodyType": "Hatchback",
       "mlEngine": "1.6",
       "mlPower": null,
       "mlGears": null,
@@ -1316,94 +752,94 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1759280649650-10",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649650-10",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
+      "mlImagesHash": "hash-1759291227156-6",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-6",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
       "Category": {
-        "id": "autos",
-        "name": "autos"
+        "id": "hatchback",
+        "name": "hatchback"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_877200-MLA91251802454_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_877200-MLA91251802454_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_876063-MLA89498977564_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_876063-MLA89498977564_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_803312-MLA91648225445_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_803312-MLA91648225445_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_803024-MLA89498562510_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_803024-MLA89498562510_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_864207-MLA91648215371_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_864207-MLA91648215371_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_815452-MLA89868151783_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_815452-MLA89868151783_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_859918-MLA91648205461_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_859918-MLA91648205461_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_760024-MLA89868766403_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_760024-MLA89868766403_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_741999-MLA91647869649_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_741999-MLA91647869649_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_760496-MLA89868587789_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_760496-MLA89868587789_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_907830-MLA91648185445_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_907830-MLA91648185445_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_864428-MLA89498779668_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_864428-MLA89498779668_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_655866-MLA91647889825_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_655866-MLA91647889825_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_812413-MLA89868617681_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_812413-MLA89868617681_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_877693-MLA91251842192_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_877693-MLA91251842192_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_970062-MLA89498512802_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_970062-MLA89498512802_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_772975-MLA91251733090_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_772975-MLA91251733090_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_617195-MLA89868151865_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_617195-MLA89868151865_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_725825-MLA91251842202_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_725825-MLA91251842202_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_801479-MLA89868301499_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_801479-MLA89868301499_082025-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_779195-MLA91251802496_092025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_779195-MLA91251802496_092025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_805269-MLA89868182133_082025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_805269-MLA89868182133_082025-OO.jpg"
         }
       ]
     },
     {
-      "price": 12000,
-      "position": 12000,
+      "price": 28500,
+      "position": 8000,
       "downPayment": null,
-      "id": "generated-1759280649651-11",
-      "brand": "Kymco",
-      "model": "Ax550",
-      "year": 2019,
-      "color": "No especificado",
+      "id": "generated-1759291227156-7",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "year": 2016,
+      "color": "Blanco",
       "currency": "USD",
-      "description": "KYMCO AX550 IMPECABLE\n-2019\n-20.000 KM",
-      "categoryId": "autos",
-      "dealershipId": "dealership-mag",
-      "mileage": 20000,
+      "description": "Vendo/Permuto y financio con dni\nSrv 4x4 motor 2.8\nManual\nExcelente estado lista para transferir",
+      "categoryId": "pick-up",
+      "dealershipId": "dealership-romani",
+      "mileage": 183000,
       "transmission": "Manual",
-      "fuel": "Nafta",
-      "doors": 0,
+      "fuel": "Diésel",
+      "doors": 4,
       "active": true,
       "featured": false,
       "favorite": false,
       "lastFeaturedAt": null,
       "lastFavoriteAt": null,
-      "mlId": "MLA2243980128",
-      "mlUrl": "https://moto.mercadolibre.com.ar/MLA-2243980128-kymco-ax550-2019-con-accesorios-_JM",
-      "mlScrapedAt": "2025-10-01T01:04:09.650Z",
-      "mlTitle": "Kymco Ax550 2019 Con Accesorios",
+      "mlId": "MLA1512692965",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-1512692965-toyota-hilux-pick-up-28-cd-srv-177cv-4x4-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Toyota Hilux Pick-up 2.8 Cd Srv 177cv 4x4",
       "mlCleanPrice": null,
       "mlLocation": null,
       "mlCondition": null,
       "mlListId": null,
-      "mlBodyType": null,
-      "mlEngine": null,
+      "mlBodyType": "Pick-Up",
+      "mlEngine": "2.8",
       "mlPower": null,
       "mlGears": null,
       "mlDimensions": null,
@@ -1427,71 +863,812 @@
       "mlCd": null,
       "mlLeatherSeats": null,
       "mlSku": null,
-      "mlImagesHash": "hash-1759280649651-11",
-      "mlImagesLastUpdated": "2025-10-01T01:04:09.650Z",
-      "catalogChecksum": "checksum-1759280649651-11",
-      "createdAt": "2025-10-01T01:04:09.650Z",
-      "updatedAt": "2025-10-01T01:04:09.650Z",
+      "mlImagesHash": "hash-1759291227156-7",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-7",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
       "Category": {
-        "id": "autos",
-        "name": "autos"
+        "id": "pick-up",
+        "name": "pick-up"
       },
       "images": [
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_993854-MLA89970656477_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_993854-MLA89970656477_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_977539-MLA89071458089_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_977539-MLA89071458089_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_996020-MLA89970557451_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_996020-MLA89970557451_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_894448-MLA89071487853_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_894448-MLA89071487853_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_624264-MLA89597722250_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_624264-MLA89597722250_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_829017-MLA88718224900_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_829017-MLA88718224900_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_783947-MLA89970340071_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_783947-MLA89970340071_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_667778-MLA89071635573_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_667778-MLA89071635573_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_919485-MLA89598077198_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_919485-MLA89598077198_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_798705-MLA89071595763_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_798705-MLA89071595763_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_786219-MLA89970666353_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_786219-MLA89970666353_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_936196-MLA89071625593_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_936196-MLA89071625593_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_651222-MLA89970300213_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_651222-MLA89970300213_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_979573-MLA89071458127_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_979573-MLA89071458127_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_736105-MLA89971687711_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_736105-MLA89971687711_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_913032-MLA89071378993_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_913032-MLA89071378993_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_977986-MLA89971450785_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_977986-MLA89971450785_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_951418-MLA89071508175_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_951418-MLA89071508175_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_828454-MLA89598753948_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_828454-MLA89598753948_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_931221-MLA89071625865_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_931221-MLA89071625865_072025-F.webp"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_688952-MLA89599196482_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_688952-MLA89599196482_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_790432-MLA89071418625_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_790432-MLA89071418625_072025-F.webp"
+        }
+      ]
+    },
+    {
+      "price": 15300,
+      "position": 9000,
+      "downPayment": null,
+      "id": "generated-1759291227156-8",
+      "brand": "Chevrolet",
+      "model": "Captiva",
+      "year": 2013,
+      "color": "Negro",
+      "currency": "USD",
+      "description": "Vendo/Permuto/Financio con dni\nLa más full\n4x4 excelente estado\nLista para transferir",
+      "categoryId": "suv",
+      "dealershipId": "dealership-romani",
+      "mileage": 171000,
+      "transmission": "Manual",
+      "fuel": "Nafta",
+      "doors": 5,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2164351566",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2164351566-chevrolet-captiva-24-lt-mt-awd-167cv-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Chevrolet Captiva 2.4 Lt Mt Awd 167cv",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "SUV",
+      "mlEngine": "2.4",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227156-8",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-8",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "suv",
+        "name": "suv"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_632414-MLA80513299091_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_632414-MLA80513299091_112024-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_833545-MLA89599196494_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_833545-MLA89599196494_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_988494-MLA80513368499_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_988494-MLA80513368499_112024-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_823554-MLA89971628377_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_823554-MLA89971628377_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_610178-MLA80513328913_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_610178-MLA80513328913_112024-OO.jpg"
         },
         {
-          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_785303-MLA89971430857_082025-O.webp",
-          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_785303-MLA89971430857_082025-F.webp"
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_875579-MLA80513388323_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_875579-MLA80513388323_112024-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_968128-MLA80256039294_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_968128-MLA80256039294_112024-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_890076-MLA80513200767_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_890076-MLA80513200767_112024-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_935438-MLA80513032863_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_935438-MLA80513032863_112024-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_904645-MLA80513328933_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_904645-MLA80513328933_112024-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_675607-MLA80513092283_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_675607-MLA80513092283_112024-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_826788-MLA80513032881_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_826788-MLA80513032881_112024-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_693400-MLA80256147210_112024-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_693400-MLA80256147210_112024-OO.jpg"
+        }
+      ]
+    },
+    {
+      "price": 8200,
+      "position": 10000,
+      "downPayment": null,
+      "id": "generated-1759291227156-9",
+      "brand": "Ford",
+      "model": "Ka",
+      "year": 2011,
+      "color": "Negro",
+      "currency": "USD",
+      "description": "Permuto/Financio con DNI\nMotor 1.6 cadenero\nAl dia listo para transferir\nExcelente estado",
+      "categoryId": "hatchback",
+      "dealershipId": "dealership-romani",
+      "mileage": 103000,
+      "transmission": "Manual",
+      "fuel": "Nafta",
+      "doors": 3,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2334242994",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2334242994-ford-ka-16-fly-viral-usbbluetooth-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Ford Ka 1.6 Fly Viral Usb/bluetooth",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "Hatchback",
+      "mlEngine": "1.6",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227156-9",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-9",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "hatchback",
+        "name": "hatchback"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_993992-MLA91622389508_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_993992-MLA91622389508_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_634262-MLA91622023202_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_634262-MLA91622023202_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_613114-MLA91622856652_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_613114-MLA91622856652_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_754696-MLA91621993378_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_754696-MLA91621993378_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_974539-MLA91622856668_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_974539-MLA91622856668_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_941643-MLA92021960933_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_941643-MLA92021960933_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_845387-MLA91622419534_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_845387-MLA91622419534_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_737151-MLA91621993566_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_737151-MLA91621993566_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_719328-MLA92022010847_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_719328-MLA92022010847_092025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_716898-MLA91622013672_092025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_716898-MLA91622013672_092025-F.webp"
+        }
+      ]
+    },
+    {
+      "price": 20200,
+      "position": 11000,
+      "downPayment": null,
+      "id": "generated-1759291227156-10",
+      "brand": "Mitsubishi",
+      "model": "Outlander",
+      "year": 2013,
+      "color": "Blanco",
+      "currency": "USD",
+      "description": "Vendo/Permuto/Financio con dni\nÚnico dueño listo para transferir\nFull\nExcelente estado\n4x4 funcionando todo a la perfección",
+      "categoryId": "suv",
+      "dealershipId": "dealership-romani",
+      "mileage": 93000,
+      "transmission": "Automática",
+      "fuel": "Nafta",
+      "doors": 5,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2186392012",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2186392012-mitsubishi-outlander-20-sport-4wd-gls-150cv-at-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Mitsubishi Outlander 2.0 Sport 4wd Gls 150cv At",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "SUV",
+      "mlEngine": "2.0",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227156-10",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227156-10",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "suv",
+        "name": "suv"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_860131-MLA88179167539_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_860131-MLA88179167539_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_914667-MLA87841984382_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_914667-MLA87841984382_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_902898-MLA88178523027_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_902898-MLA88178523027_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_959375-MLA87841964524_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_959375-MLA87841964524_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_603291-MLA87842897634_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_603291-MLA87842897634_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_602937-MLA87841974500_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_602937-MLA87841974500_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_632974-MLA87842977120_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_632974-MLA87842977120_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_686513-MLA88179068043_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_686513-MLA88179068043_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_958643-MLA87842828824_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_958643-MLA87842828824_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_870244-MLA88179167571_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_870244-MLA88179167571_072025-F.webp"
+        }
+      ]
+    },
+    {
+      "price": 14200,
+      "position": 12000,
+      "downPayment": null,
+      "id": "generated-1759291227157-11",
+      "brand": "Citroën",
+      "model": "Berlingo",
+      "year": 2016,
+      "color": "Gris",
+      "currency": "USD",
+      "description": "Vendo/Permuto/Financio con dni hasta el 40% del valor\nTitular al día lista para transferir \nExcelente estado",
+      "categoryId": "monovolumen",
+      "dealershipId": "dealership-romani",
+      "mileage": 113000,
+      "transmission": "Manual",
+      "fuel": "Diésel",
+      "doors": 5,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2174469860",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2174469860-citron-berlingo-multispace-16-xtr-hdi-92cv-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Citroën Berlingo Multispace 1.6 Xtr Hdi 92cv",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "Monovolumen",
+      "mlEngine": "1.6",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227157-11",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227157-11",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "monovolumen",
+        "name": "monovolumen"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_842272-MLA87786790357_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_842272-MLA87786790357_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_761064-MLA87786860025_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_761064-MLA87786860025_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_677914-MLA87457205544_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_677914-MLA87457205544_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_679733-MLA87456590502_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_679733-MLA87456590502_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_649309-MLA87786830225_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_649309-MLA87786830225_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_826314-MLA87456353234_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_826314-MLA87456353234_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_609233-MLA87786860063_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_609233-MLA87786860063_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_657778-MLA87456353258_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_657778-MLA87456353258_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_859643-MLA87456224446_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_859643-MLA87456224446_072025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_973842-MLA87456650142_072025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_973842-MLA87456650142_072025-F.webp"
+        }
+      ]
+    },
+    {
+      "price": 23100,
+      "position": 13000,
+      "downPayment": null,
+      "id": "generated-1759291227157-12",
+      "brand": "Renault",
+      "model": "Kangoo",
+      "year": 2022,
+      "color": "Plateado",
+      "currency": "USD",
+      "description": "Vendo/Permuto/Financio con DNI\nExcelente estado \nAl día lista para transferir único dueño",
+      "categoryId": "furgón",
+      "dealershipId": "dealership-romani",
+      "mileage": 65000,
+      "transmission": "Manual",
+      "fuel": "Nafta",
+      "doors": 3,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2107904714",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2107904714-renault-kangoo-ii-express-emotion-5a-16-sce-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Renault Kangoo Ii Express Emotion 5a 1.6 Sce",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "Furgón",
+      "mlEngine": "1.6",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227157-12",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227157-12",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "furgón",
+        "name": "furgón"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_819729-MLA85925847403_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_819729-MLA85925847403_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_703223-MLA85617017488_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_703223-MLA85617017488_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_602514-MLA85616760114_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_602514-MLA85616760114_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_604212-MLA85616799774_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_604212-MLA85616799774_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_844615-MLA85925748065_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_844615-MLA85925748065_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_641962-MLA85617116730_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_641962-MLA85617116730_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_618000-MLA85616720222_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_618000-MLA85616720222_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_764127-MLA85617067176_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_764127-MLA85617067176_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_773953-MLA85616799770_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_773953-MLA85616799770_062025-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_943025-MLA85616839674_062025-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_943025-MLA85616839674_062025-F.webp"
+        }
+      ]
+    },
+    {
+      "price": 30300,
+      "position": 14000,
+      "downPayment": null,
+      "id": "generated-1759291227157-13",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "year": 2012,
+      "color": "Dorado",
+      "currency": "USD",
+      "description": "Vendo/Permuto/Financio con dni\nExcelente estado \n7 asientos cuero camel\nManual con pantalla\n4x4 3.0\nSegundo dueño al día lista para transferir",
+      "categoryId": "suv",
+      "dealershipId": "dealership-romani",
+      "mileage": 184000,
+      "transmission": "Manual",
+      "fuel": "Diésel",
+      "doors": 5,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2235487216",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2235487216-toyota-hilux-sw4-30-srv-cuero-i-171cv-4x4-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Toyota Hilux Sw4 3.0 Srv Cuero I 171cv 4x4",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "SUV",
+      "mlEngine": "3.0",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227157-13",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227157-13",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "suv",
+        "name": "suv"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_889295-MLA83641003593_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_889295-MLA83641003593_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_728413-MLA83640963845_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_728413-MLA83640963845_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_865622-MLA83641003591_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_865622-MLA83641003591_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_675594-MLA83349023974_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_675594-MLA83349023974_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_809086-MLA83349023976_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_809086-MLA83349023976_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_894507-MLA83349013846_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_894507-MLA83349013846_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_760382-MLA83640993675_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_760382-MLA83640993675_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_683492-MLA83640993641_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_683492-MLA83640993641_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_663558-MLA83641456637_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_663558-MLA83641456637_042025-OO.jpg"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_606619-MLA83349646492_042025-OO.jpg",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_606619-MLA83349646492_042025-OO.jpg"
+        }
+      ]
+    },
+    {
+      "price": 39000,
+      "position": 15000,
+      "downPayment": null,
+      "id": "generated-1759291227157-14",
+      "brand": "Volkswagen",
+      "model": "Taos",
+      "year": 2024,
+      "color": "Azul",
+      "currency": "USD",
+      "description": "Vendo/Permuto mayor o menor valor \n/Financio con DNI\n1.4T 250TSI\ntope de gama\nMenos de 10000 kms\nCámara pantalla \nClimatizador de asientos\nEspejos retráctiles\nAsistentes de manejo sensores de aproximación\nCaja AT\nTECHO PANORÁMICO RETRÁCTIL\nLista para transferir patentada noviembre 2024",
+      "categoryId": "suv",
+      "dealershipId": "dealership-romani",
+      "mileage": 14999,
+      "transmission": "Automática",
+      "fuel": "Nafta",
+      "doors": 5,
+      "active": true,
+      "featured": false,
+      "favorite": false,
+      "lastFeaturedAt": null,
+      "lastFavoriteAt": null,
+      "mlId": "MLA2207614168",
+      "mlUrl": "https://auto.mercadolibre.com.ar/MLA-2207614168-volkswagen-taos-14-250-tsi-highline-_JM",
+      "mlScrapedAt": "2025-10-01T04:00:27.154Z",
+      "mlTitle": "Volkswagen Taos 1.4 250 Tsi Highline Tiptronic",
+      "mlCleanPrice": null,
+      "mlLocation": null,
+      "mlCondition": null,
+      "mlListId": null,
+      "mlBodyType": "SUV",
+      "mlEngine": "1.4",
+      "mlPower": null,
+      "mlGears": null,
+      "mlDimensions": null,
+      "mlFuelCapacity": null,
+      "mlValvesPerCylinder": null,
+      "mlSeatCapacity": null,
+      "mlTractionControl": null,
+      "mlAbsBrakes": null,
+      "mlAutoHeadlights": null,
+      "mlAirbags": null,
+      "mlStabilityControl": null,
+      "mlSingleOwner": null,
+      "mlAcceptsTrade": null,
+      "mlAirConditioning": null,
+      "mlBoardComputer": null,
+      "mlRainSensor": null,
+      "mlRemoteRadioControl": null,
+      "mlAssistedSteering": null,
+      "mlAlarm": null,
+      "mlAlloyWheels": null,
+      "mlCd": null,
+      "mlLeatherSeats": null,
+      "mlSku": null,
+      "mlImagesHash": "hash-1759291227157-14",
+      "mlImagesLastUpdated": "2025-10-01T04:00:27.154Z",
+      "catalogChecksum": "checksum-1759291227157-14",
+      "createdAt": "2025-10-01T04:00:27.154Z",
+      "updatedAt": "2025-10-01T04:00:27.154Z",
+      "Category": {
+        "id": "suv",
+        "name": "suv"
+      },
+      "images": [
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_633327-MLA80583954334_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_633327-MLA80583954334_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_785428-MLA80846697647_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_785428-MLA80846697647_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_699694-MLA80846806537_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_699694-MLA80846806537_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_613930-MLA80583954348_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_613930-MLA80583954348_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_875677-MLA80846816387_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_875677-MLA80846816387_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_818883-MLA80846569759_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_818883-MLA80846569759_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_911747-MLA80846678043_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_911747-MLA80846678043_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_761252-MLA80846697727_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_761252-MLA80846697727_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_677201-MLA80846806861_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_677201-MLA80846806861_112024-F.webp"
+        },
+        {
+          "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_993635-MLA80583954662_112024-O.webp",
+          "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_993635-MLA80583954662_112024-F.webp"
         }
       ]
     }

@@ -23,7 +23,7 @@ const beneficios = [
   {
     titulo: 'Revisión y acomodación',
     descripcion:
-      'Todos los vehículos pasan por una exhaustiva revisión de más de 70 puntos en nuestro taller, para garantizar un óptimo funcionamiento de los vehículos.',
+      'Todos los vehículos pasan por una exhaustiva, para garantizar un óptimo funcionamiento de los vehículos.',
     icono: (
       <svg
         xmlns='http://www.w3.org/2000/svg'
