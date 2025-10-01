@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'zafiroautos',
-  name: 'Zafiro Autos',
-  adress: 'Av. Gregorio Lemos 2241',
-  city: 'Villa de Mayo',
-  email: 'zafiroautos@gmail.com',
-  instagram: 'zafiro.autos',
-  facebook: 'https://www.facebook.com/zafiroautos',
-  whatsapp: ['1165966233'],
-  googlemapsLink: 'https://maps.app.goo.gl/kKXjNNespGpndLsTA',
+  id: 'magautomoviles',
+  name: 'MAG AUTOMOVILES',
+  adress: 'Agustín M. García 5600',
+  city: 'Benavidez',
+  email: 'giulianomazzitelli9@gmail.com',
+  instagram: 'magautomoviles',
+  facebook: 'https://www.facebook.com/arielgaston.bentolila',
+  whatsapp: ['1130215779'],
+  googlemapsLink: 'https://maps.app.goo.gl/428Vyd2eiPX6B4BR9',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3287.0500560989567!2d-58.68759028733213!3d-34.52695975333824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd7d9acb675f%3A0x3a542fea0cf08bcf!2sZafiro%20Autos%20Seleccionados!5e0!3m2!1sen!2sar!4v1759271835118!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d822.9820417183643!2d-58.63081917142851!3d-34.40317169178539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca6a435297a71%3A0x1d9003ba3c64450b!2sMag%20Automoviles!5e0!3m2!1sen!2sar!4v1759280091891!5m2!1sen!2sar',
   openDays: [
     'Lunes a Viernes 09:00 a 18:00hs',
-    'Sábado 09:00 a 13:00hs',
+    'Sábado 09:30 a 16:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://zafiroautos.vercel.app/',
-  title: 'Zafiro Autos - Compra y Venta de Autos',
+  metadataBase: 'https://magautomoviles.vercel.app/',
+  title: 'MAG AUTOMOVILES - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
