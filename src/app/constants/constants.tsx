@@ -2,23 +2,23 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: false,
+  favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'horacioromaniautomotores',
-  name: 'Horacio Romani Automotores',
-  adress: 'Av. Colón 4350',
+  id: 'martinautomotores',
+  name: 'Martin Automotores',
+  adress: 'La rioja 4501',
   city: 'Mar del Plata',
-  email: 'hromaniautomotores@gmail.com',
-  instagram: 'hromaniautomotores',
-  facebook: 'https://www.facebook.com/HRomaniAutomotores',
-  whatsapp: ['2234384537', '2234383294', '2235168081'],
-  googlemapsLink: 'https://maps.app.goo.gl/hWL9V4pTBbEjq1Mx6',
+  email: 'info@martinautomotoresmdp.com',
+  instagram: 'martinautomotoresmdp',
+  facebook: 'https://www.facebook.com/p/Martin-Automotores-100063629260714/',
+  whatsapp: ['2234003316'],
+  googlemapsLink: 'https://maps.app.goo.gl/JUpERN1dNnoBaiq16',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.245339438499!2d-57.57049932325844!3d-37.994737544404074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584d94cfc7e7a73%3A0xecc5dd4b0b16e5cb!2sHoracio%20Romani%20Automotores!5e0!3m2!1sen!2sar!4v1759288666439!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.167441447882!2d-57.56901059492747!3d-38.01987575273436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584de96bea605b3%3A0xc4b7ee68c2c1f2fb!2sMart%C3%ADn%20Automotores!5e0!3m2!1sen!2sar!4v1759289871980!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 10 a 13 y 16 a 19hs',
-    'Sábado 10 a 13hs',
+    'Lunes a Viernes 8:30 a 12 y 14:30 a 17hs',
+    'Sábado 8:30 a 12hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://horacioromaniautomotores.vercel.app/',
-  title: 'Horacio Romani Automotores - Compra y Venta de Autos',
+  metadataBase: 'https://martinautomotores.vercel.app/',
+  title: 'Martin Automotores - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
