@@ -2,24 +2,23 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: true,
+  favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'automotoresbatan',
-  name: 'Automotores Batan',
-  adress: 'Salvador Allende 3034',
-  city: 'Batán',
-  email: 'automotoresbatan@gmail.com',
-  instagram: 'automotores.batan',
-  facebook:
-    'https://www.facebook.com/people/Automotores-Bat%C3%A1n/61574861276245/',
-  whatsapp: ['2236977088'],
-  googlemapsLink: 'https://maps.app.goo.gl/CEmDSLrRwGu4N4ob8',
+  id: 'clasificars',
+  name: 'ClasifiCars',
+  adress: 'Olazar 46',
+  city: 'Mar del Plata',
+  email: 'clasificarsmdp@gmail.com',
+  instagram: 'clasificars_',
+  facebook: 'https://www.facebook.com/profile.php?id=61574254413228#',
+  whatsapp: ['2235173567'],
+  googlemapsLink: 'https://maps.app.goo.gl/wNLVEfFj81QyLViQ8',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.6732305323094!2d-57.70879892325775!3d-38.00808174517004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x958526f17f787895%3A0x6b124a83864c9e0e!2sAutomotores%20Bat%C3%A1n!5e0!3m2!1sen!2sar!4v1759335524682!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.0102647428016!2d-57.599584723258!3d-38.0002210447189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584d90074b5203f%3A0xdac8bf848fcb0745!2sClasificars!5e0!3m2!1sen!2sar!4v1759336925874!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 8:30 a 12:30 y 15:30 a 19:30hs',
-    'Sábado 8:30 a 13:00hs',
+    'Lunes a Viernes 09:00 a 18:00hs',
+    'Sábado 10:00 a 14:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -30,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://automotoresbatan.vercel.app/',
-  title: 'Automotores Batan - Compra y Venta de Autos',
+  metadataBase: 'https://clasificars.vercel.app/',
+  title: 'ClasifiCars - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
