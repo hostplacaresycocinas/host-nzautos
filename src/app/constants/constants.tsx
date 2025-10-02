@@ -2,23 +2,23 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: false,
+  favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'mambacars',
-  name: 'Mamba Cars',
-  adress: 'Namuncura 180',
+  id: 'colachiautomotores',
+  name: 'Colachi Automotores',
+  adress: 'Puan 1836',
   city: 'Mar del Plata',
-  email: 'taderuiz96@gmail.com',
-  instagram: 'mambacarselect',
-  facebook: 'https://www.facebook.com/mamba.carselect',
-  whatsapp: ['2235835134'],
-  googlemapsLink: 'https://maps.app.goo.gl/nppHL6uctg9bJ5et6',
+  email: null,
+  instagram: 'matiascolachiautomotores',
+  facebook: 'https://www.facebook.com/COLACHIAUTOMOTORES/',
+  whatsapp: ['2235184293', '2235448525'],
+  googlemapsLink: 'https://maps.app.goo.gl/b6sXpoR57P1k6yz86',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.599080263975!2d-57.58651832116352!3d-38.00981097802643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584df65e1c600db%3A0x93623ea7e3f3dafd!2sMamba%20Cars%20Select!5e0!3m2!1sen!2sar!4v1759338636271!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d785.3088335663463!2d-57.549367371420864!3d-38.06490014236819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584ddff3c9084fd%3A0xba6f5db9dbd74b21!2sMatias%20Colachi%20Automotores!5e0!3m2!1sen!2sar!4v1759415895902!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:00 a 17:00hs',
-    'Sábado y Domingo Cerrado',
+    'Lunes a Viernes 09:00 a 18:00hs',
+    'Sábados 09:00 a 13:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://mambacars.vercel.app/',
-  title: 'Mamba Cars - Compra y Venta de Autos',
+  metadataBase: 'https://colachiautomotores.vercel.app/',
+  title: 'Colachi Automotores - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
