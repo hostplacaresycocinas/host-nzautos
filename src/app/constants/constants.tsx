@@ -5,20 +5,20 @@ export const company = {
   favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'unicosmultimarcas',
-  name: 'Unicos Multimarcas',
-  adress: 'Brandsen 234',
-  city: 'Bahía Blanca',
-  email: null,
-  instagram: 'unicosmultimarcas',
-  facebook: 'https://www.facebook.com/conradoragadaleunicos/',
-  whatsapp: ['2914125371'],
-  googlemapsLink: 'https://maps.app.goo.gl/vKzMPuEwrZRaumEF6',
+  id: 'panareagallerycars',
+  name: 'Panarea Gallery Cars',
+  adress: 'Santa Rosa 4422',
+  city: 'San Fernando',
+  email: 'panarea.detailing@gmail.com',
+  instagram: 'panareagallerycars',
+  facebook: 'https://www.facebook.com/profile.php?id=61577346144699#',
+  whatsapp: ['1120754426', '1156603885'],
+  googlemapsLink: 'https://maps.app.goo.gl/9ZAQLFZaU61Ptr8U8',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3112.8653073414835!2d-62.25953372322847!3d-38.72090128642696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95eda32e743b99c5%3A0x7981638c42e04f0f!2s%C3%9Cnicos%20Multimarcas!5e0!3m2!1sen!2sar!4v1759700638798!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.2209372335124!2d-58.579462842976!3d-34.471919081141486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca54b21d7636f%3A0x460d9c4c33fa715!2sMalvinas%20Argentinas%204395%2C%20B1644CAO%20Victoria%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1sen!2sar!4v1759705276524!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 8:30 a 13 y 15:30 a 19hs',
-    'Sábado 9 a 12:30hs',
+    'Lunes a Viernes 09:00 a 20:00hs',
+    'Sábado 10:00 a 13:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://unicosmultimarcas.vercel.app/',
-  title: 'Unicos Multimarcas - Compra y Venta de Autos',
+  metadataBase: 'https://panareagallerycars.vercel.app/',
+  title: 'Panarea Gallery Cars - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
