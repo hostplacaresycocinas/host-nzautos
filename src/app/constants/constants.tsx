@@ -2,23 +2,23 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: true,
+  favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'colachiautomotores',
-  name: 'Colachi Automotores',
-  adress: 'Puan 1836',
-  city: 'Mar del Plata',
-  email: null,
-  instagram: 'matiascolachiautomotores',
-  facebook: 'https://www.facebook.com/COLACHIAUTOMOTORES/',
-  whatsapp: ['2235184293', '2235448525'],
-  googlemapsLink: 'https://maps.app.goo.gl/b6sXpoR57P1k6yz86',
+  id: 'cuatrowheels',
+  name: 'Cuatro Wheels',
+  adress: 'Av. Martin Fierro 3361',
+  city: 'Ituzaingó',
+  email: 'cuatrowheelsautos@hotmail.com',
+  instagram: 'cuatrowheelsautos',
+  facebook: 'https://www.facebook.com/4wheelsautos/',
+  whatsapp: ['1162165625', '1168949442', '1122046982'],
+  googlemapsLink: 'https://maps.app.goo.gl/w4sgqDQSFDhgxBK4A',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d785.3088335663463!2d-57.549367371420864!3d-38.06490014236819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584ddff3c9084fd%3A0xba6f5db9dbd74b21!2sMatias%20Colachi%20Automotores!5e0!3m2!1sen!2sar!4v1759415895902!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.1978660816603!2d-58.69765018732912!3d-34.62443975848244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbf7a6df68c31%3A0xfaf70500ac3dce05!2s4%20wheels%20autos!5e0!3m2!1sen!2sar!4v1759646061290!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:00 a 18:00hs',
-    'Sábados 09:00 a 13:00hs',
+    'Lunes a Sábado 09:00 a 17:00hs',
+    'Domingo Cerrado',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://colachiautomotores.vercel.app/',
-  title: 'Colachi Automotores - Compra y Venta de Autos',
+  metadataBase: 'https://cuatrowheels.vercel.app/',
+  title: 'Cuatro Wheels - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
