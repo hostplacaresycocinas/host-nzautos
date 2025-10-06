@@ -2,23 +2,23 @@ export const company = {
   dark: false,
   darkmode: true,
   shortAdress: true,
-  favicon: false,
+  favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'cuatrowheels',
-  name: 'Cuatro Wheels',
-  adress: 'Av. Martin Fierro 3361',
-  city: 'Ituzaingó',
-  email: 'cuatrowheelsautos@hotmail.com',
-  instagram: 'cuatrowheelsautos',
-  facebook: 'https://www.facebook.com/4wheelsautos/',
-  whatsapp: ['1162165625', '1168949442', '1122046982'],
-  googlemapsLink: 'https://maps.app.goo.gl/w4sgqDQSFDhgxBK4A',
+  id: 'unicosmultimarcas',
+  name: 'Unicos Multimarcas',
+  adress: 'Brandsen 234',
+  city: 'Bahía Blanca',
+  email: null,
+  instagram: 'unicosmultimarcas',
+  facebook: 'https://www.facebook.com/conradoragadaleunicos/',
+  whatsapp: ['2914125371'],
+  googlemapsLink: 'https://maps.app.goo.gl/vKzMPuEwrZRaumEF6',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.1978660816603!2d-58.69765018732912!3d-34.62443975848244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbf7a6df68c31%3A0xfaf70500ac3dce05!2s4%20wheels%20autos!5e0!3m2!1sen!2sar!4v1759646061290!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3112.8653073414835!2d-62.25953372322847!3d-38.72090128642696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95eda32e743b99c5%3A0x7981638c42e04f0f!2s%C3%9Cnicos%20Multimarcas!5e0!3m2!1sen!2sar!4v1759700638798!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Sábado 09:00 a 17:00hs',
-    'Domingo Cerrado',
+    'Lunes a Viernes 8:30 a 13 y 15:30 a 19hs',
+    'Sábado 9 a 12:30hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://cuatrowheels.vercel.app/',
-  title: 'Cuatro Wheels - Compra y Venta de Autos',
+  metadataBase: 'https://unicosmultimarcas.vercel.app/',
+  title: 'Unicos Multimarcas - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
