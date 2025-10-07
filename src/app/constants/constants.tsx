@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'islandmotors',
-  name: 'Island Motors',
-  adress: 'Av. Pres. Perón 6200',
-  city: 'Castelar',
-  email: 'automovilesmultimarcaa@gmail.com',
-  instagram: 'islandmotors_',
-  facebook: 'https://www.facebook.com/IslandMotorss/',
-  whatsapp: ['1137427026'],
-  googlemapsLink: 'https://maps.app.goo.gl/4D2rT691Z4d2wivB8',
+  id: 'maioautos',
+  name: 'Maio Autos',
+  adress: 'C. 50 2849',
+  city: 'Necochea',
+  email: 'mati.maio@hotmail.com',
+  instagram: 'maioautos',
+  facebook: 'https://www.facebook.com/automotoresmaio/',
+  whatsapp: ['2262467776'],
+  googlemapsLink: 'https://maps.app.goo.gl/oH1ST1gUFMgAjZHK9',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.901445930692!2d-58.65057416769796!3d-34.63193074238384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbf0023cd6d3d%3A0x22a3958c7a9d68ba!2sISLAND%20MOTORS!5e0!3m2!1sen!2sar!4v1759757805694!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6239.570079097153!2d-58.7423952913086!3d-38.56176618789638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x958f97dfcb789e0f%3A0x30385db9383a6893!2sMaio%20Automotores!5e0!3m2!1sen!2sar!4v1759807086785!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:00 a 18:00hs',
-    'Con cita Previa',
+    'Lunes a Viernes 8 a 13 y 17 a 20:30hs',
+    'Sábado 9 a 18hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://islandmotors.vercel.app/',
-  title: 'Island Motors - Compra y Venta de Autos',
+  metadataBase: 'https://maioautos.vercel.app/',
+  title: 'Maio Autos - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
