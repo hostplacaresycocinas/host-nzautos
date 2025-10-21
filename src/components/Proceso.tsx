@@ -3,31 +3,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
-import { company } from '@/app/constants/constants';
-
-const beneficios = [
-  {
-    numero: '01',
-    titulo: 'MEJOR PRECIO GARANTIZADO',
-    descripcion:
-      'Con nuestro modelo de negocios y trayectoria en el mercado nos ahorramos costos operativos para garantizarte un precio acorde.',
-    color: 'bg-neutral-400',
-  },
-  {
-    numero: '02',
-    titulo: 'REVISIÓN Y ACOMODACIÓN',
-    descripcion:
-      'Todos los vehículos pasan por una exhaustiva revisión, para garantizar un óptimo funcionamiento de los vehículos.',
-    color: 'bg-blue-500',
-  },
-  {
-    numero: '03',
-    titulo: 'DOCUMENTACIÓN ÁGIL',
-    descripcion:
-      'Te ofrecemos operaciones rápidas para que puedas disfrutar de tu nuevo vehículo sin preocupaciones extra.',
-    color: 'bg-neutral-400',
-  },
-];
 
 const Proceso = () => {
   return (

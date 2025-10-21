@@ -5,20 +5,20 @@ export const company = {
   favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'branchesiautomotores',
-  name: 'Branchesi Automotores',
-  adress: 'Acceso Kirchner 1525',
-  city: 'Pehuajó',
-  email: 'robranche@hotmail.com',
-  instagram: 'branchesiautomotores',
-  facebook: 'https://www.facebook.com/rodribranchesiautomotores/',
-  whatsapp: ['2396517584'],
-  googlemapsLink: 'https://maps.app.goo.gl/Ds7eRAK81rUTmqfB8',
+  id: 'lagarage',
+  name: 'La Garage',
+  adress: 'Agustin de Vedia 135',
+  city: 'Canning',
+  email: 'juanidiaz123@me.com',
+  instagram: 'lagaragecars',
+  facebook: 'https://www.facebook.com/profile.php?id=61563592786774',
+  whatsapp: ['1137581826'],
+  googlemapsLink: 'https://maps.app.goo.gl/pHWguur4F4vA6KG37',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.0526823974965!2d-61.876762422857325!3d-35.823183122922785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95c0f70037035309%3A0xaf63daefeba3c62b!2sBranchesi%20Automotores!5e0!3m2!1sen!2sar!4v1760246918985!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.3024342684544!2d-58.515432823382994!3d-34.84862737047529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd18811c60f65%3A0x9e836da9323150c2!2sLa%20Garage%20Canning!5e0!3m2!1ses!2sar!4v1760069268163!5m2!1ses!2sar',
   openDays: [
-    'Lunes a Viernes 9 a 12 y 17 a 19:30hs',
-    'Sábado 9 a 12hs',
+    'Lunes a Viernes 10:00 a 19:00hs',
+    'Sábado 10:00 a 18:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://branchesiautomotores.vercel.app/',
-  title: 'Branchesi Automotores - Compra y Venta de Autos',
+  metadataBase: 'https://lagarage.vercel.app/',
+  title: 'La Garage - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };

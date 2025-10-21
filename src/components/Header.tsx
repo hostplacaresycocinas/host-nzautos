@@ -47,7 +47,7 @@ const Header = () => {
                 <div className='relative'>
                   <Image
                     priority
-                    className='w-[60px] h-[60px] sm:w-[65px] sm:h-[65px] lg:w-[70px] lg:h-[70px] object-contain transition-transform duration-300 group-hover:scale-105'
+                    className='w-[60px] h-[60px] sm:w-[65px] sm:h-[65px] lg:w-[70px] lg:h-[70px] object-contain transition-opacity duration-300 group-hover:opacity-80'
                     src='/assets/company/favicon.webp'
                     alt={`${company.name} favicon`}
                     width={60}
@@ -81,7 +81,7 @@ const Header = () => {
 
           {/* Desktop Navigation */}
           <nav className='hidden md:flex items-center gap-6 lg:gap-10'>
-            {navigation.map((nav, index) => {
+            {navigation.map((nav) => {
               const isActive = pathname === nav.url;
               const isContactButton = nav.button;
 
@@ -189,7 +189,7 @@ const Header = () => {
               className='fixed right-0 top-[73px] md:top-[81px] h-[calc(100vh-73px)] md:h-[calc(100vh-81px)] w-[280px] sm:w-[320px] bg-black/95 backdrop-blur-xl border-l border-neutral-700/50 shadow-2xl md:hidden overflow-y-auto'
             >
               <ul className='flex flex-col gap-1 p-6'>
-                {navigation.map((nav, index) => {
+                {navigation.map((nav) => {
                   const isActive = pathname === nav.url;
                   const isContactButton = nav.button;
 
