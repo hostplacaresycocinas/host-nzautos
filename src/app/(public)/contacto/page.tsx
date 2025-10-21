@@ -27,7 +27,7 @@ const ContactoPage = () => {
               className='object-cover'
               priority
             />
-            <div className='absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-black/80'></div>
+            <div className='absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-black/80 md:from-black/90 md:via-black/70 md:to-black/90'></div>
           </div>
 
           {/* Contenido centrado */}
@@ -163,7 +163,9 @@ const ContactoPage = () => {
                     viewport={{ once: true }}
                     className='px-6 py-3'
                   >
-                    <p className='text-white font-semibold text-lg'>{day}</p>
+                    <p className='text-white font-semibold text-lg text-center'>
+                      {day}
+                    </p>
                   </motion.div>
                 ))}
               </div>
