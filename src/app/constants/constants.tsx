@@ -5,20 +5,20 @@ export const company = {
   favicon: true,
   price: true,
   objectCover: '50%',
-  id: 'maioautos',
-  name: 'Maio Autos',
-  adress: 'C. 50 2849',
-  city: 'Necochea',
-  email: 'mati.maio@hotmail.com',
-  instagram: 'maioautos',
-  facebook: 'https://www.facebook.com/automotoresmaio/',
-  whatsapp: ['2262467776'],
-  googlemapsLink: 'https://maps.app.goo.gl/oH1ST1gUFMgAjZHK9',
+  id: 'branchesiautomotores',
+  name: 'Branchesi Automotores',
+  adress: 'Acceso Kirchner 1525',
+  city: 'Pehuajó',
+  email: 'robranche@hotmail.com',
+  instagram: 'branchesiautomotores',
+  facebook: 'https://www.facebook.com/rodribranchesiautomotores/',
+  whatsapp: ['2396517584'],
+  googlemapsLink: 'https://maps.app.goo.gl/Ds7eRAK81rUTmqfB8',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6239.570079097153!2d-58.7423952913086!3d-38.56176618789638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x958f97dfcb789e0f%3A0x30385db9383a6893!2sMaio%20Automotores!5e0!3m2!1sen!2sar!4v1759807086785!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.0526823974965!2d-61.876762422857325!3d-35.823183122922785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95c0f70037035309%3A0xaf63daefeba3c62b!2sBranchesi%20Automotores!5e0!3m2!1sen!2sar!4v1760246918985!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 8 a 13 y 17 a 20:30hs',
-    'Sábado 9 a 18hs',
+    'Lunes a Viernes 9 a 12 y 17 a 19:30hs',
+    'Sábado 9 a 12hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://maioautos.vercel.app/',
-  title: 'Maio Autos - Compra y Venta de Autos',
+  metadataBase: 'https://branchesiautomotores.vercel.app/',
+  title: 'Branchesi Automotores - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };

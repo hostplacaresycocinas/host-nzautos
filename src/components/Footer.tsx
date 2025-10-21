@@ -16,7 +16,7 @@ const Footer = () => {
     <div className='relative'>
       <footer
         id='contactoSection'
-        className={`flex justify-center pt-10 shadow-top-lg relative font-medium`}
+        className={`flex justify-center pt-10 shadow-top-lg relative font-medium bg-gradient-to-b from-neutral-900 via-black to-black`}
         style={{ boxShadow: '0 -4px 6px rgba(0, 0, 0, 0.1)' }}
       >
         <div className='flex flex-col items-center w-full relative z-10'>
@@ -113,7 +113,7 @@ const Footer = () => {
                   >
                     Menú
                   </h4>
-                  <ul className='flex flex-col'>
+                  <ul className='flex flex-col gap-1'>
                     {navigation.map((link) => (
                       <li key={link.id}>
                         <Link

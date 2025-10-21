@@ -622,7 +622,9 @@ export default function AutoDetailPage() {
   return (
     <>
       <Header />
-      <div className='relative '>{renderContent()}</div>
+      <div className='relative pt-12 sm:pt-14 md:pt-16 lg:pt-20'>
+        {renderContent()}
+      </div>
       <Footer />
     </>
   );

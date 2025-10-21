@@ -10,8 +10,8 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        archivo: ['var(--font-archivo)', 'sans-serif'],
-        anton: ['var(--font-anton)', 'Anton', 'Arial Black', 'sans-serif'],
+        nunito: ['var(--font-nunito)', 'sans-serif'],
+        rubik: ['var(--font-rubik)', 'sans-serif'],
       },
       colors: {
         'color-primary': '#ffff',

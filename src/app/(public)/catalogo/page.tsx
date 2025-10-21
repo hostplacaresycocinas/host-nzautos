@@ -271,7 +271,7 @@ const CatalogoPage = () => {
   });
 
   return (
-    <div className='relative'>
+    <div className='relative pt-12 sm:pt-14 md:pt-16 lg:pt-20'>
       <section className='flex flex-col items-center w-full mb-16 md:mb-20'>
         {/* Sección de filtros modernizada */}
         <div className='w-full flex justify-center mt-8 md:mt-10'>

@@ -1,16 +1,12 @@
 import type { Metadata } from 'next';
-import { Anton, Archivo } from 'next/font/google';
+import { Nunito, Rubik } from 'next/font/google';
 import './globals.css';
 import { metadataCompany } from './constants/constants';
 import { ScrollToTopProvider } from '../components/ScrollToTopProvider';
 
-const archivo = Archivo({ subsets: ['latin'], variable: '--font-archivo' });
+const nunito = Nunito({ subsets: ['latin'], variable: '--font-nunito' });
 
-const anton = Anton({
-  subsets: ['latin'],
-  variable: '--font-anton',
-  weight: '400',
-});
+const rubik = Rubik({ subsets: ['latin'], variable: '--font-rubik' });
 
 export const metadata: Metadata = {
   metadataBase: new URL(metadataCompany.metadataBase),
@@ -26,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang='es'>
       <body
-        className={`${archivo.variable} ${anton.variable} font-archivo bg-color-bg-primary text-color-text antialiased`}
+        className={`${nunito.variable} ${rubik.variable} font-nunito bg-color-bg-primary text-color-text antialiased`}
       >
         <ScrollToTopProvider />
         {children}

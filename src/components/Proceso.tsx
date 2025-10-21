@@ -2,116 +2,148 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import { company } from '@/app/constants/constants';
 
 const beneficios = [
   {
-    titulo: 'Mejor precio garantizado',
+    numero: '01',
+    titulo: 'MEJOR PRECIO GARANTIZADO',
     descripcion:
       'Con nuestro modelo de negocios y trayectoria en el mercado nos ahorramos costos operativos para garantizarte un precio acorde.',
-    icono: (
-      <svg
-        xmlns='http://www.w3.org/2000/svg'
-        className='w-full h-full'
-        fill='currentColor'
-        viewBox='0 0 24 24'
-      >
-        <path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z' />
-      </svg>
-    ),
+    color: 'bg-neutral-400',
   },
   {
-    titulo: 'Revisión y acomodación',
+    numero: '02',
+    titulo: 'REVISIÓN Y ACOMODACIÓN',
     descripcion:
-      'Todos los vehículos pasan por una exhaustiva, para garantizar un óptimo funcionamiento de los vehículos.',
-    icono: (
-      <svg
-        xmlns='http://www.w3.org/2000/svg'
-        className='w-full h-full'
-        fill='currentColor'
-        viewBox='0 0 24 24'
-      >
-        <path d='M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z' />
-      </svg>
-    ),
+      'Todos los vehículos pasan por una exhaustiva revisión, para garantizar un óptimo funcionamiento de los vehículos.',
+    color: 'bg-blue-500',
   },
   {
-    titulo: 'Documentación ágil',
+    numero: '03',
+    titulo: 'DOCUMENTACIÓN ÁGIL',
     descripcion:
       'Te ofrecemos operaciones rápidas para que puedas disfrutar de tu nuevo vehículo sin preocupaciones extra.',
-    icono: (
-      <svg
-        xmlns='http://www.w3.org/2000/svg'
-        className='w-full h-full'
-        fill='currentColor'
-        viewBox='0 0 24 24'
-      >
-        <path d='M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z' />
-      </svg>
-    ),
+    color: 'bg-neutral-400',
   },
 ];
 
 const Proceso = () => {
   return (
-    <section
-      className={`flex flex-col items-center justify-center py-10 md:py-16 `}
-    >
-      <div className='max-w-7xl w-full flex flex-col px-4 md:px-8'>
-        {/* Título */}
-        <div className='text-center mb-8 md:mb-12'>
-          <motion.h2
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
-            viewport={{ once: true, margin: '0px 0px -100px 0px' }}
-            className={`text-2xl md:text-3xl lg:text-4xl font-extrabold mb-4 ${
-              company.darkmode ? 'text-color-title-light' : 'text-blue-900'
-            }`}
+    <section className='flex flex-col items-center justify-center py-16 md:py-20 lg:py-24'>
+      <div className='max-w-7xl w-full px-4 md:px-8'>
+        <div className='lg:relative flex justify-center lg:justify-start'>
+          {/* Contenedor relativo para imagen y textos */}
+          <motion.div
+            initial={{ opacity: 0, x: -50 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.6 }}
+            viewport={{ once: true }}
+            className='lg:relative w-full flex flex-col items-center justify-center gap-8 lg:gap-0'
           >
-            ¿Por qué comprar en {company.name}?
-          </motion.h2>
-        </div>
+            {/* Imagen circular - solo visible en lg */}
+            <div className='hidden lg:flex relative items-center h-[500px] w-full rounded-full overflow-hidden mx-auto'>
+              <Image
+                src='/assets/proceso/proceso-1.webp'
+                alt='Proceso'
+                width={500}
+                height={500}
+                className='object-contain'
+                priority
+              />
+            </div>
 
-        {/* Layout de tres columnas */}
-        <div className='grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 lg:gap-12'>
-          {beneficios.map((b, i) => (
+            {/* Beneficio 01 */}
             <motion.div
-              key={i}
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: i * 0.1 }}
-              viewport={{ once: true, margin: '0px 0px -100px 0px' }}
-              className='flex flex-col items-center text-center'
+              initial={{ opacity: 0, x: 50 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.6, delay: 0 }}
+              viewport={{ once: true }}
+              className='lg:absolute lg:mr-40 lg:right-0 lg:top-0 flex flex-col lg:flex-row items-center justify-center lg:justify-start gap-5 text-center lg:text-left'
             >
-              {/* Icono */}
-              <div
-                className={`flex items-center justify-center w-16 h-16 md:w-20 md:h-20 mb-4 md:mb-6 ${
-                  company.darkmode ? 'text-color-primary' : 'text-blue-600'
-                }`}
-              >
-                {b.icono}
+              {/* Círculo con número */}
+              <div className='flex-shrink-0 relative z-10'>
+                <div className='w-16 h-16 md:w-20 md:h-20 rounded-full bg-gradient-to-br from-white to-neutral-400 flex items-center justify-center shadow-lg shadow-neutral-500/30'>
+                  <span className='text-black font-bold text-lg md:text-xl'>
+                    01
+                  </span>
+                </div>
               </div>
 
-              {/* Título */}
-              <h3
-                className={`text-xl md:text-2xl font-bold mb-3 md:mb-4 ${
-                  company.darkmode ? 'text-color-title-light' : 'text-blue-900'
-                }`}
-              >
-                {b.titulo}
-              </h3>
-
-              {/* Descripción */}
-              <p
-                className={`text-sm md:text-base leading-relaxed max-w-sm ${
-                  company.darkmode ? 'text-color-text-light' : 'text-gray-600'
-                }`}
-              >
-                {b.descripcion}
-              </p>
+              {/* Contenido de texto */}
+              <div className='pt-2'>
+                <h3 className='text-xl md:text-2xl lg:text-3xl font-bold text-white'>
+                  Mejor precio garantizado
+                </h3>
+                <p className='text-sm md:text-base lg:text-lg text-neutral-300 leading-relaxed max-w-md md:max-w-lg lg:max-w-xl'>
+                  Con nuestro modelo de negocios y trayectoria en el mercado nos
+                  ahorramos costos operativos para garantizarte un precio
+                  acorde.
+                </p>
+              </div>
             </motion.div>
-          ))}
+
+            {/* Beneficio 02 */}
+            <motion.div
+              initial={{ opacity: 0, x: 50 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              viewport={{ once: true }}
+              className='lg:absolute lg:mr-20 lg:right-0 lg:top-0 lg:h-full flex items-center justify-center lg:justify-end'
+            >
+              <div className='flex flex-col lg:flex-row items-center gap-5 text-center lg:text-left'>
+                {/* Círculo con número */}
+                <div className='flex-shrink-0 relative z-10 right-0'>
+                  <div className='w-16 h-16 md:w-20 md:h-20 rounded-full bg-gradient-to-br from-white to-neutral-400 flex items-center justify-center shadow-lg shadow-neutral-500/30'>
+                    <span className='text-black font-bold text-lg md:text-xl'>
+                      02
+                    </span>
+                  </div>
+                </div>
+
+                {/* Contenido de texto */}
+                <div className='pt-2'>
+                  <h3 className='text-xl md:text-2xl lg:text-3xl font-bold text-white'>
+                    Revisión y acomodación
+                  </h3>
+                  <p className='text-sm md:text-base lg:text-lg text-neutral-300 leading-relaxed max-w-md md:max-w-lg lg:max-w-xl'>
+                    Todos los vehículos pasan por una exhaustiva revisión, para
+                    garantizar un óptimo funcionamiento de los vehículos.
+                  </p>
+                </div>
+              </div>
+            </motion.div>
+
+            {/* Beneficio 03 */}
+            <motion.div
+              initial={{ opacity: 0, x: 50 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.6, delay: 0.4 }}
+              viewport={{ once: true }}
+              className='lg:absolute lg:mr-40 lg:right-0 lg:bottom-0 flex flex-col lg:flex-row items-center justify-center lg:justify-start gap-5 text-center lg:text-left'
+            >
+              {/* Círculo con número */}
+              <div className='flex-shrink-0 relative z-10'>
+                <div className='w-16 h-16 md:w-20 md:h-20 rounded-full bg-gradient-to-br from-white to-neutral-400 flex items-center justify-center shadow-lg shadow-neutral-500/30'>
+                  <span className='text-black font-bold text-lg md:text-xl'>
+                    03
+                  </span>
+                </div>
+              </div>
+
+              {/* Contenido de texto */}
+              <div className='pt-2'>
+                <h3 className='text-xl md:text-2xl lg:text-3xl font-bold text-white'>
+                  Documentación ágil
+                </h3>
+                <p className='text-sm md:text-base lg:text-lg text-neutral-300 leading-relaxed max-w-md md:max-w-lg lg:max-w-xl'>
+                  Te ofrecemos operaciones rápidas para que puedas disfrutar de
+                  tu nuevo vehículo sin preocupaciones extra.
+                </p>
+              </div>
+            </motion.div>
+          </motion.div>
         </div>
       </div>
     </section>

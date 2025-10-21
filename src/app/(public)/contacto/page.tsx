@@ -17,7 +17,7 @@ const ContactoPage = () => {
       <Header />
       <div className=''>
         {/* Hero Section con imagen de fondo */}
-        <section className='relative h-44 md:h-60 lg:h-72 flex items-center justify-center overflow-hidden'>
+        <section className='relative h-64 md:h-72 lg:h-80 pt-10 flex items-center justify-center overflow-hidden'>
           {/* Imagen de fondo con overlay */}
           <div className='absolute inset-0 z-0'>
             <Image
@@ -38,7 +38,7 @@ const ContactoPage = () => {
               transition={{ duration: 0.6 }}
               className='text-2xl md:text-3xl lg:text-4xl font-semibold text-color-primary-light mb-3 md:mb-4 lg:mb-6'
             >
-              Sobre Nosotros
+              Contacto
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 30 }}
@@ -52,162 +52,141 @@ const ContactoPage = () => {
         </section>
 
         {/* Información de contacto principal */}
-        <section className='mt-8 mb-16 md:mt-12 md:mb-24'>
-          <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
-            <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-start'>
-              {/* Columna izquierda - Información de contacto */}
-              <div className='space-y-8'>
-                {/* Tarjetas de contacto */}
-                <div className='space-y-6'>
-                  {/* WhatsApp */}
-                  <motion.a
-                    href={`https://api.whatsapp.com/send?phone=549${company.whatsapp[0]}&text=Hola! Quería hacer una consulta sobre un vehículo`}
-                    target='_blank'
-                    rel='noopener noreferrer'
-                    initial={{ opacity: 0, y: 20 }}
-                    whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.5, delay: 0.3 }}
-                    viewport={{ once: true }}
-                    className='group flex items-center p-4 md:p-6 bg-color-bg-secondary rounded-2xl shadow-lg hover:shadow-xl transition-colors duration-300 border border-neutral-500 hover:border-color-primary/30'
-                  >
-                    <div className='flex-shrink-0 w-14 h-14 bg-gradient-to-l from-neutral-700 to-neutral-500 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 ease-in-out relative overflow-hidden'>
-                      <span className='relative z-10'>
-                        <WhatsappFillIcon className='w-7 h-7 text-white' />
-                      </span>
-                      <div className='absolute inset-0 bg-gradient-to-l from-neutral-600 to-neutral-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300 ease-in-out rounded-xl'></div>
-                    </div>
-                    <div className='ml-6 flex-1'>
-                      <h3 className='text-lg font-semibold text-color-title-light group-hover:text-color-primary transition-colors'>
-                        WhatsApp
-                      </h3>
-                      <p className='text-color-text-light'>
-                        {company.whatsapp[0]}
-                      </p>
-                      <p className='text-sm text-color-primary font-medium mt-1'>
-                        Mensaje directo →
-                      </p>
-                    </div>
-                  </motion.a>
+        <section className='py-16 md:py-20 lg:py-24'>
+          <div className='max-w-6xl mx-auto px-4 sm:px-6 lg:px-8'>
+            {/* Título principal */}
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6 }}
+              viewport={{ once: true }}
+              className='text-center mb-16'
+            >
+              <h2 className='text-4xl md:text-5xl font-bold text-white mb-6'>
+                Te asesoramos en todo el proceso
+              </h2>
+              <p className='text-xl text-neutral-300 max-w-2xl mx-auto'>
+                No dudes en contactarnos para cualquier consulta
+              </p>
+            </motion.div>
 
-                  {/* Instagram */}
-                  <motion.a
-                    href={`https://www.instagram.com/${company.instagram}/`}
-                    target='_blank'
-                    rel='noopener noreferrer'
-                    initial={{ opacity: 0, y: 20 }}
-                    whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.5, delay: 0.4 }}
-                    viewport={{ once: true }}
-                    className='group flex items-center p-4 md:p-6 bg-color-bg-secondary rounded-2xl shadow-lg hover:shadow-xl transition-colors duration-300 border border-neutral-500 hover:border-color-primary/30'
-                  >
-                    <div className='flex-shrink-0 w-14 h-14 bg-gradient-to-l from-neutral-700 to-neutral-500 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 ease-in-out relative overflow-hidden'>
-                      <span className='relative z-10'>
-                        <InstagramIcon className='w-7 h-7 text-white' />
-                      </span>
-                      <div className='absolute inset-0 bg-gradient-to-l from-neutral-600 to-neutral-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300 ease-in-out rounded-xl'></div>
-                    </div>
-                    <div className='ml-6 flex-1'>
-                      <h3 className='text-lg font-semibold text-color-title-light group-hover:text-color-primary transition-colors'>
-                        Instagram
-                      </h3>
-                      <p className='text-color-text-light'>
-                        @{company.instagram}
-                      </p>
-                      <p className='text-sm text-color-primary font-medium mt-1'>
-                        Seguinos →
-                      </p>
-                    </div>
-                  </motion.a>
-
-                  {/* Ubicación */}
-                  <motion.a
-                    href={company.googlemapsLink || ''}
-                    target='_blank'
-                    rel='noopener noreferrer'
-                    initial={{ opacity: 0, y: 20 }}
-                    whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.5, delay: 0.5 }}
-                    viewport={{ once: true }}
-                    className='group flex items-center p-4 md:p-6 bg-color-bg-secondary rounded-2xl shadow-lg hover:shadow-xl transition-colors duration-300 border border-neutral-500 hover:border-color-primary/30'
-                  >
-                    <div className='flex-shrink-0 w-14 h-14 bg-gradient-to-l from-neutral-700 to-neutral-500 rounded-xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 ease-in-out relative overflow-hidden'>
-                      <span className='relative z-10'>
-                        <LocationIcon className='w-7 h-7 text-white' />
-                      </span>
-                      <div className='absolute inset-0 bg-gradient-to-l from-neutral-600 to-neutral-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300 ease-in-out rounded-xl'></div>
-                    </div>
-                    <div className='ml-6 flex-1'>
-                      <h3 className='text-lg font-semibold text-color-title-light group-hover:text-color-primary transition-colors'>
-                        Ubicación
-                      </h3>
-                      <p className='text-color-text-light'>
-                        {company.adress}, {company.city}
-                      </p>
-                      <p className='text-sm text-color-primary font-medium mt-1'>
-                        Ver en Google Maps →
-                      </p>
-                    </div>
-                  </motion.a>
-                </div>
-              </div>
-
-              {/* Columna derecha - Horarios y mapa */}
-              <motion.div
+            {/* Grid de opciones de contacto */}
+            <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16'>
+              {/* WhatsApp */}
+              <motion.a
+                href={`https://api.whatsapp.com/send?phone=549${company.whatsapp[0]}&text=Hola! Quería hacer una consulta sobre un vehículo`}
+                target='_blank'
+                rel='noopener noreferrer'
                 initial={{ opacity: 0, y: 30 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.5, delay: 0.3 }}
-                viewport={{ once: true, margin: '0px 100px -100px 0px' }}
-                className='space-y-8'
+                transition={{ duration: 0.6, delay: 0.1 }}
+                viewport={{ once: true }}
+                className='group bg-white/5 backdrop-blur-sm border border-neutral-800 rounded-2xl p-8 hover:bg-white/10 text-center'
               >
-                {/* Horarios */}
-                <div className='bg-color-bg-secondary rounded-2xl shadow-lg p-8 border border-neutral-500'>
-                  <div className='flex items-center mb-6'>
-                    <div className='w-12 h-12 bg-gradient-to-l from-neutral-700 to-neutral-500 rounded-xl flex items-center justify-center'>
-                      <ClockIcon className='w-6 h-6 text-white' />
-                    </div>
-                    <h3 className='text-2xl font-bold text-color-title-light ml-4'>
-                      Horarios de atención
-                    </h3>
-                  </div>
+                <div className='w-16 h-16 bg-gradient-to-br from-neutral-100 to-neutral-400 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300'>
+                  <WhatsappFillIcon className='w-8 h-8 text-neutral-900' />
+                </div>
+                <h3 className='text-2xl font-bold text-white mb-4'>WhatsApp</h3>
+                <p className='text-neutral-300 mb-4'>{company.whatsapp[0]}</p>
+                <p className='text-neutral-100 font-medium'>Enviar mensaje →</p>
+              </motion.a>
 
-                  <div className='relative flex flex-col gap-2 sm:gap-3'>
-                    {company.openDays.map((day, index) => (
-                      <div key={index}>
-                        <motion.div
-                          initial={{ opacity: 0, y: 30 }}
-                          whileInView={{ opacity: 1, y: 0 }}
-                          transition={{
-                            duration: 0.5,
-                            delay: 0.4 + index * 0.1,
-                          }}
-                          viewport={{ once: true }}
-                          className='flex items-center justify-between p-3 sm:p-4 bg-gradient-to-r from-color-bg-secondary-dark/80 to-color-bg-secondary/80 rounded-xl sm:rounded-2xl border border-neutral-800'
-                        >
-                          <div className='flex items-center space-x-2 sm:space-x-4'>
-                            <div className='w-2 h-2 sm:w-3 sm:h-3 bg-color-primary rounded-full shadow-sm'></div>
-                            <span className='font-bold text-color-title-light text-sm sm:text-base lg:text-lg'>
-                              {day}
-                            </span>
-                          </div>
-                        </motion.div>
-                      </div>
-                    ))}
-                  </div>
+              {/* Instagram */}
+              <motion.a
+                href={`https://www.instagram.com/${company.instagram}/`}
+                target='_blank'
+                rel='noopener noreferrer'
+                initial={{ opacity: 0, y: 30 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.6, delay: 0.2 }}
+                viewport={{ once: true }}
+                className='group bg-white/5 backdrop-blur-sm border border-neutral-800 rounded-2xl p-8 hover:bg-white/10 text-center'
+              >
+                <div className='w-16 h-16 bg-gradient-to-br from-neutral-100 to-neutral-400 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300'>
+                  <InstagramIcon className='w-8 h-8 text-neutral-900' />
                 </div>
-              </motion.div>
-              <div className='bg-color-bg-secondary rounded-2xl shadow-lg overflow-hidden border border-neutral-500 lg:col-span-2'>
-                <div className='relative'>
-                  <iframe
-                    className='w-full h-64 md:h-80 lg:h-96'
-                    src={`${company.googlemaps}`}
-                    width='100%'
-                    height='256'
-                    loading='lazy'
-                    referrerPolicy='no-referrer-when-downgrade'
-                  ></iframe>
+                <h3 className='text-2xl font-bold text-white mb-4'>
+                  Instagram
+                </h3>
+                <p className='text-neutral-300 mb-4'>@{company.instagram}</p>
+                <p className='text-neutral-100 font-medium'>Seguir →</p>
+              </motion.a>
+
+              {/* Ubicación */}
+              <motion.a
+                href={company.googlemapsLink || ''}
+                target='_blank'
+                rel='noopener noreferrer'
+                initial={{ opacity: 0, y: 30 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.6, delay: 0.3 }}
+                viewport={{ once: true }}
+                className='group bg-white/5 backdrop-blur-sm border border-neutral-800 rounded-2xl p-8 hover:bg-white/10 text-center'
+              >
+                <div className='w-16 h-16 bg-gradient-to-br from-neutral-100 to-neutral-400 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300'>
+                  <LocationIcon className='w-8 h-8 text-neutral-900' />
                 </div>
-              </div>
+                <h3 className='text-2xl font-bold text-white mb-4'>
+                  Ubicación
+                </h3>
+                <p className='text-neutral-300 mb-4'>
+                  {company.adress}, {company.city}
+                </p>
+                <p className='text-neutral-100 font-medium'>Ver en Maps →</p>
+              </motion.a>
             </div>
+
+            {/* Horarios */}
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.4 }}
+              viewport={{ once: true }}
+              className='mb-16'
+            >
+              <div className='text-center mb-3'>
+                <div className='w-16 h-16 bg-neutral-100 rounded-full flex items-center justify-center mx-auto mb-4'>
+                  <ClockIcon className='w-8 h-8 text-black' />
+                </div>
+                <h3 className='text-3xl font-bold text-white mb-2'>
+                  Horarios de Atención
+                </h3>
+              </div>
+
+              <div className='flex flex-col items-center justify-center max-w-4xl mx-auto'>
+                {company.openDays.map((day, index) => (
+                  <motion.div
+                    key={index}
+                    initial={{ opacity: 0, y: 20 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.5, delay: 0.5 + index * 0.1 }}
+                    viewport={{ once: true }}
+                    className='px-6 py-3'
+                  >
+                    <p className='text-white font-semibold text-lg'>{day}</p>
+                  </motion.div>
+                ))}
+              </div>
+            </motion.div>
+
+            {/* Mapa */}
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.6 }}
+              viewport={{ once: true }}
+            >
+              <div className='relative'>
+                <iframe
+                  className='w-full h-64 md:h-80 lg:h-96 rounded-2xl'
+                  src={`${company.googlemaps}`}
+                  width='100%'
+                  height='256'
+                  loading='lazy'
+                  referrerPolicy='no-referrer-when-downgrade'
+                ></iframe>
+              </div>
+            </motion.div>
           </div>
         </section>
       </div>
