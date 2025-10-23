@@ -28,14 +28,14 @@ const Header = () => {
 
   return (
     <motion.header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
+      className={`fixed h-20 md:h-24 top-0 left-0 right-0 z-50 transition-all duration-500 ${
         scrolled
           ? 'bg-black shadow-lg shadow-black/20'
           : 'bg-gradient-to-b from-black/80 via-black/60 to-transparent md:via-black/60'
       }`}
     >
-      <div className='flex justify-center'>
-        <section className='flex justify-between items-center gap-4 md:gap-8 lg:gap-16 py-4 md:py-5 max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10'>
+      <div className='flex justify-center h-full items-center'>
+        <section className='flex justify-between items-center gap-4 md:gap-8 lg:gap-16 max-w-7xl w-full mx-4 sm:mx-6 md:mx-8 lg:mx-10'>
           {/* Logo */}
           <Link
             className='flex items-center gap-3 md:gap-4 group'
@@ -66,7 +66,7 @@ const Header = () => {
                 </div>
               </>
             ) : (
-              <div className='h-[52px] md:h-14 w-48 sm:w-56 lg:w-64'>
+              <div className='h-[52px] md:h-16 w-48 sm:w-56 lg:w-64'>
                 <Image
                   priority
                   className='h-full w-full object-contain object-left'

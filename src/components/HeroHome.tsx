@@ -38,7 +38,8 @@ const HeroHome = () => {
                   transition={{ duration: 0.5, delay: 0.1 }}
                   className='text-3xl font-bold lg:font-semibold sm:text-4xl md:text-4xl lg:text-5xl xl:text-7xl bg-gradient-to-r from-white to-neutral-300 bg-clip-text text-transparent'
                 >
-                  con nosotros
+                  {/* con nosotros */}
+                  en {company.name}
                 </motion.h2>
               </div>
             </div>

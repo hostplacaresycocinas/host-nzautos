@@ -5,20 +5,20 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'sconochiniautomotores',
-  name: 'Sconochini Automotores',
-  adress: 'Av. Centenario 2187',
-  city: 'San Isidro',
-  email: 'ventas@sconochini.com.ar',
-  instagram: 'sconochiniautomotores',
-  facebook: 'https://www.facebook.com/SconochiniAutos/',
-  whatsapp: ['1167314211', '1151852894'],
-  googlemapsLink: 'https://maps.app.goo.gl/rSRdHqKNyzVUNyBx8',
+  id: 'nzautomotores',
+  name: 'NZ Automotores',
+  adress: 'Derqui 942',
+  city: 'Mar del Plata',
+  email: 'nzautomotores@gmail.com',
+  instagram: 'nz.automotores',
+  facebook: null,
+  whatsapp: ['2235900653', '2235637827'],
+  googlemapsLink: 'https://maps.app.goo.gl/cpZMxEgvxdmPTvGH9',
   googlemaps:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.733911297382!2d-58.53235282339774!3d-34.45890184986614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcafdfc6871de1%3A0x24f15ba8bf2e6720!2sSconochini%20Automotores!5e0!3m2!1sen!2sar!4v1761071341497!5m2!1sen!2sar',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.2782138370017!2d-57.5452227!3d-37.9706361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584dbe77dc51d1d%3A0x4ac91ebdb76a3169!2sDerqui%20942%2C%20B7600%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1sen!2sar!4v1760305551919!5m2!1sen!2sar',
   openDays: [
-    'Lunes a Viernes 09:00 a 18:30hs',
-    'Sábado 09:00 a 13:00hs',
+    'Lunes a Viernes 09:00 a 18:00hs',
+    'Sábado 09:00 a 12:00hs',
     // { day: 'Domingo', hours: ['09:00 a 13:00hs'] },
   ],
   footer:
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://sconochiniautomotores.vercel.app/',
-  title: 'Sconochini Automotores - Compra y Venta de Autos',
+  metadataBase: 'https://nzautomotores.vercel.app/',
+  title: 'NZ Automotores - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
