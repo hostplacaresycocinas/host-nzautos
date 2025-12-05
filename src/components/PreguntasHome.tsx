@@ -45,7 +45,7 @@ const PreguntasHome = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: index * 0.1 }}
-              className={`border rounded-lg overflow-hidden duration-300 ${
+              className={`border rounded-lg overflow-hidden ${
                 activeAnswer === pregunta.id
                   ? 'border-neutral-600 bg-neutral-900/30 shadow-lg'
                   : 'border-neutral-800 hover:border-neutral-700'
@@ -53,7 +53,7 @@ const PreguntasHome = () => {
             >
               <button
                 onClick={() => toggleAnswer(pregunta.id)}
-                className={`bg-white/5 backdrop-blur-sm w-full px-6 py-4 text-left flex items-center justify-between transition-colors duration-300 ${
+                className={`bg-white/5 backdrop-blur-sm w-full px-6 py-4 text-left flex items-center justify-between transition-colors ${
                   activeAnswer === pregunta.id
                     ? 'bg-neutral-800/50'
                     : 'hover:bg-neutral-900/50'

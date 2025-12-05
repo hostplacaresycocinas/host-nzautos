@@ -40,33 +40,33 @@ export const metadataCompany = {
 export const preguntas = [
   {
     id: 'preg-1',
-    question: '¿Qué opciones de pago ofrecen?',
+    question: '¿Qué formas de pago aceptan?',
     answer:
-      'Ofrecemos diferentes opciones de pago para adaptarnos a tus necesidades. Consultanos sobre las alternativas disponibles y te asesoramos para encontrar la mejor opción para ti.',
+      'Aceptamos diferentes modalidades de pago: efectivo, transferencia bancaria y otras opciones que pueden variar según el vehículo. Te recomendamos consultar directamente con nuestro equipo para conocer las alternativas disponibles para el modelo que te interesa.',
   },
   {
     id: 'preg-2',
-    question: '¿Cómo verifican el estado de los vehículos?',
+    question: '¿Aceptan vehículos como parte de pago?',
     answer:
-      'Todos nuestros vehículos son revisados antes de ser ofrecidos. Realizamos las verificaciones necesarias para asegurar que estén en las mejores condiciones para nuestros clientes.',
+      'Evaluamos permutas y canjes según cada caso particular. El valor de tu vehículo se determina mediante una inspección presencial. Contactanos para coordinar una evaluación y conocer las condiciones específicas.',
   },
   {
     id: 'preg-3',
-    question: '¿Incluyen algún tipo de garantía?',
+    question: '¿Ofrecen financiación?',
     answer:
-      'Sí, nuestros vehículos incluyen garantía según corresponda. Te informamos sobre los términos y condiciones al momento de la compra para tu tranquilidad.',
+      'Trabajamos con diferentes opciones de financiación. Las condiciones y requisitos pueden variar según el vehículo y tu perfil crediticio. Te invitamos a consultarnos para conocer las alternativas disponibles y los requisitos necesarios.',
   },
   {
     id: 'preg-4',
-    question: '¿Puedo ver el vehículo antes de decidir?',
+    question: '¿Los vehículos tienen toda la documentación en regla?',
     answer:
-      'Por supuesto, te invitamos a conocer nuestros vehículos personalmente. Coordina una visita con nuestro equipo y te mostramos todo lo que necesites saber.',
+      'Todos nuestros vehículos cuentan con la documentación correspondiente. Al momento de la compra, te entregamos toda la documentación necesaria para la transferencia. Te recomendamos revisar los detalles específicos de cada unidad con nuestro equipo.',
   },
   {
     id: 'preg-5',
-    question: '¿Brindan asesoramiento después de la compra?',
+    question: '¿Cómo puedo ver los vehículos disponibles?',
     answer:
-      'Sí, nuestro compromiso continúa después de la compra. Estamos disponibles para resolver tus dudas y brindarte el apoyo que necesites con tu vehículo.',
+      'Podes ver todos nuestros vehículos disponibles en nuestro catálogo online. Si te interesa algún modelo en particular, te invitamos a contactarnos para coordinar una visita y conocer más detalles sobre la unidad que te interesa.',
   },
 ];
 
