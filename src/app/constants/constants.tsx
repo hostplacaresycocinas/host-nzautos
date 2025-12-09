@@ -5,8 +5,8 @@ export const company = {
   favicon: false,
   price: true,
   objectCover: '50%',
-  id: 'nzautomotores',
-  name: 'NZ Automotores',
+  id: 'nzautos',
+  name: 'NZ Autos',
   adress: 'Derqui 942',
   city: 'Mar del Plata',
   email: 'nzautomotores@gmail.com',
@@ -29,8 +29,8 @@ export const API_BASE_URL = 'https://only-motors.agenciagrvity.com';
 export const TENANT = 'car-ant';
 
 export const metadataCompany = {
-  metadataBase: 'https://nzautomotores.vercel.app/',
-  title: 'NZ Automotores - Compra y Venta de Autos',
+  metadataBase: 'https://nzautos.com.ar/',
+  title: 'NZ Autos - Compra y Venta de Autos',
   description:
     'Compra y Venta de Autos: Vehículos seleccionados, atención personalizada.',
 };
